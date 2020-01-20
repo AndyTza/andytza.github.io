@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /outreach/
-title: "science communication"
+title: "Outreach"
 author_profile: true
 ---
 

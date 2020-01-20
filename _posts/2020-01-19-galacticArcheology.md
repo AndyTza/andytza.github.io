@@ -1,5 +1,5 @@
 ---
-title: "Research Project: Galactic Archeology"
+title: "Galactic Archeology"
 date: 2020-01-19
 tags: [astronomy]
 excerpt: "astronomy research"
