@@ -25,4 +25,4 @@ A complete list of my publications can be found on my [NASA ADS](https://ui.adsa
 
 Tzanidakis, A.,; Johnston, K.V,; Sheffield A. A. and Price-Whelan, A. M.,Mapping Galactic Oscillations with M Giants in Gaia DR2.Columbia University, 2019 (B.A senior thesis)
 
-[Construction and Set-up of Low-Budget Radio Telescope at Rutherford Observatory, Columbia University, New York. Observational Astrophysics (ASTR C3646).](https://github.com/AndyTza/Columbia-University-Radio-Astronomy-Consortium/blob/master/Columbia%20Radio%20Astronomy%20Consortium%20Begining%20and%20Set-up.pdf)
+[Construction and Set-up of Low-Budget Radio Telescope at Rutherford Observatory, Columbia University, New York. Observational Astrophysics (ASTR C3646).](https://github.com/AndyTza/Columbia-University-Radio-Astronomy-Consortium/raw/master/Columbia%20Radio%20Astronomy%20Consortium%20Begining%20and%20Set-up.pdf)
