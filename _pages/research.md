@@ -14,7 +14,7 @@ ___
 ___
 
 new image 1
-![alt text](/images/mw.png "Logo Title Text 1")
+![alt text](/images/mw.png "Viewing angle from different observers, what the disk looks like!")
 
 ### Open-Source Observational Astronomy Tools
 ___
