@@ -1,33 +1,22 @@
 ---
-title: "Welcome!"
+title: "Local Galaxies with Gaia DR2"
 date: 2020-01-19
 tags: [astronomy]
 excerpt: "astronomy research"
 ---
 
-*Currently working on developing this section -- please return later :-)*
-___
+
+### Fun *Gaia DR2* Data Viz Project
+
+*April 25 2018, New York City*
 
 
-# H1 Heading
-
-## H2 Heading
-
-Here is some basic text
-
-*this is italics*
-
-**bold text**
-
-hyper link
+![alt text](/images/gal0.gif "Viewing angle from different observers, what the disk looks like!" height="300" width="300")
 
 
-python code block:
-```python
-    import numpy as np
-    import astropy.io
-```
+![alt text](/images/gal1.gif "Viewing angle from different observers, what the disk looks like!" height="300" width="300")
 
-here's some math:
 
-$$ x=f^{2} + 1$$
+![alt text](/images/gal2.gif "Viewing angle from different observers, what the disk looks like!" height="300" width="300")
+
+![alt text](/images/gal3.gif "Viewing angle from different observers, what the disk looks like!" height="300" width="300")

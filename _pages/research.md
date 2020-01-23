@@ -5,13 +5,22 @@ title: "Research projects"
 author_profile: true
 ---
 
+*work in progress, please come back if you would like to hear more about my research*
+
+
 ### Supernovae Populations & Luminosity Function
 ___
 
 `abc`
 
-### Galactic Archeology: Galactic Disk
+### Galactic Archeology: Tomography of the Galactic Disk
 ___
+
+What does the Milky Way look like from an external perspective? Flat with spiral arms, or puffy.
+
+The landscape of the Milky Way's disk is
+
+
 
 new image 1
 ![alt text](/images/mw.png "Viewing angle from different observers, what the disk looks like!" height="300" width="150")
