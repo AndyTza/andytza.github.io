@@ -1,8 +1,8 @@
 ---
 title: "Local Galaxies with Gaia DR2"
 date: 2020-01-19
-tags: [astronomy]
-excerpt: "astronomy research"
+tags: [astronomy, gaiadr2]
+excerpt: "Data-viz with Gaia DR2"
 ---
 
 
