@@ -15,6 +15,8 @@ ___
 
 Here is some basic text
 
+![alt text](/images/nas-post.jpg "Logo Title Text 1")
+
 *this is italics*
 
 **bold text**
