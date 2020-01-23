@@ -13,7 +13,7 @@ ___
 ### Galactic Archeology: Galactic Disk
 ___
 
-
+![alt text](/images/mw.pdf "Logo Title Text 1")
 
 ### Open-Source Observational Astronomy Tools
 ___

@@ -5,7 +5,7 @@ tags: [astronomy]
 excerpt: "astronomy research"
 ---
 
-*Work in Progress*
+*Currently working on developing this section -- please return later :-)*
 ___
 
 
@@ -14,8 +14,6 @@ ___
 ## H2 Heading
 
 Here is some basic text
-
-![alt text](/images/nas-post.jpg "Logo Title Text 1")
 
 *this is italics*
 
