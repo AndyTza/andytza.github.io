@@ -1,9 +1,12 @@
 ---
-title: "Galactic Archeology"
+title: "Welcome!"
 date: 2020-01-19
 tags: [astronomy]
 excerpt: "astronomy research"
 ---
+
+*Work in Progress*
+___
 
 
 # H1 Heading
