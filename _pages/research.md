@@ -11,14 +11,11 @@ author_profile: true
 ### Supernovae Populations & Luminosity Function
 ___
 
-`abc`
+
 
 ### Galactic Archeology: Tomography of the Galactic Disk
 ___
 
-What does the Milky Way look like from an external perspective? Flat with spiral arms, or puffy.
-
-The landscape of the Milky Way's disk is
 
 
 
