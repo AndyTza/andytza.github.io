@@ -14,10 +14,10 @@ ___
 ___
 
 new image 1
-![alt text](/images/mw.png "Viewing angle from different observers, what the disk looks like!")
+![alt text](/images/mw.png "Viewing angle from different observers, what the disk looks like!" height="300" width="150")
 
 new animation
-![alt text](/images/sgr-col.gif "Viewing angle from different observers, what the disk looks like!")
+![alt text](/images/sgr-col.gif "Viewing angle from different observers, what the disk looks like!" height="300" width="300")
 
 
 
