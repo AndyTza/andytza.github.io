@@ -16,6 +16,11 @@ ___
 new image 1
 ![alt text](/images/mw.png "Viewing angle from different observers, what the disk looks like!")
 
+new animation
+![alt text](sgr-col.gif "Viewing angle from different observers, what the disk looks like!")
+
+
+
 ### Open-Source Observational Astronomy Tools
 ___
 
