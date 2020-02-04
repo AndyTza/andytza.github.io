@@ -7,17 +7,16 @@ excerpt: "Jupyter Notebook Gaia DR2"
 
 Author: *Andy Tzanidakis*
 
-
-Hello! Welcome to my very first official blog post! Please pardon my expressions and rambling, as an avid
+Hello!
 
 This tutorial aims to educate newcomers and students who are interested in learning how to use the *Gaia DR2* dataset and ways of visualizing the survey data. This tutorial already assumes that the user knows how to plot data with `matplotlib` or any package of their preference and some basic data controlling.
 
-I'll be covering some very basics about ADQL (Astronomical Database Query Language), however, in the resouces page you should be able to find more detailed tutorials. For the take of time, I will be explaining the very `CONE_SEARCH` to visualize galaxies in our local group.
+I'll be covering some very basics about ADQL (Astronomical Database Query Language), however, in the resources page you should be able to find more detailed tutorials. For the take of time, I will be explaining the very `CONE_SEARCH` to visualize galaxies in our local group.
 
 The scope of this tutorial? Friendly introduction to querying *Gaia DR2* data, and it's always fun to visualize data in fun ways.
 
 
-
+(Work in Progress)
 
 #### More detailed resouces
 ___
