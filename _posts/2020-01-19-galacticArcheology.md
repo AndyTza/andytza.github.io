@@ -14,11 +14,11 @@ excerpt: "Data-viz with Gaia DR2"
 Interactive density map of M31, using data from *Gaia DR2*
 <iframe src="/images/m31_bo.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="400"
+    width="150%"
+    height="600"
     scrolling="no"
     seamless="seamless"
-    frameborder="1">
+    frameborder="0">
 </iframe>
 
 
