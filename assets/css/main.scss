@@ -7,11 +7,11 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 
 /* solarized light syntax highlighting (base16) */
-$base00: #010000;
+$base00: #FE0101;
 $base01: #010000;
 $base02: #010000;
 $base03: #010000;
-$base04: #010000;
+$base04: #000000;
 $base05: #010000;
 $base06: #010000;
 $base07: #010000;
@@ -23,5 +23,4 @@ $base0c: #010000;
 $base0d: #010000;
 $base0e: #010000;
 $base0f: #010000;
-
 @import "minimal-mistakes"; // main partials
