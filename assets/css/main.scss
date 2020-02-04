@@ -1,4 +1,10 @@
 ---
+# front-matter
 ---
 
-{% capture include_to_scssify %}{% include styles/style.scss %}{% endcapture %}{% include header.txt %}{{ include_to_scssify | scssify }}
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{% capture include_to_scssify %}{% include styles/style.scss %}{% endcapture %}{% include header.txt %}{{ include_to_scssify | scssify }}"; // skin
+
+
+@import "minimal-mistakes"; // main partials
