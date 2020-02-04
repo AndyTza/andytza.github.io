@@ -1,11 +1,14 @@
----
-title: "Jupyter Notebook Test"
-date: 2020-02-03
-tags: [astronomy, gaiadr2]
-excerpt: "Jupyter Notebook Gaia DR2"
----
 
 Author: *Andy Tzanidakis*
+
+
+Hello! Welcome to my very first official blog post! Please pardon my expressions and rambling, as an avid 
+
+This tutorial aims to educate newcomers and students who are interested in learning how to use the *Gaia DR2* dataset and ways of visualizing the survey data. This tutorial already assumes that the user knows how to plot data with `matplotlib` or any package of their preference and some basic data controlling.
+
+I'll be covering some very basics about ADQL (Astronomical Database Query Language), however, in the resouces page you should be able to find more detailed tutorials. For the take of time, I will be explaining the very `CONE_SEARCH` to visualize galaxies in our local group. 
+
+The scope of this tutorial? Friendly introduction to querying *Gaia DR2* data, and it's always fun to visualize data in fun ways. 
 
 
 
@@ -51,15 +54,12 @@ p.grid.visible = False
 r, bins = p2.hexbin(x, y, size=0.1, hover_color="pink", hover_alpha=0.8, palette='Turbo256')
 
 show(row(p))
-
-{% include notebook path="file:///Users/iraf1/hex_tile.html" %}
-
 ```
 
 ### Local Group Galaxies
 ___
 
-Based on the large volume of data in Gaia DR2, generally when searching for something specific in the sky we can query our search based on any criteria the databases has. In our case, since we simply want to visualize the galaxies all we need is to restrict our search based on coordinates of these sources in the sky.
+Based on the large volume of data in Gaia DR2, generally when searching for something specific in the sky we can query our search based on any criteria the databases has. In our case, since we simply want to visualize the galaxies all we need is to restrict our search based on coordinates of these sources in the sky. 
 
 First, we need to know exactly the coordinates of the local group galaxies in order to query the data
 
@@ -73,12 +73,12 @@ M31 (Andromeda): ($\alpha^{o}$, $\delta^{o}$) $\approx$ = (121.174322, -21.57331
 
 
 ```python
-# Define coordinates of M31 in Galactic coordinates
+# Define coordinates of M31 in Galactic coordinates 
 m31_l, m31_b = 120.7162630976154*u.deg, -21.1387042770371*u.deg
 
 
 
-m31_coord = SkyCoord(l=m31_l, b=m31_b, frame='galactic') # let's make
+m31_coord = SkyCoord(l=m31_l, b=m31_b, frame='galactic') # let's make 
 
 ```
 
@@ -97,7 +97,7 @@ m31_coord.icrs
 
 At first glance, ADQL can be quite daunting. But bare with me for a second, and I am certain this will make sense. Here I have broken down the query search line-by-line:
 
-Let's desipher what's going on in the query string:
+Let's desipher what's going on in the query string: 
 
 - `SELECT ra, dec, phot_g_mean_mag...`: GaiaDR2 has a large number of variables that we can query. It wouldn't be smart to download variables we know before hand we aren't going to use. Here the ADQL command is basically selecting only the paramter names we want for our final table which is the coordinates and magnitudes of the sources.
 
@@ -121,7 +121,7 @@ WHERE CONTAINS(POINT('ICRS',gaiadr2.gaia_source.ra,gaiadr2.gaia_source.dec), CIR
 
 
 ```python
-# It will take a bit
+# It will take a bit 
 my = Gaia.launch_job_async(query).get_results() # takes a couple of minutes! hang tight...
 ```
 
@@ -155,7 +155,7 @@ plt.tight_layout()
     ----> 2 plt.hist2d(my['ra'], my['dec'], cmap='bone', bins=0)
           3 plt.colorbar()
           4 plt.scatter(10.67, 40.86, color='yellow')
-          5
+          5 
 
 
     ~/anaconda/envs/py36/lib/python3.6/site-packages/matplotlib/pyplot.py in hist2d(x, y, bins, range, density, weights, cmin, cmax, data, **kwargs)
@@ -170,7 +170,7 @@ plt.tight_layout()
        1599     def inner(ax, *args, data=None, **kwargs):
        1600         if data is None:
     -> 1601             return func(ax, *map(sanitize_sequence, args), **kwargs)
-       1602
+       1602 
        1603         bound = new_sig.bind(ax, *args, **kwargs)
 
 
@@ -178,15 +178,15 @@ plt.tight_layout()
         305                 f"for the old name will be dropped %(removal)s.")
         306             kwargs[new] = kwargs.pop(old)
     --> 307         return func(*args, **kwargs)
-        308
+        308 
         309     # wrapper() must keep the same documented signature as func(): if we
 
 
     ~/anaconda/envs/py36/lib/python3.6/site-packages/matplotlib/axes/_axes.py in hist2d(self, x, y, bins, range, density, weights, cmin, cmax, **kwargs)
-       7065
+       7065 
        7066         h, xedges, yedges = np.histogram2d(x, y, bins=bins, range=range,
     -> 7067                                            normed=density, weights=weights)
-       7068
+       7068 
        7069         if cmin is not None:
 
 
@@ -198,7 +198,7 @@ plt.tight_layout()
         714         bins = [xedges, yedges]
     --> 715     hist, edges = histogramdd([x, y], bins, range, normed, weights, density)
         716     return hist, edges[0], edges[1]
-        717
+        717 
 
 
     <__array_function__ internals> in histogramdd(*args, **kwargs)
@@ -256,7 +256,7 @@ plt.colorbar()
 ```
 
     /Users/iraf1/anaconda/envs/py36/lib/python3.6/site-packages/ipykernel_launcher.py:2: RuntimeWarning: divide by zero encountered in log
-
+      
 
 
 
@@ -281,7 +281,7 @@ plt.colorbar()
 
 
 ```python
-# How to launch query using gaiadr2 -- asynchronous search!
+# How to launch query using gaiadr2 -- asynchronous search! 
 job = Gaia.launch_job_async("select top 1000 * from gaiadr2.gaia_source order by source_id")
 q1 = job.get_results()
 ```
@@ -352,3 +352,5 @@ q1 = job.get_results()
 <tr><td>-12.280376260765037</td></tr>
 <tr><td>-0.6962979263963816</td></tr>
 </table>
+
+
