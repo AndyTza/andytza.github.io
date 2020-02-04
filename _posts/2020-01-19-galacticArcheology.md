@@ -10,6 +10,17 @@ excerpt: "Data-viz with Gaia DR2"
 
 *April 25 2018, New York City*
 
+Test
+
+<iframe src="/images/m31_bo.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 
 ![alt text](/images/gal0.gif "Viewing angle from different observers, what the disk looks like!" height="300" width="300")
 
