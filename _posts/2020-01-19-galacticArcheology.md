@@ -10,8 +10,8 @@ excerpt: "Data-viz with Gaia DR2"
 
 *April 25 2018, New York City*
 
-Test
 
+Interactive density map of M31, using data from *Gaia DR2*
 <iframe src="/images/m31_bo.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
