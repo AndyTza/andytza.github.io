@@ -8,8 +8,6 @@ excerpt: "Jupyter Notebook Gaia DR2"
 Author: *Andy Tzanidakis*
 
 
-
-
 #### More detailed resouces
 ___
 
