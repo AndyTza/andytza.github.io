@@ -20,7 +20,7 @@ title                    : "Anastasios Tzanidakis"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Anastasios Tzanidakis"
-description              : "Astrophysics research and data scienceportfolio"
+description              : "Astrophysics research and data scienc eportfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Anastasios Tzanidakis"
   avatar           : "/images/nas-post.jpg" #
-  bio              : "Data-driven astrophysics and time domain astronomy"
+  bio              : "Data-driven astrophyiscs | Data visualization | Science Communication"
   location         : "Caltech, CA"
   email            : atzanida@caltech.edu
   links:
