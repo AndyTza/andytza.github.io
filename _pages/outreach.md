@@ -5,16 +5,11 @@ title: "Outreach"
 author_profile: true
 ---
 
-<html>
-<body>
 
+### StarBites Ratio
+___
+I am the co-founder of the StarBites Radio podcast. Together with my fellow piers we founded StarBites as an attempt to bring together undergraduate community of students at Columbia University that love to talk about Astrophysics and the historical importance. StarBites has become more like a community of students, where they can practice outreach through podcasting. We've successfully launched 2 seasons, covering from topics to general relativity, life in the universe and women in Astronomy.
 
-<p>
-WIP
+​
 
-
-
-</p>
-
-</body>
-</html>
+If you're interested in hearing more about StarBites, click (here)[https://player.fm/series/1918805] to listen to our episodes.
