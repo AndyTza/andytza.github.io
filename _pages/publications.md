@@ -10,7 +10,7 @@ author_profile: true
 ## Peer-reviewed publications
 ___
 
-1. **Tzanidakis**, A.; Kasliwal, M.; De, K.; Fremling, C. et al. *Luminosity Function of Type II Supernovae in the Local Universe*. 2019, (in-prep)
+1. **Tzanidakis**, A.; Kasliwal, M.; De, K.; Fremling, C. et al. *Luminosity Function of Type II-P Supernovae in the Local Universe*. 2019, (in-prep)
 
 2. Andreoni, I.; Goldstein, D.; Kasliwal, M., et al. (including **Tzanidakis, A.**).*GROWTH on S190814bv: Deep Synoptic Limits on the Optical/Near-Infrared Counterpart to a Neutron Star-Black Hole Merger* .Accepted to ApJ, 2019 [arXiv:1910.13409](https://arxiv.org/abs/1910.13409)
 
@@ -25,6 +25,6 @@ ___
 ## Undergraduate research projects
 ___
 
-Tzanidakis, A.,; Johnston, K.V,; Sheffield A. A. and Price-Whelan, A. M.,Mapping Galactic Oscillations with M Giants in Gaia DR2.Columbia University, 2019 (B.A senior thesis)
+Tzanidakis, A.,; Johnston, K.V,; Sheffield A. A. and Price-Whelan, A. M., **Mapping Galactic Oscillations with M Giants in Gaia DR2**.Columbia University, 2019 (B.A senior thesis)
 
-[Construction and Set-up of Low-Budget Radio Telescope at Rutherford Observatory, Columbia University, New York. Observational Astrophysics (ASTR C3646).](https://github.com/AndyTza/Columbia-University-Radio-Astronomy-Consortium/raw/master/Columbia%20Radio%20Astronomy%20Consortium%20Begining%20and%20Set-up.pdf)
+[**Construction and Set-up of Low-Budget Radio Telescope at Rutherford Observatory**, Columbia University, New York. Observational Astrophysics (ASTR C3646).](https://github.com/AndyTza/Columbia-University-Radio-Astronomy-Consortium/raw/master/Columbia%20Radio%20Astronomy%20Consortium%20Begining%20and%20Set-up.pdf)
