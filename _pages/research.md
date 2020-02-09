@@ -17,6 +17,7 @@ During my undergraduate degree, alongside with my mentors and collaborators, I w
 
 Alongside with an amazing community of collaborators, and publications I was a key contributor to suggest that the disk of the Milky Way is oscillating. Why is this a big deal? This points to a series of very important questions such as what are the driving forces of such large-scale oscillations? One plausible scenario described by our publication suggests that dwarf satellite galaxies are able to kick-out stats fro the Disk, causing radial oscillating-like features.
 
+$\verysmall test one two$
 
 ![alt text](/images/sgr-col.gif "Viewing angle from different observers, what the disk looks like!" height="300" width="300")(data visualization: Tzanidakis A., Laporte C. et al. 2018) This animation shows the N-body simulations described by a, and show the dynamic interaction between the Galactic disk and the Sagittarius dwarf satellite galaxy.
 
