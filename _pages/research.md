@@ -7,14 +7,9 @@ author_profile: true
 
 *work in progress, please come back if you would like to hear more about my research*
 
-
-### Supernovae Populations & Luminosity Function
-___
-
-
-
 ### Galactic Archeology: Tomography of the Galactic Disk
 ___
+
 
 
 
@@ -24,6 +19,12 @@ new image 1
 
 new animation
 ![alt text](/images/sgr-col.gif "Viewing angle from different observers, what the disk looks like!" height="300" width="300")
+
+
+
+
+### Supernovae Populations & Luminosity Function
+___
 
 
 
