@@ -12,8 +12,16 @@ ___
 
 ![alt text](/images/datviz/3d_mw_shells.gif "Shells of the MW" height="400" width="400")
 
+![alt text](/images/datviz/bar-mw.gif "Shells of the MW" height="400" width="400")
+
+![alt text](/images/datviz/density_mw.gif "Shells of the MW" height="400" width="400")
+
+![alt text](/images/datviz/m311_gdr2.gif "Shells of the MW" height="400" width="400")
 
 
 
 
-*All visuals seen here are created by Anastasios Tzanidakis using third-party data. If you have questions about the data, or want the simulations in better quality, please feel free to contact me.*
+
+
+
+*All visuals seen here are created by Anastasios Tzanidakis. If you have questions about the data, visuals, or simply want the simulations in better quality, please feel free to contact me.*
