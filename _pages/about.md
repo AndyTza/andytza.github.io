@@ -11,4 +11,4 @@ I recently earned my Bachelor's degree in astronomy from Columbia University in 
 
 Outside the academic setting I enjoy photography (you can see some of my work [here](google.com)), surfing and science communication.
 
-If you would like to read more about me, please click [here]() for my CV.
+If you would like to read more about me, please click [here](https://github.com/AndyTza/andytza.github.io/raw/master/quals/CV_Astronomy___Tzanidakis__Detailed____New.pdf) for my CV.
