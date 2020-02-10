@@ -1,13 +1,19 @@
 ---
 layout: archive
 permalink: /data_viz/
-title: "data visualization"
+title: "Data Visualization"
 author_profile: true
 ---
 
-*work in progress, please come back if you would like to learn more about my research*
+*work in progress, please come back if you would like to learn more about my data visuals*
 
-*“Reserve your right to think, for even to think wrongly is better than not to think at all.” – Hypatia*
+### Data visualization: Astronomy
+___
+
+![alt text](/images/datviz/3d_mw_shells.gif "Shells of the MW" height="400" width="400")
 
 
-### Galactic Archeology: Tomography of the Galactic Disk
+
+
+
+*All visuals seen here are created by Anastasios Tzanidakis using third-party data. If you have questions about the data, or want the simulations in better quality, please feel free to contact me.*
