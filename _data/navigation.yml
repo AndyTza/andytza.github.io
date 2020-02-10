@@ -8,6 +8,8 @@ main:
     url: /outreach/
   - title: "Publications"
     url: /publications/
+  - title: "Data Visualization"
+    url: /data_viz/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

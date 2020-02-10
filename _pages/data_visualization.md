@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /data visualization/
+permalink: /data_viz/
 title: "data visualization"
 author_profile: true
 ---
