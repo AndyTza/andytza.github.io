@@ -8,6 +8,12 @@ author_profile: true
 ### Data visualization - Animations: Astronomy
 ___
 
+Throughout my academic research, I have dedicated the last four years making sophisticated data visualizations for the application of astrophysical discovery. My visuals aim to bridge the understanding of astrophysical data and the physical physical understanding of how galaxies look like in 3-dimensions.
+
+
+*All visuals seen here are created by Anastasios Tzanidakis. If you have questions about the data and visuals please feel free to contact me.*
+
+
 ![alt text](/images/datviz/3d_mw_shells.gif "Shells of the MW" height="400" width="400")
 
 ![alt text](/images/datviz/Mw_Disk.gif "Shells of the MW" height="400" width="400")
@@ -57,8 +63,3 @@ video can be found [here](http://www.youtube.com/watch?feature=player_embedded&v
 alt="Youtube: N-body Simulation of MW After Collision with Sagittarius dSph" width="470" height="290" border="10" /></a>
 
 video can be found [here](http://www.youtube.com/watch?feature=player_embedded&v=QaAzRI1zYsA) on YouTube
-
-
-
-
-*All visuals seen here are created by Anastasios Tzanidakis. If you have questions about the data, visuals, or simply want the simulations in better quality, please feel free to contact me.*
