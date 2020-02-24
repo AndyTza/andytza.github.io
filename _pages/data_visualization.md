@@ -28,6 +28,19 @@ ___
 
 ![alt text](/images/datviz/galaxy_waves.gif "Shells of the MW" height="400" width="400")
 
+### Data visualization - Interactive Data: Astronomy
+___
+
+Interactive density map of M31, using data from [*Gaia DR2*](https://www.cosmos.esa.int/web/gaia/dr2)
+<iframe src="/images/m31_bo.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="150%"
+    height="600"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 
 
 ### Data visualization: Astronomy videos
