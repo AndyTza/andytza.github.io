@@ -4,9 +4,6 @@ permalink: /research/
 title: "Research projects"
 author_profile: true
 ---
-
-*work in progress, please come back if you would like to learn more about my research*
-
 *“Reserve your right to think, for even to think wrongly is better than not to think at all.” – Hypatia*
 
 
@@ -27,5 +24,3 @@ Alongside with an amazing community of collaborators, and publications I was a k
 (data visualization: Tzanidakis A., Laporte C. et al. 2018) N-body simulation of the Milky Way's disk after Sagittarius has passed through the disk. This visual demonstrates that the oscillations of the Galactic disk perhaps permeate radially across the entire disk.
 
 If you would like to learn more about our research, please find some relevant publications [here](https://andytza.github.io/publications/).
-### Supernovae Populations & Luminosity Function
-___
