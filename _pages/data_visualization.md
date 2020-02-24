@@ -8,7 +8,7 @@ author_profile: true
 ### Data visualization - Animations: Astronomy
 ___
 
-Throughout my academic research, I have dedicated the last four years making sophisticated data visualizations for the application of astrophysical discovery. My visuals aim to bridge the understanding of astrophysical data and the physical physical understanding of how galaxies look like in 3-dimensions.
+Throughout my academic research, I have dedicated the last four years to making sophisticated data visualizations for the application of astrophysical discovery. My visuals aim to bridge the understanding of astrophysical data and the physical understanding of how galaxies look like in three-dimensional space.
 
 
 *All visuals seen here are created by Anastasios Tzanidakis. If you have questions about the data and visuals please feel free to contact me.*
