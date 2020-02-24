@@ -5,8 +5,6 @@ title: "Data Visualization"
 author_profile: true
 ---
 
-*work in progress, please come back if you would like to learn more about my data visuals*
-
 ### Data visualization: Astronomy
 ___
 
