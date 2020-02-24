@@ -22,6 +22,10 @@ ___
 
 ![alt text](/images/datviz/feathers_laporte_tzanidakis.gif "Shells of the MW" height="400" width="400")
 
+![alt text](/images/datviz/3D_mw_gdr2.gif "Shells of the MW" height="400" width="400")
+
+![alt text](/images/datviz/sims_radial_profile.gif "Shells of the MW" height="400" width="400")
+
 ![alt text](/images/datviz/m33_rot.gif "Shells of the MW" height="400" width="400")
 
 ### Data visualization: Astronomy videos
