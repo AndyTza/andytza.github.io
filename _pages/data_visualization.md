@@ -5,12 +5,12 @@ title: "Data Visualization"
 author_profile: true
 ---
 
-### Data visualization: Astronomy
+### Data visualization - Animations: Astronomy
 ___
 
 ![alt text](/images/datviz/3d_mw_shells.gif "Shells of the MW" height="400" width="400")
 
-![alt text](/images/datviz/mw_landscape.gif "Shells of the MW" height="400" width="400")
+![alt text](/images/datviz/Mw_Disk.gif "Shells of the MW" height="400" width="400")
 
 ![alt text](/images/datviz/bar-mw.gif "Shells of the MW" height="400" width="400")
 
@@ -25,6 +25,10 @@ ___
 ![alt text](/images/datviz/sims_radial_profile.gif "Shells of the MW" height="400" width="400")
 
 ![alt text](/images/datviz/m33_rot.gif "Shells of the MW" height="400" width="400")
+
+![alt text](/images/datviz/galaxy_waves.gif "Shells of the MW" height="400" width="400")
+
+
 
 ### Data visualization: Astronomy videos
 ___
