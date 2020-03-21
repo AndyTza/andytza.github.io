@@ -48,6 +48,15 @@ Interactive density map of M31, using data from [*Gaia DR2*](https://www.cosmos.
     frameborder="0">
 </iframe>
 
+Interactive slide U.S Map!
+<iframe src="/images/slider.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="150%"
+    height="600"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 
 ### Data visualization: Astronomy videos
