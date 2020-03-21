@@ -125,18 +125,12 @@ function initComparisons() {
 </head>
 <body>
 
-<h1>Compare Two Images</h1>
-
-<p>Click and slide the blue slider to compare two images:</p>
-
-<p> welcome to my page! </p>
-
 <div class="img-comp-container">
   <div class="img-comp-img">
-    <img src="/images/no2_2019.jpg" width="500" height="600">
+    <img src="/images/no2_2019.jpg" width="100" height="100">
   </div>
   <div class="img-comp-img img-comp-overlay">
-    <img src="/images/no2_2020.jpg" width="500" height="600">
+    <img src="/images/no2_2020.jpg" width="100" height="100">
   </div>
 </div>
 
@@ -147,6 +141,20 @@ initComparisons();
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Data visualization - Animations: Astronomy
