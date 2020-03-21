@@ -1,15 +1,3 @@
----
-title: "Local Galaxies with Gaia DR2"
-date: 2020-01-19
-tags: [astronomy, gaiadr2]
-excerpt: "Data-viz with Gaia DR2"
----
----
-title: "data viz"
-date: 2020-03-19
-tags: [astronomy, gaiadr2]
-excerpt: "Data-viz with Gaia DR2"
----
 <!DOCTYPE html>
 <html>
 <head>
@@ -129,10 +117,10 @@ function initComparisons() {
 
 <div class="img-comp-container">
   <div class="img-comp-img">
-    <img src="/images/no2_2019.jpg" width="100" height="100">
+    <img src="/images/no2_2019.jpg" width="300" height=500">
   </div>
   <div class="img-comp-img img-comp-overlay">
-    <img src="/images/no2_2020.jpg" width="100" height="100">
+    <img src="/images/no2_2020.jpg" width="300" height="500">
   </div>
 </div>
 
