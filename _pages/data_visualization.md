@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-
 ### Data visualization - Animations: Astronomy
 ___
 
