@@ -10,11 +10,11 @@ author_profile: true
 ## Peer-reviewed publications
 ___
 
-1. **Tzanidakis**, A.; Kasliwal, M.; De, K.; Fremling, C. et al. *Luminosity Function of Type II-P Supernovae in the Local Universe*. 2019, (in-prep)
+1. **Tzanidakis**, A.; Kasliwal, M.; De, K.. et al. **Zwicky Transient Facility: Luminosity Function of Type II Supernovae in the Local Universe**. 2019, (in-prep)
 
 2. Andreoni, I.; Goldstein, D.; Kasliwal, M., et al. (including **Tzanidakis, A.**).*GROWTH on S190814bv: Deep Synoptic Limits on the Optical/Near-Infrared Counterpart to a Neutron Star-Black Hole Merger* .Accepted to ApJ, 2019 [arXiv:1910.13409](https://arxiv.org/abs/1910.13409)
 
-3. Cardoso, J. V., Barentsen, G., Hedges, C. et al.  (including **Tzanidakis, A.**) *Lightkurve:  Kepler and TESS Time Series Analysis in Python*. Astrophysics Source Code Library, 2018 [ascl:  1812.013](http://ascl.net/1812.013)
+3. Cardoso, J. V.,; Barentsen, G., Hedges, C. et al.  (including **Tzanidakis, A.**) *Lightkurve:  Kepler and TESS Time Series Analysis in Python*. Astrophysics Source Code Library, 2018 [ascl:  1812.013](http://ascl.net/1812.013)
 
 4. Laporte, F. P. C.; Johnston, K. V.; **Tzanidakis, A**. *Stellar Disk Streams as Probes of the GalacticPotential and Satellite Impacts*. MNRAS, 482, 2, 2018 [arXiv:1803.11198](https://arxiv.org/abs/1803.11198)
 
