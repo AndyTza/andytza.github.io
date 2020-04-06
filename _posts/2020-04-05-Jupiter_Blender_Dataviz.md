@@ -1,11 +1,13 @@
 ---
-title: "Astronomy in th Era of 3D Data Visualizations"
+title: "Astronomy & Data Visualizations in 3D Rendering Graphics"
 date: 2020-04-05
 tags: [astronomy, NASA, Jupiter, Voyager]
 excerpt: "In this article, we discuss the importance of scientific data visualization of planetary and general astronomy"
 ---
 
 (Currently working on project-- please return later!)
+
+
 
 
 
