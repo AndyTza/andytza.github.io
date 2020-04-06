@@ -5,8 +5,9 @@ tags: [astronomy, NASA, Jupiter, Voyager]
 excerpt: "In this article, we discuss the importance of scientific data visualization of planetary and general astronomy"
 ---
 
-### Data Visualization in Three-Dimesion: Astronomy & Planetary Science
-___
+(Currently working on project-- please return later!)
+
+
 
 
 
