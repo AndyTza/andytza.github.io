@@ -27,4 +27,6 @@ ___
 
 Tzanidakis, A.,; Johnston, K.V,; Sheffield A. A. and Price-Whelan, A. M., **Mapping Galactic Oscillations with M Giants in Gaia DR2**.Columbia University, 2019 (B.A senior thesis)
 
+[Tzanidakis, A. and Ratcliffe, B. **Investigating the Age, Metallicity and Actions of RGB and MS Stars with the GALAH Survey**. Midterm research project for Modern Stellar Astrophysics course, instructed by Professor Melissa Ness](https://github.com/AndyTza/andytza.github.io/raw/master/personal_projects/MidtermMA.pdf)
+
 [**Construction and Set-up of Low-Budget Radio Telescope at Rutherford Observatory**, Columbia University, New York. Observational Astrophysics (ASTR C3646).](https://github.com/AndyTza/Columbia-University-Radio-Astronomy-Consortium/raw/master/Columbia%20Radio%20Astronomy%20Consortium%20Begining%20and%20Set-up.pdf)
