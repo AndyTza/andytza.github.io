@@ -12,8 +12,8 @@ ___
 
 1. **Tzanidakis**, A.; Kasliwal, M.; De, K.. et al. **Zwicky Transient Facility: Luminosity Function of Type II Supernovae in the Local Universe**. 2019, (in-prep)
 
-2. De, K.,; Kasliwal, M., **Tzanidakis**, A. et al. **The Zwicky Transient Facility Census of the Local Universe I: Systematic search for Calcium rich gap
-transients reveal three related spectroscopic sub-classes**. Submitted to ApJ, 2019 [arXiv:2004.09029](https://arxiv.org/pdf/2004.09029)
+2. De, K.,; Kasliwal, M., **Tzanidakis**, A. et al. *The Zwicky Transient Facility Census of the Local Universe I: Systematic search for Calcium rich gap
+transients reveal three related spectroscopic sub-classes*. Submitted to ApJ, 2019 [arXiv:2004.09029](https://arxiv.org/pdf/2004.09029)
 
 3. Andreoni, I.; Goldstein, D.; Kasliwal, M., et al. (including **Tzanidakis, A.**).*GROWTH on S190814bv: Deep Synoptic Limits on the Optical/Near-Infrared Counterpart to a Neutron Star-Black Hole Merger*. Accepted to ApJ, 2019 [arXiv:1910.13409](https://arxiv.org/abs/1910.13409)
 
