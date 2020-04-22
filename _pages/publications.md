@@ -5,6 +5,16 @@ title: "Publications"
 author_profile: true
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164344843-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164344843-1');
+</script>
+
 ##### A complete list of my publications can be found on my [NASA ADS](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Anastasios%20Tzanidakis%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 ## Peer-reviewed publications
