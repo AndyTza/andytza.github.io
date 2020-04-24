@@ -17,6 +17,18 @@ excerpt: "Data-viz with Gaia DR2"
 
 <script data-ad-client="ca-pub-8225401446133490" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-6t+ed+2i-1n-4w"
+     data-ad-client="ca-pub-8225401446133490"
+     data-ad-slot="8184826487"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ### Fun *Gaia DR2* Data Viz Project
 
 *April 25 2018, New York City*
