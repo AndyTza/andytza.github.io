@@ -35,3 +35,12 @@ Alongside with an amazing community of collaborators, and publications I was a k
 (data visualization: Tzanidakis A., Laporte C. et al. 2018) N-body simulation of the Milky Way's disk after Sagittarius has passed through the disk. This visual demonstrates that the oscillations of the Galactic disk perhaps permeate radially across the entire disk.
 
 If you would like to learn more about our research, please find some relevant publications [here](https://andytza.github.io/publications/).
+
+
+### Type II Supernovae in the Local Universe with the Zwicky Transient Facility
+___
+
+![alt text](/images/snii.jpg "Corner plot constraining a type II supernovae" height="300" width="150")
+Image credit: Gal-Yam et al 2014, Nature; May 22, 2014
+
+![alt text](/images/emcee_lc.png "Corner plot constraining a type II supernovae" height="300" width="150")
