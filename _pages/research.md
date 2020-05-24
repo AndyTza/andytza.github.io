@@ -36,11 +36,21 @@ Alongside with an amazing community of collaborators, and publications I was a k
 
 If you would like to learn more about our research, please find some relevant publications [here](https://andytza.github.io/publications/).
 
+Research Mentors: Professor Allyson Sheffield, Professor Kathryn Johnston, Dr. Chervin Laporte, Dr. Adrian Price-Whlean
 
 ### Type II Supernovae in the Local Universe with the Zwicky Transient Facility
 ___
 
-![alt text](/images/snii.jpg "Corner plot constraining a type II supernovae" height="300" width="150")
+** currently working on this section, please come back later :-) **
+
+Under the mentorship of Professor Mansi Kasliwal and Ph.D student Kishalay De, my research at California Institute of Technology (Caltech) aims to broadly understand supernova populations in the local universe using data from the Zwicky Transient Facility (ZTF) survey. I am a contributing member of the Census of the Local Universe (CLU) ZTF experiment that aims to spectroscopically classify all transients within 200 Mpc with the ZTF survey.
+
+
+
+
+![alt text](/images/snii.jpg "SN2013fs" height="300" width="150")
 Image credit: Gal-Yam et al 2014, Nature; May 22, 2014
 
 ![alt text](/images/emcee_lc.png "Corner plot constraining a type II supernovae" height="300" width="150")
+
+Research Mentors: Professor Mansi Kasliwal, Kishalay De
