@@ -13,6 +13,8 @@ permalink: /about/
   gtag('config', 'UA-164344843-1');
 </script>
 
+![alt text](/images/nasame.jpg "Fun photograph of me at NASA Ames Research Center" height="300" width="150")
+
 
 Greetings!
 
