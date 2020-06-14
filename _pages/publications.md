@@ -20,7 +20,7 @@ author_profile: true
 ## Peer-reviewed publications
 ___
 
-1. **Tzanidakis**, A.; Kasliwal, M.; De, K.. et al. *Zwicky Transient Facility: Luminosity Function of Type II Supernovae in the Local Universe*. 2019, (in-prep)
+1. **Tzanidakis**, A.; Kasliwal, M.; De, K.. et al. *Zwicky Transient Facility: Luminosity Function of Type II Supernovae in the Local Universe*. 2020, (in-prep)
 
 2. De, K.,; Kasliwal, M., **Tzanidakis**, A. et al. *The Zwicky Transient Facility Census of the Local Universe I: Systematic search for Calcium rich gap
 transients reveal three related spectroscopic sub-classes*. Submitted to ApJ, 2019 [arXiv:2004.09029](https://arxiv.org/pdf/2004.09029)
