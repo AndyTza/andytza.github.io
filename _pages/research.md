@@ -50,4 +50,4 @@ Image credit: Gal-Yam et al 2014, Nature; May 22, 2014
 During my time at Caltech one question I have been trying to understanding the intristic rate of type II supernovae. Recent evidence suggest that type II supernova are amongst the most common ([Arcavi et al. 2017](https://arxiv.org/abs/1710.03759)), however, due to their large spread in luminosity and limited spectroscopic follow-up it becomes challenging to know exactly how common such transients can be.
 
 
-![alt text](/images/snlc "SN2013fs" height="300" width="150")
+![alt text](/images/snlc.jpg "SN_templates" height="300" width="150")
