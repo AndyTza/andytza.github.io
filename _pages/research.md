@@ -46,9 +46,8 @@ Under the mentorship of Professor Mansi Kasliwal and Ph.D student Kishalay De, m
 
 
 
-
 ![alt text](/images/snii.jpg "SN2013fs" height="300" width="150")
 Image credit: Gal-Yam et al 2014, Nature; May 22, 2014
 
-![alt text](/images/emcee_lc.png "Corner plot constraining a type II supernovae" height="300" width="150")
-
+![alt text](/images/sn_lcs.pdf "SN2013fs" height="300" width="150")
+Image credit: Gal-Yam et al 2014, Nature; May 22, 2014
