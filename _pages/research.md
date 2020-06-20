@@ -42,11 +42,12 @@ ___
 
 ** currently working on this section, please come back later :-) **
 
-Under the mentorship of Professor Mansi Kasliwal and Ph.D student Kishalay De, my research at California Institute of Technology (Caltech) aims to broadly understand supernova populations in the local universe using data from the Zwicky Transient Facility (ZTF) survey. I am a contributing member of the Census of the Local Universe (CLU) ZTF experiment that aims to spectroscopically classify all transients within 200 Mpc with the ZTF survey.
-
-
+Under the mentorship of Professor Mansi Kasliwal and Ph.D student Kishalay De, my research at California Institute of Technology (Caltech) aims to broadly understand supernova populations in the local universe using data from the Zwicky Transient Facility (ZTF) survey. I am a contributing member of the Census of the Local Universe (CLU) ZTF experiment that aims to spectroscopically classify all transients within 200 Mpc.
 
 ![alt text](/images/snii.jpg "SN2013fs" height="300" width="150")
 Image credit: Gal-Yam et al 2014, Nature; May 22, 2014
 
-![alt text](/images/snlc.jpg "SN2013fs" height="300" width="150")
+M
+
+
+![alt text](/images/snlc "SN2013fs" height="300" width="150")
