@@ -18,7 +18,7 @@ author_profile: true
 
 *“Reserve your right to think, for even to think wrongly is better than not to think at all.” – Hypatia*
 
-### Galactic Archeology: Tomography of the Galactic Disk
+## Galactic Archeology: Tomography of the Galactic Disk
 ___
 
 During my undergraduate degree, alongside with my mentors and collaborators, I was very fortunate to be involved in researching the shape of the Milky Way's disk. The fascinating field of Galactic Archeology gives astronomers the opportunity to glimpse into the evolving past of our own galaxy, and ultimately understand the underlying physics that has produced the bulk motion and positions of stars in the Milky Way.
@@ -37,7 +37,7 @@ Alongside with an amazing community of collaborators, and publications I was a k
 If you would like to learn more about our research, please find some relevant publications [here](https://andytza.github.io/publications/).
 
 
-### Type II Supernovae in the Local Universe with the Zwicky Transient Facility
+## Type II Supernovae in the Local Universe with the Zwicky Transient Facility
 ___
 
 ** currently working on this section, please come back later :-) **
