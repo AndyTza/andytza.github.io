@@ -40,20 +40,12 @@ If you would like to learn more about our research, please find some relevant pu
 ## Type-II Supernovae in the Local Universe with the Zwicky Transient Facility
 ___
 
-Over the last year, I have been working as a post-baccaleruare research student and support scientist for the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) survey. 
-
-
-
-Under the mentorship of Professor Mansi Kasliwal and Ph.D student Kishalay De, my research at Caltech aims to broadly understand supernova populations in the local universe using data from the Zwicky Transient Facility (ZTF) survey. I am a contributing member of the Census of the Local Universe (CLU) ZTF experiment that aims to spectroscopically classify all transients within 200 Mpc.
-
-![alt text](/images/snii.jpg "SN2013fs" height="300" width="150")
-Image credit: Gal-Yam et al 2014, Nature; May 22, 2014
-
-During my time at Caltech, I have been facinated to better understand the intrinsic rares of type-II supernovae. It it belived
-
-
-During my time at Caltech one question I have been trying to understanding the intristic rate of type II supernovae. Recent evidence suggest that type II supernova are amongst the most common ([Arcavi et al. 2017](https://arxiv.org/abs/1710.03759)), however, due to their large spread in luminosity and limited spectroscopic follow-up it becomes challenging to know exactly how common such transients can be.
+Over the last year, I have been working as a post-baccaleruare research student and support scientist for the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) survey under Professor Mansi Kasliwal and Ph.D student Kishalay De. My research at Caltech aims to boradly understand supernovae populations in the local universe uding data from the ZTF survey. I am a contributing member of the Census of the Local Universe (CLU) ZTF experiment that aims to spectroscopically classify all transients within 200 Mpc.
 
 ![alt text](/images/CLU_snap.png "Census of the Local Universe Snapshots" height="300" width="150")
+(Tzanidakis et al. 2020 - Science images of Type II SNe in the ZTF CLU Experiment)
+
+During my time at Caltech one question I have been trying to understanding the intristic rate of type II supernovae. Recent evidence suggest that type II supernova are amongst the most common type of supernovae ([Arcavi et al. 2017](https://arxiv.org/abs/1710.03759)), however, due to their large spread in luminosity and limited spectroscopic follow-up it becomes challenging to asnwer this directly. Controlled experiments such like the ZTF CLU ([De et al.2020](https://arxiv.org/abs/2004.09029)) make it possible to answer this question by maintaining spectroscopic completness to transients at r=20 mag. 
+
 
 
