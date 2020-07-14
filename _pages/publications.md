@@ -20,18 +20,20 @@ author_profile: true
 ## Peer-reviewed publications
 ___
 
-1. **Tzanidakis**, A.; Kasliwal, M.; De, K.. et al. *Zwicky Transient Facility: Luminosity Function of Type II Supernovae in the Local Universe*. 2020, (in-prep)
+1. **Tzanidakis**, A.; Kasliwal, M.; De, K.. et al. *Zwicky Transient Facility CLU II: Luminosity Function of Type II Supernovae*. 2020, (in-prep)
 
-2. Kasliwal, M.; Anand, S.; Ahumada, T. et al. (including **Tzanidakis, A.**). *Kilonova Luminosity Function Constraints based on Zwicky Transient Facility Searches for 13 Neutron Star Mergers*. Submitted to ApJ, 2020. [arXiv:2006.11306](https://arxiv.org/pdf/2006.11306.pdf)
+2. Andreoni, I.; Kool, C. E.; Carracedo, S. A. et al. (including **Tzanidakis A.**). *Constraining the KilonovaRate with Zwicky Transient Facility Searches Independent of Gravitational Wave and Short GRB Triggers*. Submitting to ApJ (07/27), 2020
 
-3. De, K.,; Kasliwal, M.; **Tzanidakis**, A. et al. *The Zwicky Transient Facility Census of the Local Universe I: Systematic search for Calcium rich gap
+3. Kasliwal, M.; Anand, S.; Ahumada, T. et al. (including **Tzanidakis, A.**). *Kilonova Luminosity Function Constraints based on Zwicky Transient Facility Searches for 13 Neutron Star Mergers*. Submitted to ApJ, 2020 [arXiv:2006.11306](https://arxiv.org/pdf/2006.11306.pdf)
+
+4. De, K.,; Kasliwal, M.; **Tzanidakis**, A. et al. *The Zwicky Transient Facility Census of the Local Universe I: Systematic search for Calcium rich gap
 transients reveal three related spectroscopic sub-classes*. Submitted to ApJ, 2020 [arXiv:2004.09029](https://arxiv.org/pdf/2004.09029)
 
-4. Andreoni, I.; Goldstein, D.; Kasliwal, M., et al. (including **Tzanidakis, A.**).*GROWTH on S190814bv: Deep Synoptic Limits on the Optical/Near-Infrared Counterpart to a Neutron Star-Black Hole Merger*. Accepted to ApJ, 2019 [arXiv:1910.13409](https://arxiv.org/abs/1910.13409)
+5. Andreoni, I.; Goldstein, D.; Kasliwal, M., et al. (including **Tzanidakis, A.**).*GROWTH on S190814bv: Deep Synoptic Limits on the Optical/Near-Infrared Counterpart to a Neutron Star-Black Hole Merger*. Accepted to ApJ, 2019 [arXiv:1910.13409](https://arxiv.org/abs/1910.13409)
 
-5. Laporte, F. P. C.; Johnston, K. V.; **Tzanidakis, A**. *Stellar Disk Streams as Probes of the GalacticPotential and Satellite Impacts*. MNRAS, 482, 2, 2018 [arXiv:1803.11198](https://arxiv.org/abs/1803.11198)
+6. Laporte, F. P. C.; Johnston, K. V.; **Tzanidakis, A**. *Stellar Disk Streams as Probes of the GalacticPotential and Satellite Impacts*. MNRAS, 482, 2, 2018 [arXiv:1803.11198](https://arxiv.org/abs/1803.11198)
 
-6. Sheffield A. A.; Price-Whelan, A. M., **Tzanidakis, A**.; Johnston, K. V. et al. *A Disk Origin for the Monoceros Ring and A13 Stellar Overdensities*. ApJ, 854, 1, 2018 [arXiv:1801.01171](https://arxiv.org/abs/1801.01171)
+7. Sheffield A. A.; Price-Whelan, A. M., **Tzanidakis, A**.; Johnston, K. V. et al. *A Disk Origin for the Monoceros Ring and A13 Stellar Overdensities*. ApJ, 854, 1, 2018 [arXiv:1801.01171](https://arxiv.org/abs/1801.01171)
 
 
 ## Software
