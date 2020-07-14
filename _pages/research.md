@@ -44,7 +44,6 @@ Over the last year, I have been working as a post-baccaleruare research student 
 
 
 
-
 Under the mentorship of Professor Mansi Kasliwal and Ph.D student Kishalay De, my research at Caltech aims to broadly understand supernova populations in the local universe using data from the Zwicky Transient Facility (ZTF) survey. I am a contributing member of the Census of the Local Universe (CLU) ZTF experiment that aims to spectroscopically classify all transients within 200 Mpc.
 
 ![alt text](/images/snii.jpg "SN2013fs" height="300" width="150")
@@ -54,4 +53,7 @@ During my time at Caltech, I have been facinated to better understand the intrin
 
 
 During my time at Caltech one question I have been trying to understanding the intristic rate of type II supernovae. Recent evidence suggest that type II supernova are amongst the most common ([Arcavi et al. 2017](https://arxiv.org/abs/1710.03759)), however, due to their large spread in luminosity and limited spectroscopic follow-up it becomes challenging to know exactly how common such transients can be.
+
+![alt text](/images/CLU_snap.png "Census of the Local Universe Snapshots" height="300" width="150")
+
 
