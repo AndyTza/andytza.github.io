@@ -21,7 +21,7 @@ author_profile: true
 ## Galactic Archeology: Tomography of the Galactic Disk
 ___
 
-During my undergraduate degree, alongside with my mentors and collaborators, I was very fortunate to be involved in researching the shape of the Milky Way's disk. The fascinating field of Galactic Archeology gives astronomers the opportunity to glimpse into the evolving past of our own galaxy, and ultimately understand the underlying physics that has produced the bulk motion and positions of stars in the Milky Way.
+During my undergraduate degree alongside with my mentors and collaborators, I was very fortunate to be involved in researching the shape of the Milky Way's disk. The fascinating field of Galactic Archeology gives astronomers the opportunity to glimpse into the evolving past of our own galaxy, and ultimately understand the underlying physics that has produced the bulk motion and positions of stars in the Milky Way.
 
 Alongside with an amazing community of collaborators, and publications I was a key contributor to suggest that the disk of the Milky Way is oscillating. Why is this a big deal? This points to a series of very important questions such as what are the driving forces of such large-scale oscillations? One plausible scenario described by our publication suggests that dwarf satellite galaxies are able to kick-out stats from the Disk, causing radial oscillating-like features.
 
@@ -37,8 +37,13 @@ Alongside with an amazing community of collaborators, and publications I was a k
 If you would like to learn more about our research, please find some relevant publications [here](https://andytza.github.io/publications/).
 
 
-## Type II Supernovae in the Local Universe with the Zwicky Transient Facility
+## Type-II Supernovae in the Local Universe with the Zwicky Transient Facility
 ___
+
+Over the last year, I have been working as a post-baccaleruare research student and support scientist for the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) survey. 
+
+
+
 
 Under the mentorship of Professor Mansi Kasliwal and Ph.D student Kishalay De, my research at Caltech aims to broadly understand supernova populations in the local universe using data from the Zwicky Transient Facility (ZTF) survey. I am a contributing member of the Census of the Local Universe (CLU) ZTF experiment that aims to spectroscopically classify all transients within 200 Mpc.
 

@@ -29,3 +29,9 @@ Our podcast was also featured on Columbia's student led news website [Bwog](http
 
 ### Astronomy Python Hackathons
 ___
+
+![alt text](/images/coding_blueshift.jpeg "BlueShift Astro-hackathon" height="300" width="150")
+
+
+
+
