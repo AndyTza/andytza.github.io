@@ -11,7 +11,7 @@ In the innovative and expanding world of digital media, I think that static astr
 When it comes to exciting and educating the next generation astronomers: I ask how do we acclimate to the standards of our generation? Let's face it, digital media are now part of many modern tools used to convey excitement and information to students and the general public. This is where I think innovative STEM educational tools can shine -- and one of those is video animations. 
 
 
-![alt text](/personal_projects/blog_data/YoutubeImpact.jpeg "Data from YouTube U.S showing the relative frequency of users grouped by age" height="100" width="100")
+![alt text](/personal_projects/blog_data/YoutubeImpact.jpeg "Data from YouTube U.S showing the relative frequency of users grouped by age" height="250" width="250" class="center")
 
 
 
@@ -24,8 +24,9 @@ When it comes to exciting and educating the next generation astronomers: I ask h
 
 
 P.S -- 
-For my fellow planetary astronomers and data visual artists, if you would like a detailed tutorial of how I created this animation, let's chat! 
+For my fellow educators and data visual artists, if you would like a detailed tutorial of how I created this animation, let's chat! 
 
-Credit: 
-[NASA.gov](https://www.nasa.gov/)
-Community, B.O., 2018. Blender - a 3D modeling and rendering package, Stichting Blender Foundation, Amsterdam. Available at: [blender.org](http://www.blender.org).
+Credits: 
+--- 
+- [NASA.gov](https://www.nasa.gov/)
+- Community, B.O., 2018. Blender - a 3D modeling and rendering package, Stichting Blender Foundation, Amsterdam. Available at: [blender.org](http://www.blender.org).
