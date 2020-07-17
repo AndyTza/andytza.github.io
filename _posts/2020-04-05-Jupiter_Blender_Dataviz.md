@@ -13,7 +13,10 @@ When it comes to exciting and educating the next generation astronomers: I ask h
 
 ![alt text](/personal_projects/blog_data/YoutubeImpact.jpeg "Data from YouTube U.S showing the relative frequency of users grouped by age" height="250" width="250" class="center")
 
+<img src="/personal_projects/blog_data/YoutubeImpact.jpeg" alt="Paris" class="center" height="250" width="250">
 
+
+(Sata courtesy: J. Clement, Oct 10, 2019, by [Statista](https://www.statista.com/))
 
 ![alt text](/images/jup_callisto.jpg "Blender rendered image of Jupiter and Callisto taken from Voyager 1" height="400" width="400")
 ![alt text](/images/Jupiter_Callisto_anim.gif "Blender rendered image of Jupiter and Callisto taken from Voyager 1" height="400" width="400")
