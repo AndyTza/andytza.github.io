@@ -21,10 +21,11 @@ ___
 
 Throughout my academic research, I have dedicated the last four years to making sophisticated data visualizations for the application of astrophysical discovery. My visuals aim to bridge the understanding of astrophysical data and the physical understanding of how galaxies look like in three-dimensional space.
 
-
 *All visuals seen here are created by Anastasios Tzanidakis. If you have questions about the data or visuals please feel free to contact me.*
 
-### Shells around the Milky Way
+### Shells of Oscillation in the Milky Way
+___ 
+What does the Galactic disk look like at the edges, in 3D? Here I show a 3D view panoramic "shell" view of the outter-disk colorcoded by vertical velocity .N-body simulation data from [Laporte et al. 2019](https://arxiv.org/abs/1803.11198)
 ![alt text](/images/datviz/3d_mw_shells.gif "Shells of the MW" height="400" width="400")
 
 ### Volume Rednering Ripples in the Milky Way
