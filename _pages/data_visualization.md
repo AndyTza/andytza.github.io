@@ -22,11 +22,12 @@ ___
 Throughout my academic research, I have dedicated the last four years to making sophisticated data visualizations for the application of astrophysical discovery. My visuals aim to bridge the understanding of astrophysical data and the physical understanding of how galaxies look like in three-dimensional space.
 
 
-*All visuals seen here are created by Anastasios Tzanidakis. If you have questions about the data and visuals please feel free to contact me.*
+*All visuals seen here are created by Anastasios Tzanidakis. If you have questions about the data or visuals please feel free to contact me.*
 
-
+### Shells around the Milky Way
 ![alt text](/images/datviz/3d_mw_shells.gif "Shells of the MW" height="400" width="400")
 
+### Volume Rednering Ripples in the Milky Way
 ![alt text](/images/datviz/Mw_Disk.gif "Shells of the MW" height="400" width="400")
 
 ![alt text](/images/datviz/bar-mw.gif "Shells of the MW" height="400" width="400")
@@ -58,16 +59,6 @@ Interactive density map of M31, using data from [*Gaia DR2*](https://www.cosmos.
     frameborder="0">
 </iframe>
 
-Interactive slide U.S Map!
-<iframe src="/images/slider.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="120%"
-    height="550"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-
 
 ### Data visualization: Astronomy videos
 ___
@@ -83,3 +74,16 @@ video can be found [here](http://www.youtube.com/watch?feature=player_embedded&v
 alt="Youtube: N-body Simulation of MW After Collision with Sagittarius dSph" width="470" height="290" border="10" /></a>
 
 video can be found [here](http://www.youtube.com/watch?feature=player_embedded&v=QaAzRI1zYsA) on YouTube
+
+### Data visualization - Animations & Visuals: Science
+___
+
+<iframe src="/images/slider.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="120%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
