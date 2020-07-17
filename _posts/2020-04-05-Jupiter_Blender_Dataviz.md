@@ -6,12 +6,16 @@ excerpt: "In this article, we discuss the importance of scientific data visualiz
 ---
 
 
-In the innovative and expanding world of digital media, I think that static astronomical images that are classified as "educational" are falling behind to what modern graphics/animations are capable of doing. Sure, as a photography enthusiast myself, I can appreciate the raw beauty of a nice nebula image taken from the Hubble Space Telescope. However, I suspect that the impact one such image may be quite correlated with prior knowledge of what you're looking at. Additionally, instead of showing me a text-book image of a planet, how AWESOME would it be for me to experience it to some degree? 
+In the innovative and expanding world of digital media, I think that static astronomical images that are classified as "educational" are falling behind to what modern graphics/animations are capable of doing. Sure, as a photography enthusiast myself, I can appreciate the raw beauty of a beautiful galaxy image taken from the Hubble Space Telescope. However, I suspect that the impact one such image may have is quite correlated with prior our knowledge of what we are looking at.
 
-When it comes to exciting and educating the next generation astronomers: I ask how do we acclimate to the standards of our generation? Let's face it, digital media are now part of many modern tools used to convey excitement and information to students and the general public. This is where I think innovative STEM educational tools can shine -- and one of those is video animations. 
+When it comes to exciting and educating the next generation astronomers, I ask: how do we acclimate to the standards of our generation? Let's face it, digital media are now part of many modern tools used to convey excitement and information to students and the general public. As a proof concept, data taken from the U.S alone shows that in 2019, roughly 80% of YouTube users are in the age range 15-25 years old (see histogram figure below).  
 
 
-![alt text](/personal_projects/blog_data/YoutubeImpact.jpeg "Data from YouTube U.S showing the relative frequency of users grouped by age" height="250" width="250" class="center")
+
+
+
+
+![alt text](/personal_projects/blog_data/YoutubeImpact.jpeg "Data from YouTube U.S showing the relative frequency of users grouped by age" height="350" width="350")
 
 <img src="/personal_projects/blog_data/YoutubeImpact.jpeg" alt="Paris" class="center" height="250" width="250">
 
