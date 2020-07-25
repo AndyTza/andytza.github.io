@@ -16,6 +16,11 @@ excerpt: "Data-viz with Gaia DR2"
 </script>
 
 
+Welcome
+____
+
+Almost three years ago, today, I fell in love with the idea of....
+
 Python block code:
 
 ```python
