@@ -16,8 +16,11 @@ excerpt: "Fun python tutorials"
 </script>
 
 
-Welcome
-____
+What will you learn in this tutorial
+---
+  - Data manipulation
+  - Basics of webscraping and hashing through HTML filess
+
 
 Almost three years ago, today, I fell in love with the idea of....
 
