@@ -22,12 +22,12 @@ ___
 
 1. **Tzanidakis**, A.; Kasliwal, M.; De, K.. et al. *Zwicky Transient Facility CLU II: Luminosity Function of Type II Supernovae*. 2020, (in-prep)
 
-2. Andreoni, I.; Kool, C. E.; Carracedo, S. A. et al. (including **Tzanidakis A.**). *Constraining the KilonovaRate with Zwicky Transient Facility Searches Independent of Gravitational Wave and Short GRB Triggers*. Submitting to ApJ (07/27), 2020
+2. Andreoni, I.; Kool, C. E.; Carracedo, S. A. et al. (including **Tzanidakis A.**). *Constraining the KilonovaRate with Zwicky Transient Facility Searches Independent of Gravitational Wave and Short GRB Triggers*. Submitted to ApJ, 2020
 
-3. Kasliwal, M.; Anand, S.; Ahumada, T. et al. (including **Tzanidakis, A.**). *Kilonova Luminosity Function Constraints based on Zwicky Transient Facility Searches for 13 Neutron Star Mergers*. Submitted to ApJ, 2020 [arXiv:2006.11306](https://arxiv.org/pdf/2006.11306.pdf)
+3. Kasliwal, M.; Anand, S.; Ahumada, T. et al. (including **Tzanidakis, A.**). *Kilonova Luminosity Function Constraints based on Zwicky Transient Facility Searches for 13 Neutron Star Mergers*. Accepted to ApJ, 2020 [arXiv:2006.11306](https://arxiv.org/pdf/2006.11306.pdf)
 
 4. De, K.,; Kasliwal, M.; **Tzanidakis**, A. et al. *The Zwicky Transient Facility Census of the Local Universe I: Systematic search for Calcium rich gap
-transients reveal three related spectroscopic sub-classes*. Submitted to ApJ, 2020 [arXiv:2004.09029](https://arxiv.org/pdf/2004.09029)
+transients reveal three related spectroscopic sub-classes*. Accepted to ApJ, 2020 [arXiv:2004.09029](https://arxiv.org/pdf/2004.09029)
 
 5. Andreoni, I.; Goldstein, D.; Kasliwal, M., et al. (including **Tzanidakis, A.**).*GROWTH on S190814bv: Deep Synoptic Limits on the Optical/Near-Infrared Counterpart to a Neutron Star-Black Hole Merger*. Accepted to ApJ, 2019 [arXiv:1910.13409](https://arxiv.org/abs/1910.13409)
 
