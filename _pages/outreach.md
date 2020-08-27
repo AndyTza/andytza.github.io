@@ -37,11 +37,6 @@ In almost any Astronomy/Physics internship that involves the use of data, one of
 (Our first Python hackathon was hosted in our Astronomy library at Columbia University)
 
 
-In almost any Astronomy/Physics internship that involves the use of data, one of the very first tasks undergraduate students are asked to learn is how to program. Like myself, the first few years 
-
-
-
-
 
 
 
