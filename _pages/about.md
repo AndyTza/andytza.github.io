@@ -20,7 +20,7 @@ Greetings!
 
 My name is Anastasios, but you can call me Andy. I am passionate about the applications of modern statistical and data visualization techniques to complex and large-volume astrophysical data.
 
-Currently, I am a post-baccalaureate researcher at the California Institute of Technology in affiliation with the Zwicky Transient Facility (ZTF) survey. I currently work under Professor Mansi Kasliwal on the ZTF Census of the Local Universe (CLU) experiment. The ZTF CLU experiment is a systematic supernovae study that aims to classify all supernovae within 200 Mpc using data from the ZTF survey.  
+Currently, I am a second-year  post-baccalaureate researcher at the California Institute of Technology in affiliation with the Zwicky Transient Facility (ZTF) survey. I currently work under Professor Mansi Kasliwal on the ZTF Census of the Local Universe (CLU) experiment. The ZTF CLU experiment is a systematic supernovae study that aims to classify all supernovae within 200 Mpc using data from the ZTF survey.  
 
 I recently earned my Bachelor's degree in astronomy from Columbia University in New York City. At Columbia my primary research was conducted in the field of Galactic Archeology, mapping the shape of the Milky Way's disk using data from all-sky astronomical surveys. I also had the amazing opportunity to intern at NASA Ames Research Center with the Kepler Guest Observer Office. At NASA I was a contributor to the open-source python package [lightkurve](https://docs.lightkurve.org/index.html) where I wrote python tools for processing astrophysical data.
 
