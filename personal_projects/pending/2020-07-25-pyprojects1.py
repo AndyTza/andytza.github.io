@@ -1,9 +1,7 @@
 ---
 title: "[Tutorial] How to Build Your Own Weather Reporting App"
 date: 2020-07-24
-tags: [python, data, datavisualization, webscraping]
-excerpt: "Fun python tutorials"
----
+tags: [python, data, datavisualization, webscrapi-
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164344843-1"></script>
