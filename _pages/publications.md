@@ -15,25 +15,27 @@ author_profile: true
   gtag('config', 'UA-164344843-1');
 </script>
 
-##### A complete list of my publications can be found on my [NASA ADS](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Anastasios%20Tzanidakis%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+##### A complete list of my publications can be found on [NASA ADS](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Anastasios%20Tzanidakis%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 ## Peer-reviewed publications
 ___
 
-1. **Tzanidakis**, A.; Kasliwal, M.; De, K.. et al. *Zwicky Transient Facility CLU II: Luminosity Function of Type II Supernovae*. 2020, (in-prep)
+1. **Tzanidakis**, A.; De, K.; Kasliwal, M. et al. *Zwicky Transient Facility CLU II: Luminosity Function of Type II Supernovae*. 2020, (in-prep)
 
-2. Andreoni, I.; Kool, C. E.; Carracedo, S. A. et al. (including **Tzanidakis A.**). *Constraining the KilonovaRate with Zwicky Transient Facility Searches Independent of Gravitational Wave and Short GRB Triggers*. Submitted to ApJ, 2020
+2. Perley, D. A.; Fremling C.; Sollerman J. et al. (including **Tzanidakis A.**) *The Zwicky Transient Facility Bright Transient Survey II. A Public Statistical Sample for Exploring Supernova Demographics*.  Submitted to ApJ, 2020 [arXiv:2009.01242](https://arxiv.org/pdf/2009.01242)
 
-3. Kasliwal, M.; Anand, S.; Ahumada, T. et al. (including **Tzanidakis, A.**). *Kilonova Luminosity Function Constraints based on Zwicky Transient Facility Searches for 13 Neutron Star Mergers*. Accepted to ApJ, 2020 [arXiv:2006.11306](https://arxiv.org/pdf/2006.11306.pdf)
+3. Andreoni, I.; Kool, C. E.; Carracedo, S. A. et al. (including **Tzanidakis A.**). *Constraining the KilonovaRate with Zwicky Transient Facility Searches Independent of Gravitational Wave and Short GRB Triggers*. Submitted to ApJ, 2020 [arXiv:008.00008](https://arxiv.org/pdf/008.00008)
 
-4. De, K.,; Kasliwal, M.; **Tzanidakis**, A. et al. *The Zwicky Transient Facility Census of the Local Universe I: Systematic search for Calcium rich gap
+4. Kasliwal, M.; Anand, S.; Ahumada, T. et al. (including **Tzanidakis, A.**). *Kilonova Luminosity Function Constraints based on Zwicky Transient Facility Searches for 13 Neutron Star Mergers*. Accepted to ApJ, 2020 [arXiv:2006.11306](https://arxiv.org/pdf/2006.11306.pdf)
+
+5. De, K.,; Kasliwal, M.; **Tzanidakis**, A. et al. *The Zwicky Transient Facility Census of the Local Universe I: Systematic search for Calcium rich gap
 transients reveal three related spectroscopic sub-classes*. Accepted to ApJ, 2020 [arXiv:2004.09029](https://arxiv.org/pdf/2004.09029)
 
-5. Andreoni, I.; Goldstein, D.; Kasliwal, M., et al. (including **Tzanidakis, A.**).*GROWTH on S190814bv: Deep Synoptic Limits on the Optical/Near-Infrared Counterpart to a Neutron Star-Black Hole Merger*. Accepted to ApJ, 2019 [arXiv:1910.13409](https://arxiv.org/abs/1910.13409)
+6. Andreoni, I.; Goldstein, D.; Kasliwal, M., et al. (including **Tzanidakis, A.**).*GROWTH on S190814bv: Deep Synoptic Limits on the Optical/Near-Infrared Counterpart to a Neutron Star-Black Hole Merger*. Accepted to ApJ, 2019 [arXiv:1910.13409](https://arxiv.org/abs/1910.13409)
 
-6. Laporte, F. P. C.; Johnston, K. V.; **Tzanidakis, A**. *Stellar Disk Streams as Probes of the GalacticPotential and Satellite Impacts*. MNRAS, 482, 2, 2018 [arXiv:1803.11198](https://arxiv.org/abs/1803.11198)
+7. Laporte, F. P. C.; Johnston, K. V.; **Tzanidakis, A**. *Stellar Disk Streams as Probes of the GalacticPotential and Satellite Impacts*. MNRAS, 482, 2, 2018 [arXiv:1803.11198](https://arxiv.org/abs/1803.11198)
 
-7. Sheffield A. A.; Price-Whelan, A. M., **Tzanidakis, A**.; Johnston, K. V. et al. *A Disk Origin for the Monoceros Ring and A13 Stellar Overdensities*. ApJ, 854, 1, 2018 [arXiv:1801.01171](https://arxiv.org/abs/1801.01171)
+8. Sheffield A. A.; Price-Whelan, A. M., **Tzanidakis, A**.; Johnston, K. V. et al. *A Disk Origin for the Monoceros Ring and A13 Stellar Overdensities*. ApJ, 854, 1, 2018 [arXiv:1801.01171](https://arxiv.org/abs/1801.01171)
 
 
 ## Software
@@ -45,7 +47,7 @@ ___
 ## Undergraduate research projects
 ___
 
-Tzanidakis, A.,; Johnston, K.V,; Sheffield A. A. and Price-Whelan, A. M., **Mapping Galactic Oscillations with M Giants in Gaia DR2**. Columbia University, 2019 (B.A senior thesis)
+Tzanidakis, A.; Johnston, K.V.; Sheffield A. A., and Price-Whelan, A. M., **Mapping Galactic Oscillations with M Giants in Gaia DR2**. Columbia University, 2019 (B.A senior thesis)
 
 [Tzanidakis, A. and Ratcliffe, B. **Investigating the Age, Metallicity and Actions of RGB and MS Stars with the GALAH Survey**. Midterm research project for Modern Stellar Astrophysics course, instructed by Professor Melissa Ness. Columbia University, New York.](https://github.com/AndyTza/andytza.github.io/raw/master/personal_projects/MidtermMA.pdf)
 
