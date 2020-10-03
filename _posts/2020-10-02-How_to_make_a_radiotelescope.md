@@ -7,17 +7,17 @@ excerpt: "A short story and brief tutorial on how I build a radio telescope"
 
 
 
-### Background Story 
+## Background Story 
 ___ 
 
 
 
-### So How Did You Do It?
+## So How Did You Do It?
 ___ 
 
 
 
-### Lessons Learned & Motivation 
+## Lessons Learned & Motivation 
 ___ 
 
 
@@ -25,7 +25,11 @@ ___
 \theta = 1.22 \frac{\lambda}{D}
 ```
 
+$`\sqrt{2}`$
 
+``` 
+x^{2} = 1
+```
 
-##### Sources
+### Sources
 ___ 
