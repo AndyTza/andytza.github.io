@@ -18,6 +18,20 @@ author_profile: true
 
 *“Reserve your right to think, for even to think wrongly is better than not to think at all.” – Hypatia*
 
+
+## Type-II Supernovae in the Local Universe with the Zwicky Transient Facility
+___
+
+Over the last year and half, I have been working as a post-baccaleruare research student and support researcher for the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) survey under Professor Mansi Kasliwal and Ph.D student Kishalay De. My research at Caltech aims to boradly understand the synthesis supernovae populations in the local universe using data from the ZTF survey. I am a contributing member of the Census of the Local Universe (CLU) ZTF experiment that aims to spectroscopically classify all transients within 200 Mpc.
+
+![alt text](/images/CLU_snap.png "Census of the Local Universe Snapshots" height="300" width="150")
+(Tzanidakis et al. 2020 - Science Images of Type II SNe discovered by the ZTF CLU Experiment)
+
+During my time at Caltech one question I have been trying to understanding the intristic rate of type II supernovae. Recent evidence suggest that type II supernova are amongst the most common type of supernovae ([Arcavi et al. 2017](https://arxiv.org/abs/1710.03759)), however, due to their large spread in luminosity and limited spectroscopic follow-up it becomes challenging to answer this directly. Controlled experiments such like the ZTF CLU ([De et al.2020](https://arxiv.org/abs/2004.09029)) make it possible to answer this question by probing the faint end of the luminosity funciton of core-collapse supernovae. 
+
+My most recent work, utilizes a two year sample collected by the ZTF CLU experiment. In our work we conduct an analysis based on a Bayesian framework of parametric lightcurve fitting routines and bias corrections.
+
+
 ## Galactic Archeology: Tomography of the Galactic Disk
 ___
 
@@ -35,17 +49,5 @@ Alongside with an amazing community of collaborators, and publications I was a k
 (data visualization: Tzanidakis A., Laporte C. et al. 2018) N-body simulation of the Milky Way's disk after Sagittarius has passed through the disk. This visual demonstrates that the oscillations of the Galactic disk perhaps permeate radially across the entire disk.
 
 If you would like to learn more about our research, please find some relevant publications [here](https://andytza.github.io/publications/).
-
-
-## Type-II Supernovae in the Local Universe with the Zwicky Transient Facility
-___
-
-Over the last year, I have been working as a post-baccaleruare research student and support scientist for the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) survey under Professor Mansi Kasliwal and Ph.D student Kishalay De. My research at Caltech aims to boradly understand supernovae populations in the local universe uding data from the ZTF survey. I am a contributing member of the Census of the Local Universe (CLU) ZTF experiment that aims to spectroscopically classify all transients within 200 Mpc.
-
-![alt text](/images/CLU_snap.png "Census of the Local Universe Snapshots" height="300" width="150")
-(Tzanidakis et al. 2020 - Science images of Type II SNe in the ZTF CLU Experiment)
-
-During my time at Caltech one question I have been trying to understanding the intristic rate of type II supernovae. Recent evidence suggest that type II supernova are amongst the most common type of supernovae ([Arcavi et al. 2017](https://arxiv.org/abs/1710.03759)), however, due to their large spread in luminosity and limited spectroscopic follow-up it becomes challenging to asnwer this directly. Controlled experiments such like the ZTF CLU ([De et al.2020](https://arxiv.org/abs/2004.09029)) make it possible to answer this question by maintaining spectroscopic completness to transients at r=20 mag. 
-
 
 
