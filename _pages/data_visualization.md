@@ -56,6 +56,17 @@ Interactive density map of M31, using data from [*Gaia DR2*](https://www.cosmos.
     frameborder="0">
 </iframe>
 
+Interactive density map of M31, using data from [*Gaia EDR3*](https://www.cosmos.esa.int/web/gaia/dr3)
+<iframe src="/images/M31_gaiaEDR3.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="150%"
+    height="600"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+
 
 ### Data visualization: Astronomy videos
 ___
