@@ -23,10 +23,10 @@ I am the founder of the StarBites Radio podcast. Together with my peers, we foun
 ​![alt text](/images/StarBites_Team.png "StarBites Radio Team" height="300" width="150")
 (StarBites Radio Team)
 
-If you're interested in hearing more about StarBites, click [here](https://player.fm/series/1918805) to listen to our episodes and our [social media](https://www.instagram.com/starbitesradio/).
+If you're interested in hearing more about StarBites, click [here](https://anchor.fm/starbites-radio) to listen to our episodes and our [social media](https://www.instagram.com/starbitesradio/).
 
-Our podcast was also featured on Columbia's student led news website [Bwog]
-(https://bwog.com/2017/12/astrophysics-majors-have-more-fun-bwog-peoplehops-the-voices-of-starbites/)
+Our podcast was also featured on Columbia's student led news website (Bwog)
+[https://bwog.com/2017/12/astrophysics-majors-have-more-fun-bwog-peoplehops-the-voices-of-starbites/]
 
 
 ## Astronomy Python Hackathons for Undergraduate Astronomy Students
