@@ -18,34 +18,31 @@ author_profile: true
 ## StarBites Ratio
 ___
 
-.container {
-  display: flex;
-  flex-wrap: wrap;
-}
 
-.container .image {
-  width: 50%;
-}
+<br />
+<table cellspacing="0" cellpadding="0" border="0">
+    <tr>
+        <td style="text-align: center;">
+            <img src="/images/StarBites_Team.png" alt="" />
+            <br />
+        </td>
+        <td style="text-align: center;">
+            <img src="/images/StarBites_Team.png" alt="" />
+            <br />
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">
+            <img src="/images/StarBites_Team.png" alt="" />
+            <br />
+        </td>
+        <td style="text-align: center;">
+            <img src="/images/StarBites_Team.png" alt="" />
+            <br />
+        </td>
+    </tr>
+</table>
 
-.container img {
-  width: calc(100% - (20px * 2));
-  margin: 20px;
-}
-
-<div class="container">
-  <div class="image">
-    <img src="/images/StarBites_Team.png" />
-  </div>
-  <div class="image">
-    <img src="/images/StarBites_Team.png" />
-  </div>
-  <div class="image">
-    <img src="/images/StarBites_Team.png" />
-  </div>
-  <div class="image">
-    <img src="/images/StarBites_Team.png" />
-  </div>
-</div>
 
 
 
