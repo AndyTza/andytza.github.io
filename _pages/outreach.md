@@ -23,21 +23,21 @@ ___
 <table cellspacing="0" cellpadding="0" border="0">
     <tr>
         <td style="text-align: center;">
-            <img src="/images/StarBites_Team.png" alt="" />
+            <img src="/images/IMG_6397.jpg" alt="" />
             <br />
         </td>
         <td style="text-align: center;">
-            <img src="/images/StarBites_Team.png" alt="" />
+            <img src="/images/sb_18.jpg" alt="" />
             <br />
         </td>
     </tr>
     <tr>
         <td style="text-align: center;">
-            <img src="/images/StarBites_Team.png" alt="" />
+            <img src="/images/sb_19.jpg" alt="" />
             <br />
         </td>
         <td style="text-align: center;">
-            <img src="/images/StarBites_Team.png" alt="" />
+            <img src="/images/sb_20.jpg" alt="" />
             <br />
         </td>
     </tr>
