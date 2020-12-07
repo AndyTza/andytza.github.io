@@ -18,7 +18,19 @@ author_profile: true
 ## StarBites Ratio
 ___
 
-test 
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container .image {
+  width: 50%;
+}
+
+.container img {
+  width: calc(100% - (20px * 2));
+  margin: 20px;
+}
 
 <div class="container">
   <div class="image">
