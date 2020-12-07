@@ -18,6 +18,25 @@ author_profile: true
 ## StarBites Ratio
 ___
 
+test 
+
+<div class="container">
+  <div class="image">
+    <img src="/images/StarBites_Team.png" />
+  </div>
+  <div class="image">
+    <img src="/images/StarBites_Team.png" />
+  </div>
+  <div class="image">
+    <img src="/images/StarBites_Team.png" />
+  </div>
+  <div class="image">
+    <img src="/images/StarBites_Team.png" />
+  </div>
+</div>
+
+
+
 I am the founder of the StarBites Radio podcast. Together with my peers, we founded StarBites as an attempt to bring together an undergraduate community of students at Columbia University that love to talk about Astrophysics and the historical importance. StarBites Radio has developed into a community where students can come together and practice the art of science communication. We have successfully launched 2 seasons, covering topics from general relativity, life in the universe and women in Astronomy.
 
 ​![alt text](/images/StarBites_Team.png "StarBites Radio Team" height="300" width="150")
