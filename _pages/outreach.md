@@ -21,21 +21,21 @@ ___
 <table cellspacing="0" cellpadding="0" border="0">
     <tr>
         <td style="text-align: center;">
-            <img src="/images/IMG_6397.jpg" alt="" height="900" width="900"/>
+            <img src="/images/IMG_6397.jpg" alt="" height="1200" width="1200"/>
             <br />
         </td>
         <td style="text-align: center;">
-            <img src="/images/sb_18.jpg" alt="" height="900" width="900"/>
+            <img src="/images/sb_18.jpg" alt="" height="1200" width="1200"/>
             <br />
         </td>
     </tr>
     <tr>
         <td style="text-align: center;">
-            <img src="/images/nasa_starbites.jpg" alt="" height="900" width="900"/>
+            <img src="/images/nasa_starbites.jpg" alt="" height="1200" width="1200"/>
             <br />
         </td>
         <td style="text-align: center;">
-            <img src="/images/StarBites_Team.png" alt="" height="900" width="900"/>
+            <img src="/images/StarBites_Team.png" alt="" height="1200" width="1200"/>
             <br />
         </td>
     </tr>
@@ -55,23 +55,3 @@ In almost every astronomy & physics internship that involves the use of data, on
 (Our first Python hackathon was hosted in our Astronomy library at Columbia University)
 
 After roughly seven hours of hacking, our students were asked to present brief project slides with their groups where they discussed the outcomes of their project and that they personally learned. We had many incredible outcomes such as mapping the positions of stars in 3D using data from Gaia DR2, an interactive moon surface map with labeled craters and an attempt to build from scratch an N-body simulator using python. 
-
-
-## Public Outreach 
-___ 
-
-<br />
-<table cellspacing="0" cellpadding="0">
-    <tr>
-        <td style="text-align: center;">
-            <img src="/images/talk_1.jpg" alt="" height="500" width="500" />
-            <br />
-        </td>
-        <td style="text-align: center;">
-            <img src="/images/talk_2.jpg" alt="" height="500" width="500"/>
-            <br />
-        </td>
-    </tr>
-</table>
-
-
