@@ -20,7 +20,7 @@ author_profile: true
 ## Peer-reviewed publications
 ___
 
-1. **Tzanidakis**, A.; De, K.; Kasliwal, M. et al. *Zwicky Transient Facility CLU II: Luminosity Function of Type II Supernovae*. 2020, (in-prep)
+1. **Tzanidakis**, A.; De, K.; Kasliwal, M. et al. *Zwicky Transient Facility CLU II: Luminosity Function of Type II Supernovae*. Submitting to ApJ 1/2021, 2021
 
 2. Perley, D. A.; Fremling C.; Sollerman J. et al. (including **Tzanidakis A.**) *The Zwicky Transient Facility Bright Transient Survey II. A Public Statistical Sample for Exploring Supernova Demographics*.  Submitted to ApJ, 2020 [arXiv:2009.01242](https://arxiv.org/pdf/2009.01242)
 
@@ -47,7 +47,7 @@ ___
 ## Undergraduate research projects
 ___
 
-Tzanidakis, A.; Johnston, K.V.; Sheffield A. A., and Price-Whelan, A. M., **Mapping Galactic Oscillations with M Giants in Gaia DR2**. Columbia University, 2019 (B.A senior thesis)
+[Tzanidakis, A.; Johnston, K.V.; Sheffield A. A., and Price-Whelan, A. M., **Mapping Galactic Oscillations with M Giants in Gaia DR2**. Columbia University, 2019 (B.A senior thesis)](https://github.com/AndyTza/andytza.github.io/raw/master/personal_projects/Tzanidakis_Senior_Thesis.pdf)
 
 [Tzanidakis, A. and Ratcliffe, B. **Investigating the Age, Metallicity and Actions of RGB and MS Stars with the GALAH Survey**. Midterm research project for Modern Stellar Astrophysics course, instructed by Professor Melissa Ness. Columbia University, New York.](https://github.com/AndyTza/andytza.github.io/raw/master/personal_projects/MidtermMA.pdf)
 
