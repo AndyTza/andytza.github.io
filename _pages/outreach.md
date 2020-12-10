@@ -64,3 +64,19 @@ After roughly seven hours of hacking, our students were asked to present brief p
 
 ## Public Outreach 
 ___ 
+
+<br />
+<table cellspacing="0" cellpadding="0" border="0">
+    <tr>
+        <td style="text-align: center;">
+            <img src="/images/IMG_6397.jpg" alt="" />
+            <br />
+        </td>
+        <td style="text-align: center;">
+            <img src="/images/sb_18.jpg" alt="" />
+            <br />
+        </td>
+    </tr>
+</table>
+
+
