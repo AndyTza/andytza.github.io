@@ -66,7 +66,7 @@ After roughly seven hours of hacking, our students were asked to present brief p
 ___ 
 
 <br />
-<table cellspacing="0" cellpadding="0" border="0">
+<table cellspacing="0" cellpadding="0">
     <tr>
         <td style="text-align: center;">
             <img src="/images/IMG_6397.jpg" alt="" height="300" width="300" />
