@@ -33,11 +33,11 @@ ___
     </tr>
     <tr>
         <td style="text-align: center;">
-            <img src="/images/sb_19.jpg" alt="" />
+            <img src="/images/nasa_starbites.jpg" alt="" />
             <br />
         </td>
         <td style="text-align: center;">
-            <img src="images/StarBites_Team.png" alt="" />
+            <img src="/images/StarBites_Team.png" alt="" />
             <br />
         </td>
     </tr>
@@ -60,3 +60,7 @@ In almost every astronomy & physics internship that involves the use of data, on
 (Our first Python hackathon was hosted in our Astronomy library at Columbia University)
 
 After roughly seven hours of hacking, our students were asked to present brief project slides with their groups where they discussed the outcomes of their project and that they personally learned. We had many incredible outcomes such as mapping the positions of stars in 3D using data from Gaia DR2, an interactive moon surface map with labeled craters and an attempt to build from scratch an N-body simulator using python. 
+
+
+## Public Outreach 
+___ 
