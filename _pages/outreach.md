@@ -17,8 +17,6 @@ author_profile: true
 
 ## StarBites Ratio
 ___
-
-
 <br />
 <table cellspacing="0" cellpadding="0" border="0">
     <tr>
@@ -42,9 +40,6 @@ ___
         </td>
     </tr>
 </table>
-
-
-
 
 I am the founder of the StarBites Radio podcast. Together with my peers, we started StarBites as an attempt to bring together an undergraduate community of students at Columbia University that love to talk about Astrophysics and the historical importance. StarBites Radio has developed into a community where students can come together and practice the art of science communication. We have successfully launched two seasons, covering topics from general relativity, life in the universe, and women in Astronomy.
 
