@@ -69,11 +69,11 @@ ___
 <table cellspacing="0" cellpadding="0">
     <tr>
         <td style="text-align: center;">
-            <img src="/images/IMG_6397.jpg" alt="" height="500" width="500" />
+            <img src="/images/talk_1.jpg" alt="" height="500" width="500" />
             <br />
         </td>
         <td style="text-align: center;">
-            <img src="/images/sb_18.jpg" alt="" height="500" width="500"/>
+            <img src="/images/talk_2.jpg" alt="" height="500" width="500"/>
             <br />
         </td>
     </tr>
