@@ -37,7 +37,7 @@ ___
             <br />
         </td>
         <td style="text-align: center;">
-            <img src="/images/sb_20.jpg" alt="" />
+            <img src="images/StarBites_Team.png" alt="" />
             <br />
         </td>
     </tr>
@@ -46,12 +46,9 @@ ___
 
 
 
-I am the founder of the StarBites Radio podcast. Together with my peers, we founded StarBites as an attempt to bring together an undergraduate community of students at Columbia University that love to talk about Astrophysics and the historical importance. StarBites Radio has developed into a community where students can come together and practice the art of science communication. We have successfully launched 2 seasons, covering topics from general relativity, life in the universe and women in Astronomy.
+I am the founder of the StarBites Radio podcast. Together with my peers, we started StarBites as an attempt to bring together an undergraduate community of students at Columbia University that love to talk about Astrophysics and the historical importance. StarBites Radio has developed into a community where students can come together and practice the art of science communication. We have successfully launched two seasons, covering topics from general relativity, life in the universe, and women in Astronomy.
 
-​![alt text](/images/StarBites_Team.png "StarBites Radio Team" height="300" width="150")
-(StarBites Radio Team)
-
-If you're interested in hearing more about StarBites, click [here](https://anchor.fm/starbites-radio) to listen to our episodes and our [social media](https://www.instagram.com/starbitesradio/). Our podcast was also featured on Columbia's student led news website [Bwog](https://bwog.com/2017/12/astrophysics-majors-have-more-fun-bwog-peoplehops-the-voices-of-starbites/).
+If you're interested in hearing more about StarBites Radio, click [here](https://anchor.fm/starbites-radio) to listen to our episodes and our [social media](https://www.instagram.com/starbitesradio/). Our podcast was also featured on Bwog, Columbia's indepedent student-run campus new site [Bwog](https://bwog.com/2017/12/astrophysics-majors-have-more-fun-bwog-peoplehops-the-voices-of-starbites/).
 
 
 ## Astronomy Python Hackathons for Undergraduate Astronomy Students
