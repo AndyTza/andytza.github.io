@@ -23,21 +23,21 @@ ___
 <table cellspacing="0" cellpadding="0" border="0">
     <tr>
         <td style="text-align: center;">
-            <img src="/images/IMG_6397.jpg" alt="" />
+            <img src="/images/IMG_6397.jpg" alt="" height="500" width="500"/>
             <br />
         </td>
         <td style="text-align: center;">
-            <img src="/images/sb_18.jpg" alt="" />
+            <img src="/images/sb_18.jpg" alt="" height="500" width="500"/>
             <br />
         </td>
     </tr>
     <tr>
         <td style="text-align: center;">
-            <img src="/images/nasa_starbites.jpg" alt="" />
+            <img src="/images/nasa_starbites.jpg" alt="" height="500" width="500"/>
             <br />
         </td>
         <td style="text-align: center;">
-            <img src="/images/StarBites_Team.png" alt="" />
+            <img src="/images/StarBites_Team.png" alt="" height="500" width="500"/>
             <br />
         </td>
     </tr>
@@ -69,11 +69,11 @@ ___
 <table cellspacing="0" cellpadding="0">
     <tr>
         <td style="text-align: center;">
-            <img src="/images/IMG_6397.jpg" alt="" height="300" width="300" />
+            <img src="/images/IMG_6397.jpg" alt="" height="500" width="500" />
             <br />
         </td>
         <td style="text-align: center;">
-            <img src="/images/sb_18.jpg" alt="" height="300" width="300"/>
+            <img src="/images/sb_18.jpg" alt="" height="500" width="500"/>
             <br />
         </td>
     </tr>
