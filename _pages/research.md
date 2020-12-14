@@ -36,7 +36,7 @@ Controlled experiments such as the ZTF CLU ([De et al.2020](https://arxiv.org/ab
 (Stay tuned for the details!)
 
 ![alt text](/images/typeIICLU_Lcs.png "Type II Supernovae Lightcurve Models" height="300" width="150")
-(Tzanidakis et al. 2020 - Modeling type II lightcurves using a parametric models)
+(Tzanidakis et al. 2021 - Modeling type II lightcurves using parametric lightcurve models)
 
 
 
