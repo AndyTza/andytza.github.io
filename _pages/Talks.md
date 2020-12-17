@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /research/
+permalink: /my_talks/
 title: "Research projects"
 author_profile: true
 ---
