@@ -16,4 +16,9 @@ author_profile: true
 </script>
 
 
-Page under construction!!
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="juliangarnier" data-slug-hash="idhuG" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="CSS 3D Solar System">
+  <span>See the Pen <a href="https://codepen.io/juliangarnier/pen/idhuG">
+  CSS 3D Solar System</a> by Julian Garnier (<a href="https://codepen.io/juliangarnier">@juliangarnier</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
