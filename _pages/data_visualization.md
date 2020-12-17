@@ -71,19 +71,11 @@ Interactive density map of M31, using data from [*Gaia EDR3*](https://www.cosmos
 ### Data visualization: Astronomy videos
 ___
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QaAzRI1zYsA?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Rpk0sVoqdKI
-" target="_blank"><img src="http://img.youtube.com/vi/Rpk0sVoqdKI/0.jpg"
-alt="Youtube: N-body Simulation of MW After Collision with Sagittarius dSph" width="470" height="290" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QaAzRI1zYsA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-video can be found [here](http://www.youtube.com/watch?feature=player_embedded&v=Rpk0sVoqdKI) on YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rpk0sVoqdKI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=QaAzRI1zYsA
-" target="_blank"><img src="http://img.youtube.com/vi/QaAzRI1zYsA/0.jpg"
-alt="Youtube: N-body Simulation of MW After Collision with Sagittarius dSph" width="470" height="290" border="10" /></a>
-
-video can be found [here](http://www.youtube.com/watch?feature=player_embedded&v=QaAzRI1zYsA) on YouTube
 
 ### Data visualization - Animations & Visuals: Science
 ___
