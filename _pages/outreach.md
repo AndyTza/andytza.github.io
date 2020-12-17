@@ -15,6 +15,7 @@ author_profile: true
   gtag('config', 'UA-164344843-1');
 </script>
 
+
 ## StarBites Ratio
 ___
 <br />
@@ -53,4 +54,4 @@ In almost every astronomy & physics internship that involves the use of data, on
 ![alt text](/images/coding_blueshift.jpeg "BlueShift Astro-hackathon" height="300" width="150")
 (Our first Python hackathon was hosted in our Astronomy library at Columbia University)
 
-After roughly seven hours of hacking, our students were asked to present brief project slides with their groups where they discussed the outcomes of their project and that they personally learned. We had many incredible outcomes such as mapping the positions of stars in 3D using data from Gaia DR2, an interactive moon surface map with labeled craters and an attempt to build from scratch an N-body simulator using python. 
+After roughly seven hours of hacking, our students were asked to present brief project slides with their groups where they discussed the outcomes of their project and that they personally learned. We had many incredible outcomes such as mapping the positions of stars in 3D using data from Gaia DR2, an interactive moon surface map with labeled craters and an attempt to build from scratch an N-body simulator using python.
