@@ -14,58 +14,6 @@ author_profile: true
 
   gtag('config', 'UA-164344843-1');
 </script>
-
-
-## Experimental code
-___
-<head></head>
-<body>
-  <div class="check">
-    <label><input type="checkbox" id="image-size" />Alternate image size</label>
-  </div>
-  <div class="grid-container">
-    <div class="grid">
-     <div class="grid-sizer"></div>
-      <div class="gutter-sizer"></div>
-        <div class="grid-item randomize">
-          <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/21f5fb16659113.562fc82cbc70d.gif">
-        </div>
-        <div class="grid-item"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/68d0c929239125.55e8bdd93e886.gif">
-        </div>
-         <div class="grid-item randomize">
-          <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e6adfd16659113.562fc81b21b6a.gif">
-      </div>
-     <div class="grid-item"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c57bfd8013209.560b5c248f424.gif">
-    </div>
-         <div class="grid-item randomize"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8d3e5723331445.563224bb3c936.jpg">
-    </div>
-        <div class="grid-item">
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/0b21d123900321.5632aae6d9530.gif">
-        </div>
-      <div class="grid-item randomize"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/99ac9937538757.5743ff707f936.gif">
-      </div>
-       <div class="grid-item"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/31089d23660217.56326a13d5b63.gif">
-    </div>
-     <div class="grid-item"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/6b9c9423606203.56325bd474bf2.gif">
-    </div>
-         <div class="grid-item randomize"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/05000229239125.55e8bdd96de3b.gif">
-    </div>
-    </div>
-</div>
-</body>
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## StarBites Ratio
 ___
 <br />
