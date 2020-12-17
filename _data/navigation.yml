@@ -10,7 +10,7 @@ main:
     url: /publications/
   - title: "Data Visualization"
     url: /data_viz/
-  - title: "Talks"
-    url: /my_talks/
-  - title: "Tutorials"
-    url: /tutorials/
+  #- title: "Talks"
+    #url: /my_talks/
+  #- title: "Tutorials"
+    #url: /tutorials/
