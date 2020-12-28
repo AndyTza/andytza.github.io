@@ -31,6 +31,8 @@ Throughout my academic research, I have dedicated the last four years to making 
 
 ![alt text](/images/datviz/density_mw.gif "Shells of the MW" height="400" width="400")
 
+![alt text](/images/datviz/galaxy_mw_spin.gif "Shells of the MW" height="400" width="400")
+
 ![alt text](/images/datviz/m311_gdr2.gif "Shells of the MW" height="400" width="400")
 
 ![alt text](/images/datviz/feathers_laporte_tzanidakis.gif "Shells of the MW" height="400" width="400")
