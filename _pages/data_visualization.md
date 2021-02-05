@@ -25,7 +25,7 @@ Throughout my academic research, I have dedicated the last four years to making 
 
 ![alt text](/images/datviz/3d_mw_shells.gif "Shells of the MW" height="400" width="400")
 
-![alt text](/images/datviz/CLU_3dviz.gif "3D position of all discovered supernovae by the ZTF Census of the Local Universe" height="400" width="400")
+![alt text](/images/viz.gif.gif "3D position of all discovered supernovae by the ZTF Census of the Local Universe" height="400" width="400")
 
 ![alt text](/images/datviz/Mw_Disk.gif "Shells of the MW" height="400" width="400")
 
