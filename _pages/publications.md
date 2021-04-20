@@ -20,7 +20,7 @@ author_profile: true
 ## Peer-reviewed publications
 ___
 
-1. **Tzanidakis**, A.; De, K.; Kasliwal, M. et al. *Zwicky Transient Facility CLU II: Luminosity Function of Type II Supernovae*. Submitting to ApJ 1/2021, 2021
+1. **Tzanidakis**, A.; De, K.; Kasliwal, M. et al. *Zwicky Transient Facility CLU II: Luminosity Function of Type II Supernovae*. Submitting to ApJ 2021, 2021
 
 2. De, K.; Kasliwal, M.; Hankins, J. M. et al.  (includingTzanidakis A.)A population of heavily reddened,optically missed novae from Palomar Gattini-IR: Constraints on the Galactic nova rate, submitted to ApJ, 2021 [arXiv:2101.04045](https://arxiv.org/abs/pdf/2101.04045)
 
