@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Outreach"
+    url: /outreach/
+  - title: "Publications"
+    url: /publications/
+  - title: "Data Visualization"
+    url: /data_viz/
+  - title: "CV"
+    url: "https://github.com/AndyTza/andytza.github.io/tree/main/quals/cv_tzanidakis.pdf"
+  #- title: "Teaching"
+    #url: /teaching/
+  #- title: "Talks"
+    #url: /my_talks/
+  #- title: "Tutorials"
+    #url: /tutorials/
