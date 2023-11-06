@@ -34,9 +34,7 @@ Interactive density map of M31, using data from *Gaia DR2*
 
 ![alt text](/images/gal0.gif "Viewing angle from different observers, what the disk looks like!" height="300" width="300")
 
-
 ![alt text](/images/gal1.gif "Viewing angle from different observers, what the disk looks like!" height="300" width="300")
-
 
 ![alt text](/images/gal2.gif "Viewing angle from different observers, what the disk looks like!" height="300" width="300")
 
