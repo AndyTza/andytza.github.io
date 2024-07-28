@@ -1,39 +1,39 @@
 ---
-layout: archive
+layout: page
 permalink: /publications/
-title: "Publications"
-author_profile: true
+title: Publications
+# description: My publications in preparation
+years: 2024
+nav: true
+nav_order: 4
 ---
+<!-- _pages/publications.md -->
+<div class="News">
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164344843-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<h4 class="year">2024</h4>
+  <h2>[ICML 2024] <a href="https://arxiv.org/abs/2402.02805" target="_blank">Graph-enhanced Large Language Models in Asynchronous Plan Reasoning</a></h2>
+  <p>My first project in DPhil! Very excited to have collaborated with fantastic researchers!</p>
 
-  gtag('config', 'UA-164344843-1');
-</script>
+  <img src="../assets/img/graph-llm.png" style="width: 60%;" alt="alternatetext">
 
-#### A complete list of my publications can be found on [NASA ADS](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Anastasios%20Tzanidakis%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+  <p>TL;DR: Off-the-shelf graph prompting consistently improves LLM performance in asynchronous planning.</p>
 
+  <p>1. We automatically generate and open-source a high-quality dataset for asynchronous planning which requires both sequential and parallel efficient sheduling. </p>
 
-## Software
-___
-Roberson, M. S.; Fremling, C; Kasliwal, M. (**Tzanidakis A.**, beta feedback and evaluation). *DBSP_DRP: A Python package for automated
-spectroscopic data reduction of DBSP data*. JOSS, 2021 [joss: 03612](https://joss.theoj.org/papers/10.21105/joss.03612)
+  <p>2. We find that LLMs are extremely poor when they are not supplied with detailed task illustrations for efficient asynchronous planning.</p>
 
+  <p>3. We propose an off-the-shelf prompting method Plan Like a Graph (PLaG) and we show that PLaG consistently boosts SOTA model performance over all complexity levels.</p>
 
-Cardoso, J. V.,; Barentsen, G., Hedges, C. et al.  (including **Tzanidakis, A.**) *Lightkurve:  Kepler and TESS Time Series Analysis in Python*. Astrophysics Source Code Library, 2018 [ascl:  1812.013](http://ascl.net/1812.013)
+  <p>4. Despite the performance boost, we still find that LLMs tend to suffer from severe degradataion with increasing task complexities, which highlights the limitations of using LLMs to simulate digital devices.</p>
 
+<h4 class="year">2024</h4>
+  <h2>[LREC-COLING 2024] <a href="https://arxiv.org/pdf/2404.03301" target="_blank">Probing Large Language Models for Scalar Adjective Lexical Semantics and Scalar Diversity Pragmatics</a></h2>
+  <p>A short version of my master thesis!.</p>
 
-## Undergraduate Research
-___
+  <img src="../assets/img/diversity.png" style="width: 60%;" alt="alternatetext">
 
-[Tzanidakis, A.; Johnston, K.V.; Sheffield A. A., and Price-Whelan, A. M., **Mapping Galactic Oscillations with M Giants in Gaia DR2**. Columbia University, 2019 (B.A senior thesis)](https://github.com/AndyTza/andytza.github.io/raw/master/personal_projects/Tzanidakis_Senior_Thesis.pdf)
+  <p>TL;DR: LLMs are quite good at scalar adjective lexical semantics but not at scalar diversity pragmatics.</p>
 
-[Tzanidakis, A. and Ratcliffe, B. **Investigating the Age, Metallicity and Actions of RGB and MS Stars with the GALAH Survey**. Midterm research project for Modern Stellar Astrophysics course, instructed by Professor Melissa Ness. Columbia University, New York.](https://github.com/AndyTza/andytza.github.io/raw/master/personal_projects/MidtermMA.pdf)
+  <p>Scalar adjectives pertain to various domain scales and vary in intensity within each scale (e.g. certain is more intense than likely on the likelihood scale). Scalar implicatures arise from the consideration of alternative statements which could have been made. They can be triggered by scalar adjectives and require listeners to reason pragmatically about them. Some scalar adjectives are more likely to trigger scalar implicatures than others. This phenomenon is referred to as scalar diversity. In this study, we probe different families of Large Language Models such as GPT-4 for their knowledge of the lexical semantics of scalar adjectives and one specific aspect of their pragmatics, namely scalar diversity. We find that they encode rich lexical-semantic information about scalar adjectives. However, the rich lexical-semantic knowledge does not entail a good understanding of scalar diversity. We also compare current models of different sizes and complexities and find that larger models are not always better. Finally, we explain our probing results by leveraging linguistic intuitions and model training objectives.</p>
 
-[Tzanidakis, A. **Data Driven Calculations for Wave Energy Harvesting in Long Island, New York.** Midterm research project in Classical Waves Physics course. Columbia University, New York.](https://github.com/AndyTza/andytza.github.io/raw/master/personal_projects/Ocean_Wave_Power___Energy_in_Long_Island_New_York.pdf)
-
-[**Construction and Set-up of Low-Budget Radio Telescope at Rutherford Observatory**, Columbia University, New York. Observational Astrophysics (ASTR C3646).](https://github.com/AndyTza/Columbia-University-Radio-Astronomy-Consortium/raw/master/Columbia%20Radio%20Astronomy%20Consortium%20Begining%20and%20Set-up.pdf)
+</div>
