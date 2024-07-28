@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /publications/
+permalink:
 subtitle: Astronomy Ph.D.
 
 profile:
