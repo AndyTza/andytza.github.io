@@ -6,27 +6,18 @@ nav: true
 nav_order: 1
 ---
 
-<!-- Add some styling to the table of contents and support for dark mode -->
+<!-- Add some styling to the table of contents -->
 <style>
-  :root {
-    --bg-color-light: #f9f9f9;
-    --bg-color-dark: #333333;
-    --text-color-light: #333333;
-    --text-color-dark: #f9f9f9;
-    --border-color-light: #cccccc;
-    --border-color-dark: #444444;
-  }
-
   .toc-container {
-    background: var(--bg-color-light);
-    border: 4px solid var(--border-color-light);
+    background: #f9f9f9;
+    border: 4px solid #cccccc;
     padding: 20px;
     border-radius: 15px;
     margin-bottom: 30px;
   }
   .toc-title {
     font-size: 1.5em;
-    color: var(--text-color-light);
+    color: #333333;
     text-align: center;
     margin-bottom: 10px;
   }
@@ -45,54 +36,6 @@ nav_order: 1
   .toc-list a:hover {
     text-decoration: underline;
   }
-
-  .content-container {
-    border: 4px solid var(--border-color-light);
-    padding: 20px;
-    border-radius: 15px;
-    margin-bottom: 30px;
-    background: var(--bg-color-light);
-  }
-  .content-container h2 {
-    color: var(--text-color-light);
-  }
-  .content-container p, .content-container a {
-    color: var(--text-color-light);
-  }
-  .content-container img {
-    width: 100%;
-    border-radius: 10px;
-  }
-  .content-container p img {
-    width: 100%;
-  }
-  .content-container p em {
-    text-align: center;
-  }
-
-  @media (prefers-color-scheme: dark) {
-    .toc-container {
-      background: var(--bg-color-dark);
-      border: 4px solid var(--border-color-dark);
-    }
-    .toc-title {
-      color: var(--text-color-dark);
-    }
-    .toc-list a {
-      color: #66B2FF;
-    }
-
-    .content-container {
-      border: 4px solid var(--border-color-dark);
-      background: var(--bg-color-dark);
-    }
-    .content-container h2 {
-      color: var(--text-color-dark);
-    }
-    .content-container p, .content-container a {
-      color: var(--text-color-dark);
-    }
-  }
 </style>
 
 <div class="toc-container">
@@ -110,10 +53,10 @@ nav_order: 1
 ## Deep Dive into Slow-Time Domain Astronomy
 ___
 
-<div class="content-container" style="border-color: #4CAF50;">
+<div style="border: 4px solid #4CAF50; padding: 20px; border-radius: 15px; margin-bottom: 30px; background: #f0fff4;">
   <h2 style="color: #4CAF50;">Exploring Stellar Evolution</h2>
   <p>I am excited about slow-time domain astronomy, particularly studying stellar evolution through slowly evolving variability. Systems like <a href="https://andytza.github.io/Gaia17bpp/">Gaia17bpp</a> offer insights into exotic and extreme stellar binaries. This project is mentored by my advisor, <a href="https://depts.washington.edu/astron/profile/davenport-james/">Professor James Davenport</a>.</p>
-  <img src="/images/gaia_dip.png" alt="Location of Gaia19asz on the Gaia HR diagram" />
+  <img src="/images/gaia_dip.png" alt="Location of Gaia19asz on the Gaia HR diagram" style="width:100%; border-radius: 10px;" />
   <p style="text-align: center;"><em>Example of a long-period-deep stellar variable discovered from the Gaia Alert Archive in unison with the Zwicky Transient Facility</em></p>
 </div>
 
@@ -122,7 +65,7 @@ ___
 ## Characterizing Periodic Signals in the LSST Era
 ___
 
-<div class="content-container" style="border-color: #2196F3;">
+<div style="border: 4px solid #2196F3; padding: 20px; border-radius: 15px; margin-bottom: 30px; background: #e3f2fd;">
   <h2 style="color: #2196F3;">LSST Survey Analysis</h2>
   <p>Under the guidance of Professor Eric Bellm, I work with the Vera C. Rubin Observatory Data Management group on transient alert processing. We focus on calculating and characterizing alert light curve moments and statistical properties for transient classification. Our findings will be published in the <a href="https://dmtn-221.lsst.io/">LSST Data Management Technotes-221</a>.</p>
 </div>
@@ -132,12 +75,12 @@ ___
 ## Type-II Supernovae in the Local Universe with the Zwicky Transient Facility
 ___
 
-<div class="content-container" style="border-color: #FF9800;">
+<div style="border: 4px solid #FF9800; padding: 20px; border-radius: 15px; margin-bottom: 30px; background: #fff3e0;">
   <h2 style="color: #FF9800;">Research on Supernovae</h2>
   <p>I have been researching type-II supernovae in the local universe with the Zwicky Transient Facility (ZTF) under Professor Mansi Kasliwal and Ph.D. student Kishalay De. Our work, which aims to understand supernova populations, will soon be published on ArXiv.</p>
-  <img src="/images/CLU_snap.png" alt="Census of the Local Universe Snapshots" />
+  <img src="/images/CLU_snap.png" alt="Census of the Local Universe Snapshots" style="width:100%; border-radius: 10px;" />
   <p style="text-align: center;"><em>Science images of type II SNe discovered by the ZTF CLU experiment.</em></p>
-  <img src="/images/typeIICLU_Lcs.png" alt="Type II Supernovae Lightcurve Models" />
+  <img src="/images/typeIICLU_Lcs.png" alt="Type II Supernovae Lightcurve Models" style="width:100%; border-radius: 10px;" />
   <p style="text-align: center;"><em>Modeling type II lightcurves using parametric lightcurve models.</em></p>
 </div>
 
@@ -146,11 +89,11 @@ ___
 ## Galactic Archeology: Tomography of the Galactic Disk
 ___
 
-<div class="content-container" style="border-color: #FF5722;">
+<div style="border: 4px solid #FF5722; padding: 20px; border-radius: 15px; margin-bottom: 30px; background: #fbe9e7;">
   <h2 style="color: #FF5722;">Understanding the Milky Way</h2>
   <p>During my undergraduate studies, I researched the shape of the Milky Way's disk, contributing to the discovery that the disk is oscillating. Our findings suggest dwarf satellite galaxies cause these large-scale oscillations. Learn more from our publications <a href="https://andytza.github.io/publications/">here</a>.</p>
-  <img src="/images/sgr-col.gif" alt="Viewing angle from different observers, what the disk looks like!" />
+  <img src="/images/sgr-col.gif" alt="Viewing angle from different observers, what the disk looks like!" style="width:100%; border-radius: 10px;" />
   <p style="text-align: center;"><em>Interaction between the Milky Way and the Sagittarius dwarf satellite galaxy.</em></p>
-  <img src="/images/mw.png" alt="Viewing angle from different observers, what the disk looks like!" />
+  <img src="/images/mw.png" alt="Viewing angle from different observers, what the disk looks like!" style="width:100%; border-radius: 10px;" />
   <p style="text-align: center;"><em>Oscillations of the Galactic disk after interaction with Sagittarius.</em></p>
 </div>
