@@ -6,6 +6,50 @@ nav: true
 nav_order: 1
 ---
 
+<!-- Add some styling to the table of contents -->
+<style>
+  .toc-container {
+    background: #f9f9f9;
+    border: 4px solid #cccccc;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+  }
+  .toc-title {
+    font-size: 1.5em;
+    color: #333333;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .toc-list {
+    list-style: none;
+    padding: 0;
+  }
+  .toc-list li {
+    margin: 10px 0;
+  }
+  .toc-list a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+  }
+  .toc-list a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<div class="toc-container">
+  <div class="toc-title">Table of Contents</div>
+  <ul class="toc-list">
+    <li><a href="#deep-dive-into-slow-time-domain-astronomy">Deep Dive into Slow-Time Domain Astronomy</a></li>
+    <li><a href="#characterizing-periodic-signals-in-the-lsst-era">Characterizing Periodic Signals in the LSST Era</a></li>
+    <li><a href="#type-ii-supernovae-in-the-local-universe-with-the-zwicky-transient-facility">Type-II Supernovae in the Local Universe with the Zwicky Transient Facility</a></li>
+    <li><a href="#galactic-archeology-tomography-of-the-galactic-disk">Galactic Archeology: Tomography of the Galactic Disk</a></li>
+  </ul>
+</div>
+
+
+
 
 ## Deep Dive into Slow-Time Domain Astronomy
 ___
