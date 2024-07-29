@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /About/
+permalink: /about/
+title: About Me
+nav: true
+nav_order: 6
 ---
 
 Greetings!
