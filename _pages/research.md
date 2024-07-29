@@ -5,8 +5,8 @@ title: Research
 nav: true
 nav_order: 1
 ---
-<!-- Add some styling to the table of contents and support for dark mode -->
 
+<!-- Add some styling to the table of contents and support for dark mode -->
 <style>
   :root {
     --bg-color-light: #f9f9f9;
