@@ -5,13 +5,13 @@ title: Research
 nav: true
 nav_order: 1
 ---
-<!-- Add some styling to the table of contents and support for dark mode -->
+
 <style>
   :root {
     --bg-color-light: #f9f9f9;
-    --bg-color-dark: #1e1e1e;
+    --bg-color-dark: #333333;
     --text-color-light: #333333;
-    --text-color-dark: #e0e0e0;
+    --text-color-dark: #f9f9f9;
     --border-color-light: #cccccc;
     --border-color-dark: #444444;
     --border-color-green-light: #4CAF50;
@@ -24,7 +24,6 @@ nav_order: 1
     --border-color-red-dark: #FF8A65;
   }
 
-  /* Table of Contents Styling */
   .toc-container {
     background: var(--bg-color-light);
     border: 4px solid var(--border-color-light);
@@ -54,7 +53,6 @@ nav_order: 1
     text-decoration: underline;
   }
 
-  /* Content Container Styling */
   .content-container {
     border: 4px solid var(--border-color-light);
     padding: 20px;
@@ -72,11 +70,13 @@ nav_order: 1
     width: 100%;
     border-radius: 10px;
   }
+  .content-container p img {
+    width: 100%;
+  }
   .content-container p em {
     text-align: center;
   }
 
-  /* Dark Mode Styling */
   @media (prefers-color-scheme: dark) {
     .toc-container {
       background: var(--bg-color-dark);
@@ -88,6 +88,7 @@ nav_order: 1
     .toc-list a {
       color: #66B2FF;
     }
+
     .content-container {
       border: 4px solid var(--border-color-dark);
       background: var(--bg-color-dark);
@@ -146,7 +147,7 @@ nav_order: 1
 ___
 
 <div class="content-container green">
-  <h2>Exploring Stellar Evolution</h2>
+  <h2 style="color: #4CAF50;">Exploring Stellar Evolution</h2>
   <p>I am excited about slow-time domain astronomy, particularly studying stellar evolution through slowly evolving variability. Systems like <a href="https://andytza.github.io/Gaia17bpp/">Gaia17bpp</a> offer insights into exotic and extreme stellar binaries. This project is mentored by my advisor, <a href="https://depts.washington.edu/astron/profile/davenport-james/">Professor James Davenport</a>.</p>
   <img src="/images/gaia_dip.png" alt="Location of Gaia19asz on the Gaia HR diagram" />
   <p style="text-align: center;"><em>Example of a long-period-deep stellar variable discovered from the Gaia Alert Archive in unison with the Zwicky Transient Facility</em></p>
@@ -158,7 +159,7 @@ ___
 ___
 
 <div class="content-container blue">
-  <h2>LSST Survey Analysis</h2>
+  <h2 style="color: #2196F3;">LSST Survey Analysis</h2>
   <p>Under the guidance of Professor Eric Bellm, I work with the Vera C. Rubin Observatory Data Management group on transient alert processing. We focus on calculating and characterizing alert light curve moments and statistical properties for transient classification. Our findings will be published in the <a href="https://dmtn-221.lsst.io/">LSST Data Management Technotes-221</a>.</p>
 </div>
 
@@ -168,7 +169,7 @@ ___
 ___
 
 <div class="content-container orange">
-  <h2>Research on Supernovae</h2>
+  <h2 style="color: #FF9800;">Research on Supernovae</h2>
   <p>I have been researching type-II supernovae in the local universe with the Zwicky Transient Facility (ZTF) under Professor Mansi Kasliwal and Ph.D. student Kishalay De. Our work, which aims to understand supernova populations, will soon be published on ArXiv.</p>
   <img src="/images/CLU_snap.png" alt="Census of the Local Universe Snapshots" />
   <p style="text-align: center;"><em>Science images of type II SNe discovered by the ZTF CLU experiment.</em></p>
@@ -182,7 +183,7 @@ ___
 ___
 
 <div class="content-container red">
-  <h2>Understanding the Milky Way</h2>
+  <h2 style="color: #FF5722;">Understanding the Milky Way</h2>
   <p>During my undergraduate studies, I researched the shape of the Milky Way's disk, contributing to the discovery that the disk is oscillating. Our findings suggest dwarf satellite galaxies cause these large-scale oscillations. Learn more from our publications <a href="https://andytza.github.io/publications/">here</a>.</p>
   <img src="/images/sgr-col.gif" alt="Viewing angle from different observers, what the disk looks like!" />
   <p style="text-align: center;"><em>Interaction between the Milky Way and the Sagittarius dwarf satellite galaxy.</em></p>
