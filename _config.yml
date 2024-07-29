@@ -115,7 +115,7 @@ orcid_id: 0000-0003-0484-3331 # your ORCID ID
 blog_name: astro-blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: Advice and other.
-permalink: /blog/:year/:title/
+permalink: /blog/_posts/:year/:title/
 
 # # Pagination
 # pagination:
