@@ -15,5 +15,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello, I'm Anastasios Tzanidakis 👋 
-My website is under construction please come back for updates.
+Hello, I'm Anastasios (Andy) Tzanidakis 👋 
+
+I'm a third-year astronomy Ph.D. student at the University of Washington and the director for the UW Planetarium. 
+My academic interests include data analysis of large-scale astronomical survyes, time-domain astronomy, transients, and stellar variability.
