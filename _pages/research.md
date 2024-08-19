@@ -38,15 +38,7 @@ nav_order: 1
   }
 </style>
 
-<div class="toc-container">
-  <div class="toc-title">Table of Contents</div>
-  <ul class="toc-list">
-    <li><a href="#deep-dive-into-slow-time-domain-astronomy">Deep Dive into Slow-Time Domain Astronomy</a></li>
-    <li><a href="#characterizing-periodic-signals-in-the-lsst-era">Characterizing Periodic Signals in the LSST Era</a></li>
-    <li><a href="#type-ii-supernovae-in-the-local-universe-with-the-zwicky-transient-facility">Type-II Supernovae in the Local Universe with the Zwicky Transient Facility</a></li>
-    <li><a href="#galactic-archeology-tomography-of-the-galactic-disk">Galactic Archeology: Tomography of the Galactic Disk</a></li>
-  </ul>
-</div>
+⚠️ ⚠️ The following page is under consturction, please come back! ⚠️ ⚠️ 
 
 ---
 
