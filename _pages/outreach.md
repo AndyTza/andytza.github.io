@@ -14,6 +14,27 @@ nav_order: 5
   <img src="/images/planetarium.jpg" alt="UW-planetarium" style="width:100%; border-radius: 10px;" />
 </div>
 
+<div style="border: 2px solid #FFC107; padding: 10px; border-radius: 10px; margin-bottom: 20px;">
+  <h2 style="color: #FFC107;">Science Communication and Outreach</h2>
+  <p>Engaging the public with science is a vital part of my work. Through various platforms, including YouTube, I strive to make complex astronomical concepts accessible and exciting for all. Watch my latest science communication video <a href="https://www.youtube.com/watch?v=smCAEWqOffE&t=2282s">here</a>, where I discuss recent astronomical discoveries and their impact on our understanding of the universe.</p>
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+    <div style="border: 2px solid #FFC107; padding: 10px; border-radius: 10px; background-color: #f9f9f9;">
+      <img src="" alt="Placeholder for photo 1" style="width: 100%; border-radius: 10px;" />
+    </div>
+    <div style="border: 2px solid #FFC107; padding: 10px; border-radius: 10px; background-color: #f9f9f9;">
+      <img src="" alt="Placeholder for photo 2" style="width: 100%; border-radius: 10px;" />
+    </div>
+    <div style="border: 2px solid #FFC107; padding: 10px; border-radius: 10px; background-color: #f9f9f9;">
+      <img src="" alt="Placeholder for photo 3" style="width: 100%; border-radius: 10px;" />
+    </div>
+    <div style="border: 2px solid #FFC107; padding: 10px; border-radius: 10px; background-color: #f9f9f9;">
+      <img src="" alt="Placeholder for photo 4" style="width: 100%; border-radius: 10px;" />
+    </div>
+  </div>
+</div>
+
+
+
 
 <div style="border: 2px solid #2196F3; padding: 10px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="color: #2196F3;">StarBites Radio</h2>
