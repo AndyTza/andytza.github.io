@@ -42,7 +42,7 @@ nav_order: 1
 
 ---
 
-## Deep Dive into Slow-Time Domain Astronomy
+## Eclipses by Large Disks
 ___
 
 <div style="border: 4px solid #4CAF50; padding: 20px; border-radius: 15px; margin-bottom: 30px; background: #f0fff4;">
