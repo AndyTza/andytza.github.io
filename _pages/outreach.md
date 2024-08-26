@@ -24,13 +24,13 @@ nav_order: 5
       </a>
     </div>
     <div style="border: 2px solid #FFC107; padding: 10px; border-radius: 10px; background-color: #f9f9f9;">
-      <img src="" alt="Placeholder for photo 2" style="width: 100%; border-radius: 10px;" />
+      <img src="/images/outreach1.jpg" alt="Placeholder for photo 2" style="width: 100%; border-radius: 10px;" />
     </div>
     <div style="border: 2px solid #FFC107; padding: 10px; border-radius: 10px; background-color: #f9f9f9;">
-      <img src="" alt="Placeholder for photo 3" style="width: 100%; border-radius: 10px;" />
+      <img src="/images/outreach2.jpg" alt="Placeholder for photo 3" style="width: 100%; border-radius: 10px;" />
     </div>
     <div style="border: 2px solid #FFC107; padding: 10px; border-radius: 10px; background-color: #f9f9f9;">
-      <img src="" alt="Placeholder for photo 4" style="width: 100%; border-radius: 10px;" />
+      <img src="/images/andy-dirac.jpeg" alt="Placeholder for photo 4" style="width: 100%; border-radius: 10px;" />
     </div>
   </div>
 </div>
