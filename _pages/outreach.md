@@ -38,7 +38,9 @@ nav_order: 5
 
 <div style="border: 2px solid #2196F3; padding: 10px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="color: #2196F3;">StarBites Radio</h2>
-  <p>StarBites Radio is a podcast I founded to unite students passionate about astrophysics. We've launched two seasons covering topics from general relativity to women in astronomy. Join our community and listen to our episodes <a href="https://anchor.fm/starbites-radio">here</a> and follow us on <a href="https://www.instagram.com/starbitesradio/">Instagram</a>.</p>
+  <p>StarBites Radio is a podcast I founded to unite students passionate about astrophysics. StarBites Radio was created 
+  to provide a platform for undergraduate astronomy students to come together and practice their science communication skills with an emphasis on the historical aspect of astronomy. 
+  We've launched two seasons covering topics from general relativity to women in astronomy. Join our community and listen to our episodes <a href="https://anchor.fm/starbites-radio">here</a> and follow us on <a href="https://www.instagram.com/starbitesradio/">Instagram</a>.</p>
   <div style="display: flex; flex-wrap: wrap;">
     <img src="/images/IMG_6397.jpg" alt="" style="width: 48%; margin: 1%;" />
     <img src="/images/sb_18.jpg" alt="" style="width: 48%; margin: 1%;" />
@@ -49,7 +51,9 @@ nav_order: 5
 
 <div style="border: 2px solid #FF9800; padding: 10px; border-radius: 10px; margin-bottom: 20px;">
   <h2 style="color: #FF9800;">Local Hackathons</h2>
-  <p>Programming is essential in astronomy. I organized Columbia's first astronomy Python hackathon with GitHub's MLH. Students collaborated, learned to code, and presented projects like 3D star maps and lunar surface maps.</p>
-  <img src="/images/coding_blueshift.jpeg" alt="BlueShift Astro-hackathon" style="width:100%; border-radius: 10px;" />
-  <p style="text-align: center;"><em>(Hosted in Columbia's Astronomy library)</em></p>
+  <p>Throughout my undergraduate and graduate career, I have had the wonderful opportunity to organize several local astronomy hackathons. These events have allowed students to engage with  hands-on programming experiences, data science, and research in astronomy in a collaborative and fun environment. From early hackathons where participants explored coding and data visualization, to more specialized events like the Gaia Data Sprint at the University of Washington, each experience has emphasized innovation and community.</p>
+  <div style="display: flex; flex-wrap: wrap;">
+    <img src="/images/coding_blueshift.jpeg" alt="" style="width: 48%; margin: 1%;" />
+    <img src="/images/gaia-hackathon24.png" alt="" style="width: 48%; margin: 1%;" />
+  </div>
 </div>
