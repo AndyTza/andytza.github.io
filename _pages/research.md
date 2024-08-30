@@ -54,12 +54,14 @@ ___
 
 ---
 
-## Characterizing Periodic Signals in the LSST Era
+## Time-Series Features in the LSST Era
 ___
 
 <div style="border: 4px solid #2196F3; padding: 20px; border-radius: 15px; margin-bottom: 30px; background: #e3f2fd;">
   <h2 style="color: #2196F3;">LSST Survey Analysis</h2>
-  <p>Under the guidance of Professor Eric Bellm, I work with the Vera C. Rubin Observatory Data Management group on transient alert processing. We focus on calculating and characterizing alert light curve moments and statistical properties for transient classification. Our findings will be published in the <a href="https://dmtn-221.lsst.io/">LSST Data Management Technotes-221</a>.</p>
+  <p> In the era of large time-domain surveys with gappy, multi-band, and sparse photometric measurements, time series features have become an important tool to search for populations of variable stars and transient phenomena [(Richards et al. 2011)](https://ui.adsabs.harvard.edu/abs/2011ApJ...733...10R/abstract). During my first year of graduate school, I worked with Professor Eric Bellm and the UW Data Management group on transient alert processing. My interests aimed to characterize the recovery of periodic objects in data like the LSST alerts and what are the optimum techniques used to increase the efficiency of finding reliable periods. Some of my work also included characterizing alert light curve time series features and statistical properties of transients and variable stars. Our findings have been reported in the <a href="https://dmtn-221.lsst.io/">LSST Data Management Technotes-221</a>.</p>
+  <img src="/images/lsst-lc.png" alt="LSST simulated light curves of RR Lyrae and eclipsing binaries." style="width:100%; border-radius: 10px;" />
+  <p style="text-align: center;"><em>Synthetic LSST Alert-like photometry of two periodic sources: RR Lyrae and Eclipsing Binaries.</em></p>
 </div>
 
 ---
