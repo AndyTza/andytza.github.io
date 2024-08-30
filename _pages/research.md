@@ -49,7 +49,7 @@ ___
   <p>We are now at the cusp of probing stellar variability on timescales spanning decades, which opens the door to uncovering new and rare types of variable stars. In my first year of graduate school, I serendipitously discovered <a href="https://andytza.github.io/Gaia17bpp/">Gaia17bpp</a>, a system that we believe could be an extreme analog to the famous [Epsilon Aurigae](https://arxiv.org/pdf/1004.2464) binary, and currently holds the record for the longest duration dimming event we have found. This discovery offers a unique opportunity to study eclipses caused by massive circumstellar disks, pushing the boundaries of our understanding of long-period stellar variables.</p>
   
   <div style="display: flex; justify-content: space-around;">
-    <img src="/images/disk-eclipse-comp.png" alt="Disk Eclipse Comparison" style="width:48%; border-radius: 10px;" />
+    <img src="/images/disk-eclipse-comp.png" alt="Disk Eclipse Comparison" style="width:88%; border-radius: 10px;" />
     <img src="/images/Gaia17bpp_WISE.gif" alt="Gaia17bpp and WISE Comparison" style="width:48%; border-radius: 10px;" />
   </div>
   
