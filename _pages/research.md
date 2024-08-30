@@ -57,9 +57,6 @@ ___
 </div>
 
 
-
----
-
 ## Time-Series Features in the LSST Era
 ___
 
