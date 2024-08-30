@@ -46,7 +46,7 @@ ___
 
 <div style="border: 4px solid #4CAF50; padding: 20px; border-radius: 15px; margin-bottom: 30px; background: #f0fff4;">
   <h2 style="color: #4CAF50;">Gaia17bpp and other Disk Eclipses</h2>
-  <p>We are now at the cusp of probing stellar variability on timescales spanning decades, which opens the door to uncovering new and rare types of variable stars. In my first year of graduate school, I serendipitously discovered <a href="https://andytza.github.io/Gaia17bpp/">Gaia17bpp</a> ([Tzanidakis et al. 2023](https://iopscience.iop.org/article/10.3847/1538-4357/aceda7)), a system that we believe could be an extreme analog to the famous <a href="https://arxiv.org/pdf/1004.2464">Epsilon Aurigae</a> binary, and currently holds the record for the longest duration dimming event we have found. This discovery offers a unique opportunity to study eclipses caused by massive circumstellar disks, pushing the boundaries of our understanding of long-period stellar variables.</p>
+  <p>We are now at the cusp of probing stellar variability on timescales spanning decades, which opens the door to uncovering new and rare types of variable stars. In my first year of graduate school, I serendipitously discovered <a href="https://andytza.github.io/Gaia17bpp/">Gaia17bpp</a> (<a> href="https://iopscience.iop.org/article/10.3847/1538-4357/aceda7"> (Tzanidakis et al. 2023) </a>), a system that we believe could be an extreme analog to the famous <a href="https://arxiv.org/pdf/1004.2464">Epsilon Aurigae</a> binary, and currently holds the record for the longest duration dimming event we have found. This discovery offers a unique opportunity to study eclipses caused by massive circumstellar disks, pushing the boundaries of our understanding of long-period stellar variables.</p>
   
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
     <img src="/images/disk-eclipse-comp.png" alt="Disk Eclipse Comparison" style="width: 100%; border-radius: 10px;" />
@@ -64,7 +64,7 @@ ___
 ___
 
 <div style="border: 4px solid #2196F3; padding: 20px; border-radius: 15px; margin-bottom: 30px; background: #e3f2fd;">
-  <h2 style="color: #2196F3;">LSST Survey Analysis</h2>
+  <h2 style="color: #2196F3;">LSST Time-Series Features</h2>
   <p> In the era of large time-domain surveys with gappy, multi-band, and sparse photometric measurements, time series features have become an important tool to search for populations of variable stars and transient phenomena [(Richards et al. 2011)](https://ui.adsabs.harvard.edu/abs/2011ApJ...733...10R/abstract). During my first year of graduate school, I worked with Professor Eric Bellm and the UW Data Management group on transient alert processing. My interests aimed to characterize the recovery of periodic objects in data like the LSST alerts and what are the optimum techniques used to increase the efficiency of finding reliable periods. Some of my work also included characterizing alert light curve time series features and statistical properties of transients and variable stars. Our findings have been reported in the <a href="https://dmtn-221.lsst.io/">LSST Data Management Technotes-221</a>.</p>
   <img src="/images/lsst-lc.png" alt="LSST simulated light curves of RR Lyrae and eclipsing binaries." style="width:100%; border-radius: 10px;" />
   <p style="text-align: center;"><em>Synthetic LSST Alert-like photometry of two periodic sources: RR Lyrae and Eclipsing Binaries.</em></p>
