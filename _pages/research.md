@@ -91,7 +91,10 @@ ___
 
 <div style="border: 4px solid #FF5722; padding: 20px; border-radius: 15px; margin-bottom: 30px; background: #fbe9e7;">
   <h2 style="color: #FF5722;">Understanding the Milky Way</h2>
-  <p>During my undergraduate studies, I researched the shape of the Milky Way's disk, contributing to the discovery that the disk is oscillating. Our findings suggest dwarf satellite galaxies cause these large-scale oscillations. Learn more from our publications <a href="https://andytza.github.io/publications/">here</a>.</p>
+  <p>During my undergraduate studies, I was extensively interested in probing the 3D distribution of stars in the Milky Way's disk under the mentorship of [Professor Allyson Sheffield](https://www.laguardia.edu/uploadedfiles/main_site/content/home/docs/allyson-sheffield.pdf), Professor Kathryn Johnston, and Professor Chervin Laporte. 
+  
+  
+  researched the shape of the Milky Way's disk, contributing to the discovery that the disk is oscillating. Our findings suggest dwarf satellite galaxies cause these large-scale oscillations. Learn more from our publications <a href="https://andytza.github.io/publications/">here</a>.</p>
   <img src="/images/sgr-col.gif" alt="Viewing angle from different observers, what the disk looks like!" style="width:100%; border-radius: 10px;" />
   <p style="text-align: center;"><em>Interaction between the Milky Way and the Sagittarius dwarf satellite galaxy.</em></p>
   <img src="/images/mw.png" alt="Viewing angle from different observers, what the disk looks like!" style="width:100%; border-radius: 10px;" />
