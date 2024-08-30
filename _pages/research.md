@@ -49,7 +49,7 @@ ___
   <p>We are now at the cusp of probing stellar variability on timescales spanning decades, which opens the door to uncovering new and rare types of variable stars. In my first year of graduate school, I serendipitously discovered <a href="https://andytza.github.io/Gaia17bpp/">Gaia17bpp</a>, a system that we believe could be an extreme analog to the famous [Epsilon Aurigae](https://arxiv.org/pdf/1004.2464) binary, and currently holds the record for the longest duration dimming event we have found. This discovery offers a unique opportunity to study eclipses caused by massive circumstellar disks, pushing the boundaries of our understanding of long-period stellar variables.</p>
   
   <div style="display: flex; justify-content: space-around;">
-    <img src="/images/disk-eclipse-comp.png" alt="Disk Eclipse Comparison" style="width:88%; border-radius: 10px;" />
+    <img src="/images/disk-eclipse-comp.png" alt="Disk Eclipse Comparison" style="width:100%; border-radius: 10px;" />
     <img src="/images/Gaia17bpp_WISE.gif" alt="Gaia17bpp and WISE Comparison" style="width:48%; border-radius: 10px;" />
   </div>
   
@@ -75,8 +75,9 @@ ___
 ___
 
 <div style="border: 4px solid #FF9800; padding: 20px; border-radius: 15px; margin-bottom: 30px; background: #fff3e0;">
-  <h2 style="color: #FF9800;">Research on Supernovae</h2>
-  <p>I have been researching type-II supernovae in the local universe with the Zwicky Transient Facility (ZTF) under Professor Mansi Kasliwal and Ph.D. student Kishalay De. Our work, which aims to understand supernova populations, will soon be published on ArXiv.</p>
+  <h2 style="color: #FF9800;">ZTF Census of the Local Universe (CLU) Experiment</h2>
+  <p> During my post-baccalaureate research, I was fortunate to work under [Professor Mansi Kasiwal](https://sites.astro.caltech.edu/~mansi/), [Professor Kishalay](https://dekishalay.github.io/) at Caltech to co-lead the Zwicky Transient Facility (ZTF) Census of the Local Universe (CLU) supernova experiment. 
+  In short, CLU aimed achieve high completeness of all known discovered supernovae by ZTF within 200 Mpc (see (De et al. 2020)[https://arxiv.org/abs/2004.09029]). In parallel, I was interested in probing the luminosity function and distribution of core-collapse Type-II supernovae to better understand their origins and how their properties change as a function of host-galaxy. </p>
   <img src="/images/CLU_snap.png" alt="Census of the Local Universe Snapshots" style="width:100%; border-radius: 10px;" />
   <p style="text-align: center;"><em>Science images of type II SNe discovered by the ZTF CLU experiment.</em></p>
   <img src="/images/typeIICLU_Lcs.png" alt="Type II Supernovae Lightcurve Models" style="width:100%; border-radius: 10px;" />
