@@ -39,17 +39,15 @@ nav_order: 1
 </style>
 
 
-## Probing the Circumstellar Envionments around Dwarfs
+## Probing the Circumstellar Envionments around Dwarf
 
-<div style="border: 4px solid #1CAF50; padding: 20px; border-radius: 15px; margin-bottom: 30px; background: #f0fff4;">
-  <h2 style="color: #4CAF50;">Test and other Disk Eclipses</h2>
-  <p>We are now at the cusp of probing stellar variability on timescales spanning decades, which opens the door to uncovering new and rare types of variable stars. In my first year of graduate school..., I serendipitously discovered <a href="https://andytza.github.io/Gaia17bpp/">Gaia17bpp</a> (<a href="https://iopscience.iop.org/article/10.3847/1538-4357/aceda7">Tzanidakis et al. 2023</a>), a system that we believe could be an extreme analog to the famous <a href="https://arxiv.org/pdf/1004.2464.pdf">Epsilon Aurigae</a> binary, and currently holds the record for the longest duration dimming event we have found. This discovery offers a unique opportunity to study eclipses caused by massive circumstellar disks, pushing the boundaries of our understanding of long-period stellar variables.</p>
-  
+<div style="border: 4px solid #E6A8D7; padding: 20px; border-radius: 15px; margin-bottom: 30px; background: #f0fff4;">
+  <h2 style="color: #E6A8D7;">Main-Sequence Dipper Stars</h2>
+  <p>In 2016, <a href="https://ui.adsabs.harvard.edu/abs/2016MNRAS.457.3988B/abstract">Boyajian et al. (2016)</a> revealed one of the first main-sequence stars with erratic dimming events, stirring discussions and theories on the origins of such rare stars. Only a small number of similar systems have been identified since, leaving many open questions about their origins and if they are connected at all with the initial discovery of the Boyajian star. My Ph.D dissertation work pioneers the first ever large-scale systematic search for these irregularly variable dwarf stars, analyzing extensive time-domain data to assess their occurrence and potential origins, such as planetary-scale collisions or Earth-Moon-like formation events. This work also drives the development of scalable tools for examining stellar variability across billions of stars, expanding our ability to probe diverse behavior of stellar variability phenomena.</p>
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
     <img src="/images/msenvs.png" alt="Artist rendering" style="width: 100%; border-radius: 10px;" />
   </div>
-  
-  <p style="text-align: center;"><em>Left: Light curve mosaic of known Epsilon Aurigae analog systems including Gaia17bpp. Right: Movie from WISE revealing long-term variability.</em></p>
+  <p style="text-align: center;"><em>Right:</em></p>
 </div>
 
 
