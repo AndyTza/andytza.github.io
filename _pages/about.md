@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello, I'm Anastasios (Andy) Tzanidakis 👋 
 
-I'm a third-year astronomy Ph.D. student at the University of Washington and the director for the [University of Washington Planetarium](https://astro.washington.edu/uw-planetarium). 
+I'm a fourth-year astronomy Ph.D. candidate at the University of Washington and the director for the [University of Washington Planetarium](https://astro.washington.edu/uw-planetarium). 
 My academic interests include data analysis of large-scale astronomical surveys,  stellar astronomy, time-domain astronomy, and classification of transients.
 
 Please contact me by email: [atzanida@uw.edu](mailto:atzanida@uw.edu).
