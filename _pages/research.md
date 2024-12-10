@@ -39,7 +39,7 @@ nav_order: 1
 </style>
 
 
-## Probing the Circumstellar Environments around Dwarf Stars
+## Circumstellar Environments around Dwarf Stars
 
 <div style="border: 4px solid #E6A8D7; padding: 20px; border-radius: 15px; margin-bottom: 30px; background: #f0fff4;">
   <h2 style="color: #E6A8D7;">Main-Sequence Dipper Stars</h2>
