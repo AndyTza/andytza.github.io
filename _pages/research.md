@@ -48,7 +48,7 @@ nav_order: 1
     <img src="/images/msenvs.png" alt="Artist rendering" style="width: 100%; border-radius: 10px;" />
     <img src="/images/msss.png" alt="Gaia17bpp and WISE Comparison" style="width: 100%; border-radius: 10px;" />
   </div>
-  <p style="text-align: center;"><em>Right:</em></p>
+  <p style="text-align: center;"><em></em></p>
 </div>
 
 
