@@ -44,9 +44,10 @@ nav_order: 1
 <div style="border: 4px solid #E6A8D7; padding: 20px; border-radius: 15px; margin-bottom: 30px; background: #f0fff4;">
   <h2 style="color: #E6A8D7;">Main-Sequence Dipper Stars</h2>
   <p>In 2016, <a href="https://ui.adsabs.harvard.edu/abs/2016MNRAS.457.3988B/abstract">Boyajian et al. (2016)</a> revealed one of the first main-sequence stars with erratic dimming events, stirring discussions and theories on the origins of such rare stars. Only a small number of similar systems have been identified since, leaving many open questions about their origins and if they are connected at all with the initial discovery of the Boyajian star. My Ph.D dissertation work conducts the first ever large-scale systematic search for these irregularly variable dwarf stars, analyzing extensive time-domain data to assess their occurrence and potential origins, such as planetary-scale collisions or Earth-Moon-like formation events. This work also drives the development of scalable tools for examining stellar variability across billions of stars, expanding our ability to probe diverse behavior of stellar variability phenomena.</p>
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
   <img src="/images/msdip.jpeg" alt="Sky position of main-sequence dipper stars and example of ZTF light curve." style="width:50%; border-radius: 10px;" />
   <img src="/images/mslc1.png" alt="Disk Eclipse Comparison" style="width: 60%; border-radius: 10px;" />
+  </div>
   <p style="text-align: center;"><em></em></p>
 </div>
 
