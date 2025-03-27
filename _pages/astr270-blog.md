@@ -5,6 +5,7 @@ title: ASTR 270 Blog
 nav: false
 nav_order: 7
 ---
+
 <style>
 .blog-container {
   display: flex;
