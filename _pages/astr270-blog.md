@@ -6,58 +6,35 @@ nav: false
 nav_order: 7
 ---
 <style>
-.blog-container {
+.blog-article h2 {
+  font-size: 1.5rem;
+  margin-top: 0;
   display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-}
-
-.blog-card {
-  border: 1px solid #ccc;
-  border-radius: 10px;
-  padding: 1rem;
-  display: flex;
-  flex-direction: row;
   align-items: center;
-  gap: 1rem;
-  background: #f9f9f9;
-  transition: box-shadow 0.2s ease;
-  cursor: pointer;
+  gap: 0.5rem;
 }
-
-.blog-card:hover {
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+.blog-article h4 {
+  margin-top: 1.2rem;
+  color: #444;
+  font-weight: 600;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
 }
-
-.blog-image {
-  width: 100px;
-  height: 100px;
-  border-radius: 8px;
-  object-fit: cover;
-}
-
-.blog-preview {
-  flex-grow: 1;
-}
-
-.blog-title {
-  font-size: 1.2rem;
-  font-weight: bold;
-  margin-bottom: 0.3rem;
-}
-
-.blog-description {
-  font-size: 0.95rem;
-  color: #555;
-}
-
-.blog-article {
-  display: none;
-  padding: 1rem;
+.blog-article blockquote {
   border-left: 4px solid #007acc;
-  background: #fcfcfc;
-  margin-top: -1rem;
-  margin-bottom: 2rem;
+  background: #f0f8ff;
+  padding: 0.7rem 1rem;
+  margin: 1rem 0;
+  font-style: italic;
+  color: #333;
+}
+.callout {
+  background: #fff8e1;
+  border: 1px solid #ffcc80;
+  padding: 1rem;
+  margin-top: 1.5rem;
+  border-radius: 6px;
+  font-size: 0.95rem;
 }
 </style>
 
@@ -65,23 +42,42 @@ nav_order: 7
 Welcome to the ASTR 270 Blog! Dive into explainers, course insights, and stories from the stars.
 
 ---
-
 <div class="blog-container">
 
-<!-- BLOG CARD 1 -->
-<div class="blog-card" onclick="toggleBlog('article1')">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Light_curve_of_a_supernova.svg/1024px-Light_curve_of_a_supernova.svg.png" class="blog-image" alt="Light curve">
-  <div class="blog-preview">
-    <div class="blog-title">Tile</div>
-    <div class="blog-description">A star’s diary, hidden in its light over time. Learn how we decode it in ASTR 270.</div>
+  <!-- BLOG CARD 1 -->
+  <div class="blog-card" onclick="toggleBlog('article1')">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Light_curve_of_a_supernova.svg/1024px-Light_curve_of_a_supernova.svg.png" class="blog-image" alt="Light curve">
+    <div class="blog-preview">
+      <div class="blog-title">🌀 What Is a Light Curve, Really?</div>
+      <div class="blog-description">A star’s diary, hidden in its light over time. Learn how we decode it in ASTR 270.</div>
+    </div>
   </div>
-</div>
-<div id="article1" class="blog-article">
 
-## Title
+  <div id="article1" class="blog-article">
+    <h2>🌀 What Is a Light Curve, Really?</h2>
+    <h4>✨ A Glimpse Into Stellar Stories</h4>
+    <p>Light curves are more than just squiggly lines on a graph — they’re a star’s diary. In ASTR 270, we’ll use light curves to decode stellar rotation, eclipses, transits, and more.</p>
 
-Light curves are more than just squiggly lines on a graph — they’re a star’s diary. In ASTR 270, we’ll use light curves to decode stellar rotation, eclipses, transits, and more.Light curves are more than just squiggly lines on a graph — they’re a star’s diary. In ASTR 270, we’ll use light curves to decode stellar rotation, eclipses, transits, and more.Light curves are more than just squiggly lines on a graph — they’re a star’s diary. In ASTR 270, we’ll use light curves to decode stellar rotation, eclipses, transits, and more.Light curves are more than just squiggly lines on a graph — they’re a star’s diary. In ASTR 270, we’ll use light curves to decode stellar rotation, eclipses, transits, and more.
+    <blockquote>
+      "A light curve is time’s way of whispering a star’s secrets."
+    </blockquote>
 
+    <h4>📈 What Can a Light Curve Tell Us?</h4>
+    <ul>
+      <li><strong>Dips</strong>: Often signal something passing in front of the star, like a planet or dust.</li>
+      <li><strong>Peaks</strong>: Might be flares, stellar activity, or even instrumental artifacts.</li>
+      <li><strong>Patterns</strong>: Repeating shapes reveal rotation, pulsation, or eclipsing binaries.</li>
+    </ul>
+
+    <div class="callout">
+      💡 <strong>Takeaway:</strong> Time-series analysis is a powerful tool. Patterns in brightness can reveal planets, binary companions, or dusty disks around stars — and you’ll get to analyze these firsthand!
+    </div>
+
+    <h4>🔬 Coming Up in ASTR 270</h4>
+    <p>We'll walk through how to build your own light curves using ZTF and Gaia data, model simple eclipses, and learn how to spot real astrophysical signals from noise. You'll also get a taste of how astronomers discover planets using light curves!</p>
+
+    <p><em>Next: stay tuned for a data lab where you’ll generate and interpret your own light curves.</em></p>
+  </div>
 </div>
 
 <!-- BLOG CARD 2 -->
