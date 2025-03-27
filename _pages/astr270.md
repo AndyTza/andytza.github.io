@@ -31,6 +31,7 @@ I'm deeply passionate about science communication and STEM education. I firmly b
 ## Office Hours
 
 Need help with homework, ideas for your upcoming project, technical assistance in the UW Planetarium, feedback on project drafts, or just want to hang out and chat about space and science communication? Feel free to drop by my office hours:
+
 📍 **Location**: PAB B345 or [Zoom](https://washington.zoom.us/my/astroandy)
 🕒 **Times**: [Days and times]  
 
@@ -40,17 +41,7 @@ If the regular office hours do not align with your schedule, you can reserve a o
 
 ## TA Expectations & Guidelines
 
-✨ Here's what you can expect from me as your TA:
-
-- Timely feedback on assignments
-- Open communication via email or during office hours
-- Support with labs, lecture content, and class logistics
-
-✅ What I expect from you:
-
-- Respectful and active participation
-- Honest effort on assignments
-- Reaching out when you need help
+We the instructors are committed to helping you succeed in ASTR 270. As your TA, my primary role is to serve and prioritize your needs, supporting you in achieving your best in this course. We are dedicated to helping you with any questions, workshopping your ideas, providing critical project feedback, and fostering a safe, collaborative, and inclusive learning environment. I encourage you to reach out if you need help with anything, you can contact me directly at atzanida@uw.edu. __The only expectation I have is that you remain respectful and mindful towards the instructors and your fellow peers__.
 
 ---
 
