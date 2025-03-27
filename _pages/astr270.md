@@ -34,6 +34,7 @@ Need help with homework, ideas for your upcoming project, technical assistance i
 
 
 📍 **Location**: PAB B345 or [Zoom](https://washington.zoom.us/my/astroandy)
+
 🕒 **Times**: [Days and times]  
 
 If the regular office hours do not align with your schedule, you can reserve a one-on-one meeting with me through [Google Calendar](https://calendar.app.google/H1nL8h3P5EfxWny58).
