@@ -49,20 +49,35 @@ We the instructors are committed to helping you succeed in ASTR 270. As your TA,
 
 ## UW Planetarium
 
-🌌 As part of this course, you'll get the chance to visit the **UW Planetarium**, a state-of-the-art dome that brings the night sky to life.
+The University of Washington Planetarium is one of the largest outreach programs at UW Astro, celebrating its third decade of inspiring cosmic exploration. Each year, the planetarium welcomes over 5,000 guests from across Washington state, sharing the wonders of the cosmos with the general public. As a student of ASTR 270, you will develop the essential skills to craft and deliver captivating planetarium shows using [WorldWide Telescope](http://worldwidetelescope.org/webclient/), joining a vibrant community of volunteers dedicated to sharing the awe-inspiring beauty of the universe.
 
-Stay tuned for scheduled visits and optional evening shows throughout the quarter.
+As the director of the UW Planetarium, I view the planetarium as our collective scientific home. I kindly ask that you treat the planetarium with the same respect and care you would show any treasured space of your own. This means being mindful to leave no trace behind and to carefully review our [code of conduct and usage guidelines](https://uw-planetarium.notion.site/Planetarium-Guidelines-ASTR-270-aad2c498b1a44ec8a9c48ffc85db6fca?pvs=4).
+
 
 ---
 
 ## UW Planetarium Usage
 
-🪐 Interested in using the planetarium outside of class?
+### What times is the planetarium available for practice?
+Generally, the UW Planetarium will be available on Monday through Thursday 8AM - 6:30PM, and Friday 3PM - 6:30PM.
 
-- Students and clubs can request space for events or study groups
-- Training sessions available for those who want to learn how to operate the system
-- Fill out the [request form](#) or email me for access guidelines
+### How do I reserve the planetarium for practice?
+1. Request practice time via the [Google Calendar Itinerary](https://calendar.app.google/FsCL2sYeRvUSnLTn7)
+2. I will review your request and approve your training within 1 business day
+3. You will receive an email from me approving your training request, along with information for accessing the planetarium
+
+We please ask that during your practice session that no students outside of ASTR 270 are allowed to be at the UW Planetarium. This is because in the planetarium we host __very__ expensive equipment, and we do not want any liability issues.
+
+### How can I get more familiar with the UW Planetarium software?
+You can use the [WorldWide Telescope](http://worldwidetelescope.org/webclient/) application on your web browser to practice. Please keep in mind that some functionalities in the web version are not available at the UW Planetarium. If you have a machine running Windows, you can download the software on your machine and transfer your shows over to the planetarium. 
+
+
+### I need help using the UW Planetarium dome
+While you're practicing at the planetarium, if you encounter any issues or have questions, please ask Andy for support. 
+Generally, you best reach me via Slack (in our #astr270-spr2025 Slack channel), or via email (atzanida@uw.edu).
+
+__In case of an emergency, please call Andy Tzanidakis, +1 (347)-703-9210__.
 
 ---
 
-Feel free to email me anytime at [your email] with questions, and let’s have a great quarter!
+Feel free to email me anytime at [atzanida@uw.edu](mailto:atzanida@uw.edu) with questions!
