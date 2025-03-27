@@ -58,21 +58,22 @@ As the director of the UW Planetarium, I view the planetarium as our collective 
 
 ## UW Planetarium Usage
 
-### What times is the planetarium available for practice?
+
+#### What times is the planetarium available for practice?
 Generally, the UW Planetarium will be available on Monday through Thursday 8AM - 6:30PM, and Friday 3PM - 6:30PM.
 
-### How do I reserve the planetarium for practice?
+#### How do I reserve the planetarium for practice?
 1. Request practice time via the [Google Calendar Itinerary](https://calendar.app.google/FsCL2sYeRvUSnLTn7)
 2. I will review your request and approve your training within 1 business day
 3. You will receive an email from me approving your training request, along with information for accessing the planetarium
 
 We please ask that during your practice session that no students outside of ASTR 270 are allowed to be at the UW Planetarium. This is because in the planetarium we host __very__ expensive equipment, and we do not want any liability issues.
 
-### How can I get more familiar with the UW Planetarium software?
+#### How can I get more familiar with the UW Planetarium software?
 You can use the [WorldWide Telescope](http://worldwidetelescope.org/webclient/) application on your web browser to practice. Please keep in mind that some functionalities in the web version are not available at the UW Planetarium. If you have a machine running Windows, you can download the software on your machine and transfer your shows over to the planetarium. 
 
 
-### I need help using the UW Planetarium dome
+#### I need help using the UW Planetarium dome
 While you're practicing at the planetarium, if you encounter any issues or have questions, please ask Andy for support. 
 Generally, you best reach me via Slack (in our #astr270-spr2025 Slack channel), or via email (atzanida@uw.edu).
 
