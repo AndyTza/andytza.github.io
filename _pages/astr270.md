@@ -2,7 +2,7 @@
 layout: page
 permalink: /astro270/
 title: ASTR 270 TA Page
-nav: true
+nav: false
 nav_order: 7
 ---
 
