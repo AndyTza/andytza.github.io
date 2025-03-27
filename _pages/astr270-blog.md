@@ -5,75 +5,57 @@ title: ASTR 270 Blog
 nav: false
 nav_order: 7
 ---
+
 <style>
-.blog-container {
-  display: flex;
-  flex-direction: column;
+.blog-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 1.5rem;
+  margin-top: 1.5rem;
 }
 
 .blog-card {
-  border: 1px solid #ccc;
-  border-radius: 10px;
-  padding: 1rem;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 1rem;
   background: #f9f9f9;
-  transition: box-shadow 0.2s ease;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
   cursor: pointer;
+  transition: box-shadow 0.3s ease;
+  text-align: center;
+  padding: 1rem;
 }
 
 .blog-card:hover {
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
-.blog-image {
-  width: 100px;
-  height: 100px;
-  border-radius: 8px;
+.blog-card img {
+  width: 100%;
+  max-height: 180px;
   object-fit: cover;
+  border-radius: 6px;
 }
 
-.blog-preview {
-  flex-grow: 1;
-}
-
-.blog-title {
-  font-size: 1.2rem;
-  font-weight: bold;
-  margin-bottom: 0.3rem;
-}
-
-.blog-description {
-  font-size: 0.95rem;
-  color: #555;
+.blog-card h3 {
+  margin-top: 0.8rem;
+  font-size: 1.1rem;
+  color: #333;
 }
 
 .blog-article {
   display: none;
-  padding: 1rem;
+  margin-top: 2rem;
+  padding: 1.5rem;
   border-left: 4px solid #007acc;
-  background: #fcfcfc;
-  margin-top: -1rem;
-  margin-bottom: 2rem;
+  background: #fefefe;
+  border-radius: 8px;
 }
 
 .blog-article h2 {
-  font-size: 1.5rem;
   margin-top: 0;
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
+  font-size: 1.5rem;
 }
-.blog-article h4 {
-  margin-top: 1.2rem;
-  color: #444;
-  font-weight: 600;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2rem;
-}
+
 .blog-article blockquote {
   border-left: 4px solid #007acc;
   background: #f0f8ff;
@@ -82,115 +64,83 @@ nav_order: 7
   font-style: italic;
   color: #333;
 }
-.callout {
-  background: #fff8e1;
-  border: 1px solid #ffcc80;
-  padding: 1rem;
-  margin-top: 1.5rem;
-  border-radius: 6px;
-  font-size: 0.95rem;
-}
 </style>
 
+# 🌠 ASTR 270 Blog Hub
 
-Welcome to the ASTR 270 Blog! Dive into explainers, course insights, and stories from the stars.
+Welcome! Click on any blog card below to explore stories, explainers, and behind-the-scenes content from the TA desk and the UW Planetarium.
 
 ---
 
-<div class="blog-container">
-  <!-- BLOG CARD 1 -->
-  <div class="blog-card" onclick="toggleBlog('article1')">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Light_curve_of_a_supernova.svg/1024px-Light_curve_of_a_supernova.svg.png" class="blog-image" alt="Light curve">
-    <div class="blog-preview">
-      <div class="blog-title">🌀 What Is a Light Curve, Really?</div>
-      <div class="blog-description">A star’s diary, hidden in its light over time. Learn how we decode it in ASTR 270.</div>
-    </div>
+<div class="blog-grid">
+
+  <div class="blog-card" onclick="showArticle('article1')">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Light_curve_of_a_supernova.svg/1024px-Light_curve_of_a_supernova.svg.png" alt="Light Curve">
+    <h3>🌀 What Is a Light Curve, Really?</h3>
   </div>
 
-  <div id="article1" class="blog-article">
-    <h2>🌀 What Is a Light Curve, Really?</h2>
-    <h4>✨ A Glimpse Into Stellar Stories</h4>
-    <p>Light curves are more than just squiggly lines on a graph — they’re a star’s diary. In ASTR 270, we’ll use light curves to decode stellar rotation, eclipses, transits, and more.</p>
-
-    <blockquote>
-      "A light curve is time’s way of whispering a star’s secrets."
-    </blockquote>
-
-    <h4>📈 What Can a Light Curve Tell Us?</h4>
-    <ul>
-      <li><strong>Dips</strong>: Often signal something passing in front of the star, like a planet or dust.</li>
-      <li><strong>Peaks</strong>: Might be flares, stellar activity, or even instrumental artifacts.</li>
-      <li><strong>Patterns</strong>: Repeating shapes reveal rotation, pulsation, or eclipsing binaries.</li>
-    </ul>
-
-    <div class="callout">
-      💡 <strong>Takeaway:</strong> Time-series analysis is a powerful tool. Patterns in brightness can reveal planets, binary companions, or dusty disks around stars — and you’ll get to analyze these firsthand!
-    </div>
-
-    <h4>🔬 Coming Up in ASTR 270</h4>
-    <p>We'll walk through how to build your own light curves using ZTF and Gaia data, model simple eclipses, and learn how to spot real astrophysical signals from noise. You'll also get a taste of how astronomers discover planets using light curves!</p>
-
-    <p><em>Next: stay tuned for a data lab where you’ll generate and interpret your own light curves.</em></p>
+  <div class="blog-card" onclick="showArticle('article2')">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/DigitalSky2.jpg/800px-DigitalSky2.jpg" alt="Planetarium">
+    <h3>🌌 Simulating the Sky in the Planetarium</h3>
   </div>
+
+  <div class="blog-card" onclick="showArticle('article3')">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Moon_and_Apollo_11_Lunar_Module.jpg/640px-Moon_and_Apollo_11_Lunar_Module.jpg" alt="Misconceptions">
+    <h3>🛸 Top Astronomy Misconceptions</h3>
+  </div>
+
 </div>
 
+<!-- ARTICLES -->
+<div id="article1" class="blog-article">
+  <h2>🌀 What Is a Light Curve, Really?</h2>
+  <p>Light curves are more than just squiggly lines on a graph — they’re a star’s diary. In ASTR 270, we’ll use light curves to decode stellar rotation, eclipses, transits, and more.</p>
 
+  <blockquote>
+    "A light curve is time’s way of whispering a star’s secrets."
+  </blockquote>
 
-<!-- BLOG CARD 2 -->
-<div class="blog-card" onclick="toggleBlog('article2')">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/DigitalSky2.jpg/800px-DigitalSky2.jpg" class="blog-image" alt="Planetarium">
-  <div class="blog-preview">
-    <div class="blog-title">🌌 Simulating the Sky in the Planetarium</div>
-    <div class="blog-description">How we bring the cosmos indoors — with digital stars, scripts, and science.</div>
-  </div>
+  <ul>
+    <li><strong>Dips</strong>: Something passed in front of the star (planet, dust).</li>
+    <li><strong>Peaks</strong>: Flares, activity, or noise.</li>
+    <li><strong>Patterns</strong>: Reveal rotation or eclipses.</li>
+  </ul>
+
+  <p><strong>Coming soon:</strong> You’ll build your own light curve in the lab using real ZTF data.</p>
 </div>
+
 <div id="article2" class="blog-article">
+  <h2>🌌 Simulating the Sky in the Planetarium</h2>
+  <p>Ever wonder how we recreate the Milky Way overhead in the UW dome?</p>
 
-## 🌌 How We Simulate the Night Sky in the Planetarium
+  <ul>
+    <li>A digital star catalog synced with time and location</li>
+    <li>Fisheye lens dome projection</li>
+    <li>Scripting tools for flying through space, time-lapse starscapes, and more</li>
+  </ul>
 
-Ever wonder how we recreate the Milky Way overhead in the UW dome?
-
-The system uses:
-- A digital star catalog synced with time and location
-- Dome projection and fisheye lenses
-- A scripting engine for animations and narratives
-
-This means we can *literally* fast forward 10,000 years or pause to highlight a meteor shower. It's a powerful tool for storytelling and scientific outreach.
-
+  <p>It’s a storytelling and teaching powerhouse. You’ll get a chance to run the system yourself this quarter!</p>
 </div>
 
-<!-- BLOG CARD 3 -->
-<div class="blog-card" onclick="toggleBlog('article3')">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Moon_and_Apollo_11_Lunar_Module.jpg/640px-Moon_and_Apollo_11_Lunar_Module.jpg" class="blog-image" alt="Astronomy myths">
-  <div class="blog-preview">
-    <div class="blog-title">🛸 Top Astronomy Misconceptions</div>
-    <div class="blog-description">From black holes to the Moon’s "dark side", let’s bust a few cosmic myths.</div>
-  </div>
-</div>
 <div id="article3" class="blog-article">
+  <h2>🛸 Top Astronomy Misconceptions</h2>
+  <ul>
+    <li><strong>“The Moon has a dark side.”</strong> Nope — it’s tidally locked. We just don’t see the far side.</li>
+    <li><strong>“Winter is when Earth is far from the Sun.”</strong> Earth is actually closest to the Sun in January.</li>
+    <li><strong>“Black holes suck everything in.”</strong> Not unless you’re close — they obey gravity like everything else.</li>
+  </ul>
 
-## 🛸 My Favorite Misconceptions in Astronomy
-
-Let’s bust some myths:
-
-- **The Moon has a dark side.** Nope — it’s *tidally locked*, not half-invisible.
-- **Winter is colder because we’re farther from the Sun.** Actually, Earth is closest to the Sun in January.
-- **Black holes suck everything in.** Only if you get too close — gravity still follows the rules!
-
-Got a favorite myth? Send it my way!
-
-</div>
-
+  <p>Send me your favorite space myths and I’ll feature them in a future post!</p>
 </div>
 
 <script>
-function toggleBlog(id) {
-  const all = document.querySelectorAll('.blog-article');
-  all.forEach(el => {
-    if (el.id !== id) el.style.display = 'none';
-  });
-  const selected = document.getElementById(id);
-  selected.style.display = selected.style.display === 'block' ? 'none' : 'block';
-  selected.scrollIntoView({ behavior: 'smooth', block: 'start' });
+function showArticle(id) {
+  // Hide all articles
+  document.querySelectorAll('.blog-article').forEach(el => el.style.display = 'none');
+  // Show selected
+  const article = document.getElementById(id);
+  article.style.display = 'block';
+  // Scroll into view
+  article.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 </script>
