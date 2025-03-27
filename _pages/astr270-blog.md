@@ -5,7 +5,6 @@ title: ASTR 270 Blog
 nav: false
 nav_order: 7
 ---
-
 <style>
 .blog-container {
   display: flex;
@@ -62,7 +61,6 @@ nav_order: 7
 }
 </style>
 
-# 🌠 ASTR 270 Blog Hub
 
 Welcome to the ASTR 270 Blog! Dive into explainers, course insights, and stories from the stars.
 
