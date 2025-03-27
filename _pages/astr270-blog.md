@@ -6,27 +6,80 @@ nav: false
 nav_order: 7
 ---
 
+<style>
+.blog-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.blog-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
+  background: #f9f9f9;
+  transition: box-shadow 0.2s ease;
+  cursor: pointer;
+}
+
+.blog-card:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.blog-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.blog-preview {
+  flex-grow: 1;
+}
+
+.blog-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.3rem;
+}
+
+.blog-description {
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.blog-article {
+  display: none;
+  padding: 1rem;
+  border-left: 4px solid #007acc;
+  background: #fcfcfc;
+  margin-top: -1rem;
+  margin-bottom: 2rem;
+}
+</style>
+
 # 🌠 ASTR 270 Blog Hub
 
-Welcome to the ASTR 270 Blog! This is where I’ll post course-related articles, astronomy explainers, behind-the-scenes stories from the UW Planetarium, and helpful TA tips. Click a title below to expand the post.
+Welcome to the ASTR 270 Blog! Dive into explainers, course insights, and stories from the stars.
 
 ---
 
-## 📚 Blog Articles
+<div class="blog-container">
 
-<div id="blog-summaries">
-  <ul>
-    <li><a href="#" onclick="showArticle('article1'); return false;">🌀 What Is a Light Curve, Really?</a></li>
-    <li><a href="#" onclick="showArticle('article2'); return false;">🌌 How We Simulate the Night Sky in the Planetarium</a></li>
-    <li><a href="#" onclick="showArticle('article3'); return false;">🛸 My Favorite Misconceptions in Astronomy</a></li>
-  </ul>
+<!-- BLOG CARD 1 -->
+<div class="blog-card" onclick="toggleBlog('article1')">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Light_curve_of_a_supernova.svg/1024px-Light_curve_of_a_supernova.svg.png" class="blog-image" alt="Light curve">
+  <div class="blog-preview">
+    <div class="blog-title">🌀 What Is a Light Curve, Really?</div>
+    <div class="blog-description">A star’s diary, hidden in its light over time. Learn how we decode it in ASTR 270.</div>
+  </div>
 </div>
+<div id="article1" class="blog-article">
 
----
-
-<div id="blog-articles">
-
-### <div id="article1" style="display:none;">
 ## 🌀 What Is a Light Curve, Really?
 
 Light curves are more than just squiggly lines on a graph — they’re a star’s diary. In ASTR 270, we’ll use light curves to decode stellar rotation, eclipses, transits, and more.
@@ -38,13 +91,18 @@ A few quick takeaways:
 
 Stay tuned for a lab where you'll create your own light curve with real data!
 
-[↑ Back to top](#📚-blog-articles)
-
----
-
 </div>
 
-### <div id="article2" style="display:none;">
+<!-- BLOG CARD 2 -->
+<div class="blog-card" onclick="toggleBlog('article2')">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/DigitalSky2.jpg/800px-DigitalSky2.jpg" class="blog-image" alt="Planetarium">
+  <div class="blog-preview">
+    <div class="blog-title">🌌 Simulating the Sky in the Planetarium</div>
+    <div class="blog-description">How we bring the cosmos indoors — with digital stars, scripts, and science.</div>
+  </div>
+</div>
+<div id="article2" class="blog-article">
+
 ## 🌌 How We Simulate the Night Sky in the Planetarium
 
 Ever wonder how we recreate the Milky Way overhead in the UW dome?
@@ -56,13 +114,18 @@ The system uses:
 
 This means we can *literally* fast forward 10,000 years or pause to highlight a meteor shower. It's a powerful tool for storytelling and scientific outreach.
 
-[↑ Back to top](#📚-blog-articles)
-
----
-
 </div>
 
-### <div id="article3" style="display:none;">
+<!-- BLOG CARD 3 -->
+<div class="blog-card" onclick="toggleBlog('article3')">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Moon_and_Apollo_11_Lunar_Module.jpg/640px-Moon_and_Apollo_11_Lunar_Module.jpg" class="blog-image" alt="Astronomy myths">
+  <div class="blog-preview">
+    <div class="blog-title">🛸 Top Astronomy Misconceptions</div>
+    <div class="blog-description">From black holes to the Moon’s "dark side", let’s bust a few cosmic myths.</div>
+  </div>
+</div>
+<div id="article3" class="blog-article">
+
 ## 🛸 My Favorite Misconceptions in Astronomy
 
 Let’s bust some myths:
@@ -73,19 +136,18 @@ Let’s bust some myths:
 
 Got a favorite myth? Send it my way!
 
-[↑ Back to top](#📚-blog-articles)
-
----
-
 </div>
 
 </div>
 
 <script>
-  function showArticle(id) {
-    const articles = document.querySelectorAll('#blog-articles > div');
-    articles.forEach(article => article.style.display = 'none');
-    document.getElementById(id).style.display = 'block';
-    window.scrollTo({ top: document.getElementById(id).offsetTop - 60, behavior: 'smooth' });
-  }
+function toggleBlog(id) {
+  const all = document.querySelectorAll('.blog-article');
+  all.forEach(el => {
+    if (el.id !== id) el.style.display = 'none';
+  });
+  const selected = document.getElementById(id);
+  selected.style.display = selected.style.display === 'block' ? 'none' : 'block';
+  selected.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
 </script>
