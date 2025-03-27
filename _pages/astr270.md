@@ -32,6 +32,7 @@ I'm deeply passionate about science communication and STEM education. I firmly b
 
 Need help with homework, ideas for your upcoming project, technical assistance in the UW Planetarium, feedback on project drafts, or just want to hang out and chat about space and science communication? Feel free to drop by my office hours:
 
+
 📍 **Location**: PAB B345 or [Zoom](https://washington.zoom.us/my/astroandy)
 🕒 **Times**: [Days and times]  
 
