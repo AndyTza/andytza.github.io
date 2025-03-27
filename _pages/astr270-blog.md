@@ -5,7 +5,6 @@ title: ASTR 270 Blog
 nav: false
 nav_order: 7
 ---
-
 <style>
 .blog-container {
   display: flex;
@@ -73,22 +72,15 @@ Welcome to the ASTR 270 Blog! Dive into explainers, course insights, and stories
 <div class="blog-card" onclick="toggleBlog('article1')">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Light_curve_of_a_supernova.svg/1024px-Light_curve_of_a_supernova.svg.png" class="blog-image" alt="Light curve">
   <div class="blog-preview">
-    <div class="blog-title">Test</div>
+    <div class="blog-title">Tile</div>
     <div class="blog-description">A star’s diary, hidden in its light over time. Learn how we decode it in ASTR 270.</div>
   </div>
 </div>
 <div id="article1" class="blog-article">
 
-## Test
+## Title
 
-I'm deeply passionate about science communication and STEM education. I firmly believe that effective communication is one of the most vital skillsets in the professional world. In an era where science and technology are at the forefront of modern living, academics, scientists, and educators must pay special attention to how we communicate science to the public. As researchers and professionals, we have a civil duty to engage in public outreach and make scientific knowledge accessible. Now more than ever, bridging the gap between complex scientific concepts and public understanding is crucial. Throughout my career, I have been fortunate to participate in various science communication opportunities, and I am eager to share the experiences and insights I've gained along the way.
-
-I'm deeply passionate about science communication and STEM education. I firmly believe that effective communication is one of the most vital skillsets in the professional world. In an era where science and technology are at the forefront of modern living, academics, scientists, and educators must pay special attention to how we communicate science to the public. As researchers and professionals, we have a civil duty to engage in public outreach and make scientific knowledge accessible. Now more than ever, bridging the gap between complex scientific concepts and public understanding is crucial. Throughout my career, I have been fortunate to participate in various science communication opportunities, and I am eager to share the experiences and insights I've gained along the way.
-
-
-I'm deeply passionate about science communication and STEM education. I firmly believe that effective communication is one of the most vital skillsets in the professional world. In an era where science and technology are at the forefront of modern living, academics, scientists, and educators must pay special attention to how we communicate science to the public. As researchers and professionals, we have a civil duty to engage in public outreach and make scientific knowledge accessible. Now more than ever, bridging the gap between complex scientific concepts and public understanding is crucial. Throughout my career, I have been fortunate to participate in various science communication opportunities, and I am eager to share the experiences and insights I've gained along the way.
-
-I'm deeply passionate about science communication and STEM education. I firmly believe that effective communication is one of the most vital skillsets in the professional world. In an era where science and technology are at the forefront of modern living, academics, scientists, and educators must pay special attention to how we communicate science to the public. As researchers and professionals, we have a civil duty to engage in public outreach and make scientific knowledge accessible. Now more than ever, bridging the gap between complex scientific concepts and public understanding is crucial. Throughout my career, I have been fortunate to participate in various science communication opportunities, and I am eager to share the experiences and insights I've gained along the way.
+Light curves are more than just squiggly lines on a graph — they’re a star’s diary. In ASTR 270, we’ll use light curves to decode stellar rotation, eclipses, transits, and more.Light curves are more than just squiggly lines on a graph — they’re a star’s diary. In ASTR 270, we’ll use light curves to decode stellar rotation, eclipses, transits, and more.Light curves are more than just squiggly lines on a graph — they’re a star’s diary. In ASTR 270, we’ll use light curves to decode stellar rotation, eclipses, transits, and more.Light curves are more than just squiggly lines on a graph — they’re a star’s diary. In ASTR 270, we’ll use light curves to decode stellar rotation, eclipses, transits, and more.
 
 </div>
 
