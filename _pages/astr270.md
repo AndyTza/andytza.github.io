@@ -33,7 +33,7 @@ I'm deeply passionate about science communication and STEM education. I firmly b
 Need help with homework, ideas for your upcoming project, technical assistance in the UW Planetarium, feedback on project drafts, or just want to hang out and chat about space and science communication? Feel free to drop by my office hours:
 
 
-📍 **Location**: PAB B345 or [Zoom](https://washington.zoom.us/my/astroandy)
+📍 **Location**: PAB B325 or [Zoom](https://washington.zoom.us/my/astroandy)
 
 🕒 **Times**: Monday & Wednesday 2PM - 3PM
 
@@ -50,6 +50,8 @@ We the instructors are committed to helping you succeed in ASTR 270. As your TA,
 ## UW Planetarium
 
 The University of Washington Planetarium is one of the largest outreach programs at UW Astro, celebrating its third decade of inspiring cosmic exploration. Each year, the planetarium welcomes over 5,000 guests from across Washington state, sharing the wonders of the cosmos with the general public. As a student of ASTR 270, you will develop the essential skills to craft and deliver captivating planetarium shows using [WorldWide Telescope](http://worldwidetelescope.org/webclient/), joining a vibrant community of volunteers dedicated to sharing the awe-inspiring beauty of the universe.
+
+** [Click here for the UW Planetarium Manual Handbook](https://uw-planetarium.notion.site/?pvs=4)**
 
 As the director of the UW Planetarium, I view the planetarium as our collective scientific home. I kindly ask that you treat the planetarium with the same respect and care you would show any treasured space of your own. This means being mindful to leave no trace behind and to carefully review our [code of conduct and usage guidelines](https://uw-planetarium.notion.site/Planetarium-Guidelines-ASTR-270-aad2c498b1a44ec8a9c48ffc85db6fca?pvs=4).
 
