@@ -18,4 +18,4 @@ In 2019 I earned my Bachelors's degree in astronomy from Columbia University in 
 
 Outside of academia, I enjoy photography (you can see some of my work [here](https://www.instagram.com/atoceans/)), surfing, cooking, and science communication. I was the the former director for the [UW Planetarium](https://astro.washington.edu/uw-planetarium).
 
-For more information please see my CV [here](https://github.com/AndyTza/andytza.github.io/raw/master/quals/CV_Astronomy___Tzanidakis__Detailed____New.pdf) for my CV.
+For more information please see my CV [here](https://andytza.github.io/quals/cv_tzanidakis.pdf).
