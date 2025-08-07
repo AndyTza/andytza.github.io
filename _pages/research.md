@@ -52,8 +52,6 @@ nav_order: 1
 </div>
 
 
-
-
 ## Eclipses by Large Disks
 ___
 
