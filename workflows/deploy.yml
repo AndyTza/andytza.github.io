@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v5
 
       # Set up Ruby with Bundler cache so we can bundle using YOUR Gemfile
-      # This is how we get jekyll-multiple-languages-plugin to load in CI. :contentReference[oaicite:3]{index=3}
+      # This is how we get jekyll-multiple-languages-plugin to load in CI.
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
