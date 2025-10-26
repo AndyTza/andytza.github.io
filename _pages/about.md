@@ -6,7 +6,7 @@ subtitle: Astronomy Ph.D. Candidate | Director of UW Planetarium | Science Commu
 
 profile:
   align: right
-  image: atzan_img.png
+  image: atzan_img.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Seattle, WA</p>
