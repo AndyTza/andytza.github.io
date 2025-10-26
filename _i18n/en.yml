@@ -1,6 +1,11 @@
 titles:
   about: about
-  research: research
-  publications: publications
+  blog: blog
   cv: cv
-  outreach: outreach
+  news: news
+  projects: projects
+  publications: publications
+  repositories: repositories
+  teaching: teaching
+  submenus: submenus
+  unk: page not found
