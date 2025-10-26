@@ -6,7 +6,7 @@ subtitle: Astronomy Ph.D. Candidate| Science Communicator
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_tzan.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Seattle, WA</p>

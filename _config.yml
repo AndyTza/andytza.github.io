@@ -218,6 +218,10 @@ plugins:
   - jekyll-twitter-plugin
   - jekyll-redirect-from
   - jemoji
+  - jekyll-multiple-languages-plugin
+
+languages: ["en", "gr"]
+default_locale_in_subfolder: false
 
 # Sitemap settings
 defaults:
