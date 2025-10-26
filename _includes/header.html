@@ -102,6 +102,14 @@
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </button>
+                <!-- Toogle language -->
+                <li class="nav-item active">
+                {% if site.lang == "en" %}
+                <a class="nav-link" href="{{site.baseurl_root}}/pt-br{{page.url}}"> PT-BR </a>
+                {% elsif site.lang == "pt-br" %}
+                <a class="nav-link" href="{{site.baseurl_root}}{{page.url}}"> EN </a>
+                {% endif %}
+                </li>
               </li>
               {%- endif %}
             </ul>
@@ -116,12 +124,4 @@
         </div>
       </progress>
 {%- endif %}
-<!-- Toogle language -->
-<li class="nav-item active">
-  {% if site.lang == "en" %}
-  <a class="nav-link" href="{{site.baseurl_root}}/gr{{page.url}}"> EN </a>
-  {% elsif site.lang == "gr" %}
-  <a class="nav-link" href="{{site.baseurl_root}}{{page.url}}"> 🇬🇷 </a>
-  {% endif %}
-</li>
     </header>
