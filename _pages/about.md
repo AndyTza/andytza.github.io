@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 
+title: titles.about
 permalink: /
 subtitle: Astronomy Ph.D. Candidate | Science Communicator
 
