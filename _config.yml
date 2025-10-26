@@ -8,7 +8,7 @@ middle_name:
 last_name: Tzanidakis
 email: atzanida@uw.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi, I'm Andy Tzanidakis! I'm a third-year Astronomy Ph.D. student at the University of Washington. 
+  Hi, I'm Andy Tzanidakis! I'm a fifth-year Astronomy Ph.D. student at the University of Washington. 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank"></a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
