@@ -2,7 +2,7 @@
 layout: about
 title: 
 permalink: /
-subtitle: Astronomy Ph.D. Candidate | Director of UW Planetarium | Science Communicator
+subtitle: Astronomy Ph.D. Candidate| Science Communicator
 
 profile:
   align: right
