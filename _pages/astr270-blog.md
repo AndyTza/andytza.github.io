@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /astr270-blog/
-title: ASTR 270 Blog
+title: titles.ASTR_270_Blog
 nav: false
 nav_order: 7
 ---
