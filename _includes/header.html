@@ -116,4 +116,12 @@
         </div>
       </progress>
 {%- endif %}
+<!-- Toogle language -->
+<li class="nav-item active">
+  {% if site.lang == "en" %}
+  <a class="nav-link" href="{{site.baseurl_root}}/gr{{page.url}}"> EN </a>
+  {% elsif site.lang == "gr" %}
+  <a class="nav-link" href="{{site.baseurl_root}}{{page.url}}"> 🇬🇷 </a>
+  {% endif %}
+</li>
     </header>
