@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: titles.Research
+title: Research
 nav: true
 nav_order: 1
 ---

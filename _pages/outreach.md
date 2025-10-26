@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Outreach/
-title: titles.Outreach
+title: Outreach
 nav: true
 nav_order: 5
 ---
