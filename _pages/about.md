@@ -2,7 +2,7 @@
 layout: about
 title: 
 permalink: /
-subtitle: Astronomy Ph.D. Candidate | Science Communicator
+subtitle: Astronomy Ph.D. | Science Communicator
 
 profile:
   align: right
@@ -15,8 +15,8 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello, I'm Anastasios (Andy) Tzanidakis 👋 
+Hello, I'm Dr. Anastasios (Andy) Tzanidakis 👋 
 
-I'm a Ph.D. candidate at the University of Washington and the former director for the [University of Washington Planetarium](https://astro.washington.edu/uw-planetarium). My academic interests include data analysis of large-scale astronomical surveys, stellar variability, time-domain astronomy, and the classification of transient phenomena.
+I'm an incoming Postdoctoral [DiRAC](https://dirac.astro.washington.edu/) Fellow University of Washington, and  and the former director for the [University of Washington Planetarium](https://astro.washington.edu/uw-planetarium). My academic interests include data analysis of large-scale astronomical surveys, stellar variability, time-domain astronomy to probe and understand planet formation.
 
 Please contact me by email: [atzanida@uw.edu](mailto:atzanida@uw.edu).
