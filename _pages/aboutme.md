@@ -8,7 +8,7 @@ nav_order: 6
 
 Greetings!
 
-My name is Anastasios, but friends and colleagues call me Andy. I’m an incoming [DiRAC](https://dirac.astro.washington.edu/) Postdoctoral Fellow at the University of Washington, where I study how planets form through stellar variability of young stars. I’m a Greek-American astronomer from Crete, and my path through astronomy has been shaped by a love of discovery, storytelling, and public engagement.
+My name is Anastasios, but friends and colleagues call me Andy. I’m a [DiRAC](https://dirac.astro.washington.edu/) Postdoctoral Fellow and eScience Institute Data-Science Fellow at the University of Washington, where I study how planets form through stellar variability of young stars. I’m a Greek-American astronomer from Crete, and my path through astronomy has been shaped by a love of discovery, storytelling, and public engagement.
 
 My academic interests include how modern sky surveys can reveal rare and unexpected astrophysical phenomena. My work combines time-domain astronomy, stellar variability, statistical methods, and large-scale survey data to study stars and their environments across the Milky Way. I'm particularly drawn to unusual variable stars, long-duration dimming stars, and systems where circumstellar material may encode clues about stellar and planetary evolution. Alongside my research, I am passionate about science communication as a tool to make astronomy more accessible to the general public.
 
