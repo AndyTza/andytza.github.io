@@ -9,152 +9,142 @@ nav_order: 1
 <script>document.documentElement.classList.add('rm-js');</script>
 
 <style>
-  /* ===== Research mosaic — everything is scoped under #research-mosaic ===== */
+  /* ===== Research grid — everything is scoped under #research-mosaic ===== */
   #research-mosaic {
-    --rm-gap: 10px;
-    --rm-row: 170px;
-    --rm-radius: 15px;
+    --rm-accent: var(--global-theme-color, #3b6ea5);
+    --rm-border: var(--global-divider-color, #e3e3e3);
+    --rm-card:   var(--global-card-bg-color, #ffffff);
+    --rm-text:   var(--global-text-color, #222222);
+    --rm-muted:  var(--global-text-color-light, #6f6f6f);
+    --rm-bed:    #12151c;   /* dark bed behind each cover image */
+    --rm-radius: 12px;
+    --rm-gap:    18px;
   }
 
   #research-mosaic .rm-hint {
-    margin: 0 0 1rem;
+    margin: 0 0 1.1rem;
     font-size: 0.95em;
-    color: var(--global-text-color-light, #6b6b6b);
+    color: var(--rm-muted);
   }
 
-  /* ---- Mosaic grid ---- */
+  /* ---- 2 x 3 grid of equal panels ---- */
   #research-mosaic .rm-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-auto-rows: var(--rm-row);
-    grid-auto-flow: dense;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: var(--rm-gap);
     margin-bottom: 2rem;
   }
+  @media (max-width: 560px) {
+    #research-mosaic { --rm-gap: 14px; }
+    #research-mosaic .rm-grid { grid-template-columns: 1fr; }
+  }
 
   #research-mosaic .rm-tile {
-    position: relative;
-    display: block;
-    overflow: hidden;
-    padding: 0;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
     margin: 0;
-    border: 4px solid var(--accent, #cccccc);
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid var(--rm-border);
     border-radius: var(--rm-radius);
-    background: #000;
-    cursor: pointer;
-    text-align: left;
-    color: #fff;
+    background: var(--rm-card);
+    color: var(--rm-text);
     font: inherit;
-    outline: none;
-    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    text-align: left;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
   }
-  #research-mosaic .rm-tile:hover,
+  #research-mosaic .rm-tile:hover {
+    transform: translateY(-2px);
+    border-color: var(--rm-accent);
+    box-shadow: 0 14px 34px rgba(0, 0, 0, 0.12);
+  }
   #research-mosaic .rm-tile:focus-visible {
-    transform: translateY(-3px);
-    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.28);
+    outline: 2px solid var(--rm-accent);
+    outline-offset: 3px;
   }
-  #research-mosaic .rm-tile:focus-visible {
-    box-shadow: 0 0 0 3px var(--global-bg-color, #fff), 0 0 0 6px var(--accent, #333);
+  #research-mosaic .rm-tile__media {
+    aspect-ratio: 3 / 2;
+    overflow: hidden;
+    background: var(--rm-bed);
   }
-  #research-mosaic .rm-tile img {
+  #research-mosaic .rm-tile__media img {
     display: block;
     width: 100%;
     height: 100%;
     object-fit: cover;
     object-position: center;
-    transition: transform 0.5s ease;
+    transition: transform 0.45s ease;
   }
-  #research-mosaic .rm-tile:hover img,
-  #research-mosaic .rm-tile:focus-visible img {
-    transform: scale(1.05);
+  #research-mosaic .rm-tile:hover .rm-tile__media img { transform: scale(1.04); }
+  #research-mosaic .rm-tile__text {
+    padding: 14px 16px 15px;
+    border-top: 1px solid var(--rm-border);
   }
-  #research-mosaic .rm-tile__label {
-    position: absolute;
-    left: 0; right: 0; bottom: 0;
-    padding: 28px 12px 10px;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));
+  #research-mosaic .rm-tile__title {
+    margin: 0;
+    font-size: 1.08em;
     font-weight: 600;
-    font-size: 0.9em;
-    line-height: 1.25;
-    opacity: 0;
-    transform: translateY(6px);
-    transition: opacity 0.25s ease, transform 0.25s ease;
+    line-height: 1.3;
+    color: var(--rm-text);
   }
-  #research-mosaic .rm-tile__label::before {
-    content: "";
-    display: inline-block;
-    width: 10px; height: 10px;
-    margin-right: 8px;
-    border-radius: 50%;
-    background: var(--accent, #ccc);
-    vertical-align: 0;
-  }
-  #research-mosaic .rm-tile:hover .rm-tile__label,
-  #research-mosaic .rm-tile:focus-visible .rm-tile__label {
-    opacity: 1;
-    transform: none;
-  }
-  @media (hover: none) {
-    #research-mosaic .rm-tile__label { opacity: 1; transform: none; }
+  #research-mosaic .rm-tile__sub {
+    margin: 4px 0 0;
+    font-size: 0.86em;
+    line-height: 1.35;
+    color: var(--rm-muted);
   }
 
-  /* Tile sizes that make the mosaic */
-  #research-mosaic .rm-tile--wide { grid-column: span 2; }
-  #research-mosaic .rm-tile--tall { grid-row: span 2; }
-  #research-mosaic .rm-tile--big  { grid-column: span 2; grid-row: span 2; }
-
-  @media (max-width: 900px) {
-    #research-mosaic { --rm-row: 150px; }
-    #research-mosaic .rm-grid { grid-template-columns: repeat(3, 1fr); }
-  }
-  @media (max-width: 600px) {
-    #research-mosaic { --rm-row: 130px; --rm-gap: 8px; }
-    #research-mosaic .rm-grid { grid-template-columns: repeat(2, 1fr); }
-  }
-
-  /* ---- Project source blocks (hidden when JS builds the mosaic; shown as plain boxes without JS) ---- */
+  /* ---- Project source blocks (hidden once JS builds the grid; plain boxes without JS) ---- */
   html.rm-js #research-mosaic .rm-projects { display: none; }
   #research-mosaic .rm-project {
-    border: 4px solid var(--accent, #cccccc);
+    border: 1px solid var(--rm-border);
     border-radius: var(--rm-radius);
-    background: var(--rm-tint, #f9f9f9);
-    padding: 20px;
-    margin-bottom: 30px;
+    background: var(--rm-card);
+    padding: 22px 24px;
+    margin-bottom: 24px;
   }
 
-  /* Shared content styling (used both in the no-JS fallback and inside the pop-up) */
-  #research-mosaic .rm-section {
-    margin: 0 0 0.35rem;
-    font-size: 0.95em;
-    color: var(--global-text-color-light, #6b6b6b);
-  }
+  /* Shared content styling (no-JS fallback and inside the pop-up) */
   #research-mosaic .rm-project h2,
   #research-mosaic .rm-modal__content h2 {
-    margin: 0 0 0.75rem;
-    color: var(--accent, #333);
-    font-size: 1.6em;
-    line-height: 1.2;
+    margin: 0;
+    font-size: 1.65em;
+    line-height: 1.15;
+    color: var(--rm-text);
   }
+  #research-mosaic .rm-sub {
+    margin: 6px 0 0;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--rm-border);
+    font-size: 0.98em;
+    color: var(--rm-muted);
+  }
+  #research-mosaic .rm-body { margin-top: 16px; }
   #research-mosaic .rm-body p { margin: 0 0 1rem; }
   #research-mosaic .rm-body p:last-child { margin-bottom: 1.25rem; }
   #research-mosaic .rm-figrow {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 10px;
+    gap: 12px;
   }
-  #research-mosaic .rm-fig { margin: 0 0 1rem; }
+  #research-mosaic .rm-fig { margin: 0 0 1.1rem; }
   #research-mosaic .rm-fig img,
   #research-mosaic .rm-figrow img {
     display: block;
     width: 100%;
-    border-radius: 10px;
+    border-radius: 8px;
   }
   #research-mosaic .rm-fig figcaption,
   #research-mosaic .rm-caption {
+    margin: 0.6rem 0 0;
     text-align: center;
     font-style: italic;
-    margin: 0.6rem 0 0;
+    font-size: 0.95em;
+    color: var(--rm-muted);
   }
+  #research-mosaic .rm-caption:empty { display: none; }
   @media (max-width: 600px) {
     #research-mosaic .rm-figrow { grid-template-columns: 1fr; }
   }
@@ -173,91 +163,86 @@ nav_order: 1
   #research-mosaic .rm-modal__backdrop {
     position: absolute;
     inset: 0;
-    background: rgba(10, 10, 10, 0.62);
-    -webkit-backdrop-filter: blur(4px);
-    backdrop-filter: blur(4px);
+    background: rgba(8, 10, 14, 0.66);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
     animation: rm-fade 0.2s ease-out;
   }
   #research-mosaic .rm-modal__panel {
     position: relative;
-    width: min(920px, 100%);
+    width: min(900px, 100%);
     max-height: calc(100vh - 40px);
     max-height: calc(100dvh - 40px);
     overflow-y: auto;
-    border: 4px solid var(--accent, #cccccc);
-    border-radius: var(--rm-radius);
-    background: var(--rm-tint, #ffffff);
-    color: var(--global-text-color, #333333);
-    padding: 24px 26px 20px;
-    box-shadow: 0 24px 60px rgba(0, 0, 0, 0.35);
-    animation: rm-pop 0.25s ease-out;
-  }
-  html[data-theme="dark"] #research-mosaic .rm-modal__panel,
-  html[data-theme="dark"] #research-mosaic .rm-project {
-    background: color-mix(in srgb, var(--accent, #888) 14%, var(--global-card-bg-color, #1c1c1c));
+    border: 1px solid var(--rm-border);
+    border-radius: 14px;
+    background: var(--rm-card);
+    color: var(--rm-text);
+    padding: 28px 30px 20px;
+    box-shadow: 0 30px 80px rgba(0, 0, 0, 0.4);
+    animation: rm-pop 0.22s ease-out;
   }
   #research-mosaic .rm-modal__close {
     position: absolute;
-    top: 12px; right: 12px;
-    width: 38px; height: 38px;
-    border: 2px solid var(--accent, #888);
+    top: 14px; right: 14px;
+    width: 36px; height: 36px;
+    padding: 0;
+    border: 1px solid var(--rm-border);
     border-radius: 50%;
-    background: var(--global-bg-color, #fff);
-    color: var(--global-text-color, #333);
-    font-size: 1.35em;
+    background: var(--rm-card);
+    color: var(--rm-muted);
+    font-size: 1.3em;
     line-height: 1;
-    cursor: pointer;
     display: grid;
     place-items: center;
-    padding: 0;
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
   }
   #research-mosaic .rm-modal__close:hover,
   #research-mosaic .rm-modal__close:focus-visible {
-    background: var(--accent, #888);
+    background: var(--rm-accent);
+    border-color: var(--rm-accent);
     color: #fff;
     outline: none;
   }
-  #research-mosaic .rm-modal__content { padding-right: 36px; }
-  #research-mosaic .rm-modal__content .rm-body,
-  #research-mosaic .rm-modal__content .rm-fig,
-  #research-mosaic .rm-modal__content .rm-figrow,
-  #research-mosaic .rm-modal__content .rm-caption { padding-right: 0; }
+  #research-mosaic .rm-modal__content h2 { padding-right: 44px; }
 
   #research-mosaic .rm-modal__nav {
     display: flex;
     justify-content: space-between;
     gap: 12px;
-    margin-top: 0.5rem;
+    margin-top: 0.25rem;
     padding-top: 14px;
-    border-top: 2px solid var(--accent, #ccc);
+    border-top: 1px solid var(--rm-border);
   }
   #research-mosaic .rm-modal__navbtn {
     flex: 1 1 0;
     max-width: 48%;
+    padding: 8px 10px;
     border: 0;
+    border-radius: 8px;
     background: transparent;
-    color: var(--global-text-color, #333);
+    color: var(--rm-text);
     font: inherit;
     text-align: left;
-    padding: 6px 8px;
-    border-radius: 8px;
     cursor: pointer;
+    transition: background 0.15s ease;
   }
   #research-mosaic .rm-modal__navbtn--next { text-align: right; }
   #research-mosaic .rm-modal__navbtn small {
     display: block;
     font-size: 0.8em;
-    color: var(--global-text-color-light, #6b6b6b);
+    color: var(--rm-muted);
   }
   #research-mosaic .rm-modal__navbtn strong { font-weight: 600; }
   #research-mosaic .rm-modal__navbtn:hover,
   #research-mosaic .rm-modal__navbtn:focus-visible {
-    background: color-mix(in srgb, var(--accent, #888) 22%, transparent);
+    background: color-mix(in srgb, var(--rm-accent) 12%, transparent);
     outline: none;
   }
 
   @keyframes rm-fade { from { opacity: 0; } to { opacity: 1; } }
-  @keyframes rm-pop  { from { opacity: 0; transform: translateY(12px) scale(0.98); } to { opacity: 1; transform: none; } }
+  @keyframes rm-pop  { from { opacity: 0; transform: translateY(10px) scale(0.985); } to { opacity: 1; transform: none; } }
   @media (prefers-reduced-motion: reduce) {
     #research-mosaic * { animation: none !important; transition: none !important; }
   }
@@ -266,23 +251,33 @@ nav_order: 1
 
 <div id="research-mosaic">
 
-  <p class="rm-hint">Click any image to read about that project.</p>
-
-  <!-- The mosaic is built here by the script below, one tile per image -->
-  <div class="rm-grid" id="rm-grid" aria-label="Research image mosaic"></div>
+  <!-- The 2 x 3 grid is built here by the script below, one panel per project -->
+  <div class="rm-grid" id="rm-grid" aria-label="Research areas"></div>
 
   <!-- ===================================================================
        PROJECT CONTENT
-       Each <article> is one research area. The script turns every image
-       inside it into a mosaic tile and shows the whole article in a pop-up.
-       To add a project: copy an <article>, change data-accent / data-tint,
-       the text, and the images. Nothing else needs editing.
+       Each <article> is one research area. data-cover is the image shown
+       on its panel; the whole article is shown in the pop-up.
+       To add a project: copy an <article>, set id, data-cover, the text
+       and the images. Nothing else needs editing.
        =================================================================== -->
   <section class="rm-projects" id="rm-projects">
 
-    <article class="rm-project" id="main-sequence-dipper-stars" data-accent="#E6A8D7" data-tint="#ffe3d7">
-      <p class="rm-section">Circumstellar Environments around Dwarf Stars</p>
-      <h2>Main-Sequence Dipper Stars</h2>
+    <article class="rm-project" id="giant-impacts" data-cover="/images/gi-sim.gif">
+      <h2>Giant Impacts</h2>
+      <p class="rm-sub">Catching Planetary Collisions in the Time Domain</p>
+      <div class="rm-body">
+        <p>Giant impacts, collisions between planet-sized bodies, are thought to shape the final assembly of rocky planets, yet we have almost never caught one in the act. The dust produced in the aftermath of such a collision can briefly veil its host star, producing deep, long-lasting dimming events in the optical and a fresh infrared excess as the debris settles into orbit. Using the Gaia Photometric Science Alerts, I am conducting a systematic search for these giant impact candidates (GICs), which led to the discovery of Gaia-GIC-1 (Tzanidakis &amp; Davenport 2026), a candidate for the dusty aftermath of a recent planetary-scale collision. To connect these observations to physics, I am also developing a reproducible simulation pipeline that follows the collision debris with N-body dynamics and models its dust optics to predict light curves as they would be observed by surveys such as ZTF and NEOWISE. Together, these efforts aim to establish how often giant impacts occur and what they can tell us about the birth of planetary systems.</p>
+      </div>
+      <figure class="rm-fig">
+        <img src="/images/gi-sim.gif" alt="Simulation of the dusty debris produced by a giant impact around a star." />
+        <figcaption>Simulation of the debris and dust produced by a giant impact around a Sun-like star.</figcaption>
+      </figure>
+    </article>
+
+    <article class="rm-project" id="main-sequence-dippers" data-cover="/images/msdip.jpeg">
+      <h2>Main-Sequence Dippers</h2>
+      <p class="rm-sub">Circumstellar Environments around Dwarf Stars</p>
       <div class="rm-body">
         <p>In 2016, <a href="https://ui.adsabs.harvard.edu/abs/2016MNRAS.457.3988B/abstract">Boyajian et al. (2016)</a> revealed one of the first main-sequence stars with erratic dimming events, stirring discussions and theories on the origins of such rare stars. Only a small number of similar systems have been identified since, leaving many open questions about their origins and if they are connected at all with the initial discovery of the Boyajian star. My Ph.D dissertation work conducts the first ever large-scale systematic search for these irregularly variable dwarf stars, analyzing extensive time-domain data to assess their occurrence and potential origins, such as planetary-scale collisions or Earth-Moon-like formation events. This work also drives the development of scalable tools for examining stellar variability across billions of stars, expanding our ability to probe diverse behavior of stellar variability phenomena.</p>
       </div>
@@ -290,12 +285,12 @@ nav_order: 1
         <img src="/images/msdip.jpeg" alt="Sky position of main-sequence dipper stars and example of ZTF light curve." />
         <img src="/images/mslc1.png" alt="Disk Eclipse Comparison" />
       </div>
-      <p class="rm-caption"><em></em></p>
+      <p class="rm-caption"></p>
     </article>
 
-    <article class="rm-project" id="gaia17bpp-and-other-disk-eclipses" data-accent="#4CAF50" data-tint="#f0fff4">
-      <p class="rm-section">Eclipses by Large Disks</p>
-      <h2>Gaia17bpp and other Disk Eclipses</h2>
+    <article class="rm-project" id="disk-eclipses" data-cover="/images/disk-eclipse-comp.png">
+      <h2>Disk Eclipses</h2>
+      <p class="rm-sub">Gaia17bpp and other Disk Eclipses</p>
       <div class="rm-body">
         <p>We are now at the cusp of probing stellar variability on timescales spanning decades, which opens the door to uncovering new and rare types of variable stars. In my first year of graduate school, I serendipitously discovered <a href="https://andytza.github.io/Gaia17bpp/">Gaia17bpp</a> (<a href="https://iopscience.iop.org/article/10.3847/1538-4357/aceda7">Tzanidakis et al. 2023</a>), a system that we believe could be an extreme analog to the famous <a href="https://arxiv.org/pdf/1004.2464.pdf">Epsilon Aurigae</a> binary, and currently holds the record for the longest duration dimming event we have found. This discovery offers a unique opportunity to study eclipses caused by massive circumstellar disks, pushing the boundaries of our understanding of long-period stellar variables.</p>
       </div>
@@ -303,12 +298,12 @@ nav_order: 1
         <img src="/images/disk-eclipse-comp.png" alt="Disk Eclipse Comparison" />
         <img src="/images/Gaia17bpp_WISE.gif" alt="Gaia17bpp and WISE Comparison" />
       </div>
-      <p class="rm-caption"><em>Left: Light curve mosaic of known Epsilon Aurigae analog systems including Gaia17bpp. Right: Movie from WISE revealing long-term variability.</em></p>
+      <p class="rm-caption">Left: Light curve mosaic of known Epsilon Aurigae analog systems including Gaia17bpp. Right: Movie from WISE revealing long-term variability.</p>
     </article>
 
-    <article class="rm-project" id="lsst-time-series-features" data-accent="#2196F3" data-tint="#e3f2fd">
-      <p class="rm-section">Time-Series Features in the LSST Era</p>
-      <h2>LSST Time-Series Features</h2>
+    <article class="rm-project" id="lsst-time-series-features" data-cover="/images/lsst-lc.png">
+      <h2>LSST Time Series Features</h2>
+      <p class="rm-sub">Time-Series Features in the LSST Era</p>
       <div class="rm-body">
         <p>In the era of large time-domain surveys with gappy, multi-band, and sparse photometric measurements, time series features have become an important tool to search for populations of variable stars and transient phenomena <a href="https://ui.adsabs.harvard.edu/abs/2011ApJ...733...10R/abstract">(Richards et al. 2011)</a>. During my first year of graduate school, I worked with Professor Eric Bellm and the UW Data Management group on transient alert processing. My interests aimed to characterize the recovery of periodic objects in data like the LSST alerts and what are the optimum techniques used to increase the efficiency of finding reliable periods. Some of my work also included characterizing alert light curve time series features and statistical properties of transients and variable stars. Our findings have been reported in the <a href="https://dmtn-221.lsst.io/">LSST Data Management Technotes-221</a>.</p>
       </div>
@@ -318,9 +313,9 @@ nav_order: 1
       </figure>
     </article>
 
-    <article class="rm-project" id="ztf-census-of-the-local-universe" data-accent="#FF9800" data-tint="#fff3e0">
-      <p class="rm-section">Type-II Supernovae in the Local Universe with the Zwicky Transient Facility</p>
+    <article class="rm-project" id="ztf-census-of-the-local-universe" data-cover="/images/CLU_snap.png">
       <h2>ZTF Census of the Local Universe (CLU) Experiment</h2>
+      <p class="rm-sub">Type-II Supernovae in the Local Universe with the Zwicky Transient Facility</p>
       <div class="rm-body">
         <p>During my post-baccalaureate research, I was fortunate to work under <a href="https://sites.astro.caltech.edu/~mansi/">Professor Mansi Kasiwal</a>, <a href="https://dekishalay.github.io/">Professor Kishalay</a> at Caltech to co-lead the Zwicky Transient Facility (ZTF) Census of the Local Universe (CLU) supernova experiment. In short, CLU aimed achieve high completeness of all known discovered supernovae by ZTF within 200 Mpc (see <a href="https://arxiv.org/abs/2004.09029">De et al. 2020</a>). In parallel, I was interested in probing the luminosity function and distribution of core-collapse Type-II supernovae to better understand their origins and how their properties change as a function of host-galaxy.</p>
       </div>
@@ -334,9 +329,9 @@ nav_order: 1
       </figure>
     </article>
 
-    <article class="rm-project" id="understanding-the-milky-way" data-accent="#FF5722" data-tint="#fbe9e7">
-      <p class="rm-section">Galactic Archeology: Tomography of the Galactic Disk</p>
-      <h2>Understanding the Milky Way</h2>
+    <article class="rm-project" id="milky-way-stellar-disk-substructure" data-cover="/images/sgr-col.gif">
+      <h2>Understanding the Milky Way Stellar Disk Substructure</h2>
+      <p class="rm-sub">Galactic Archeology: Tomography of the Galactic Disk</p>
       <div class="rm-body">
         <p>During my undergraduate studies, I was extensively interested in probing the 3D distribution of stars in the Milky Way's disk under the mentorship of <a href="https://google.com">Professor Allyson Sheffield</a>, <a href="http://user.astro.columbia.edu/~kvj/">Professor Kathryn Johnston</a>, and <a href="https://icc.ub.edu/people/647">Dr. Chervin Laporte</a>. I was very fortunate to be part of a few studies that uncovered observational and simulated N-body models that the Galactic disk is oscillating and kicking out stars from the disk into the Galactic halo, due to past dwarf satellite galaxy interactions with the Milky Way (<a href="https://arxiv.org/pdf/1803.11198.pdf">Laporte et al. 2018</a>, <a href="https://arxiv.org/pdf/1801.01171.pdf">Sheffield et al. 2018</a>).</p>
       </div>
@@ -388,57 +383,64 @@ nav_order: 1
 
   var current   = -1;   // index of the open project
   var lastFocus = null; // element to return focus to on close
-  var tiles     = [];   // one tile per image, in order
 
-  // Repeating size pattern that packs into a full mosaic (works for 4, 3 and 2 columns)
-  var sizePattern = ['big', '', 'tall', 'wide', '', '', 'wide', 'tall', ''];
+  function titleOf(project) {
+    return project.querySelector('h2').textContent.trim();
+  }
 
-  // ---------- Build the mosaic ----------
-  var tileIndex = 0;
-  projects.forEach(function (project, pIndex) {
-    var title  = project.querySelector('h2').textContent.trim();
-    var accent = project.getAttribute('data-accent') || '#cccccc';
-
+  // ---------- Build the grid: one panel per project ----------
+  projects.forEach(function (project, index) {
+    var title    = titleOf(project);
+    var subEl    = project.querySelector('.rm-sub');
+    var subtitle = subEl ? subEl.textContent.trim() : '';
+    var firstImg = project.querySelector('img');
+    var cover    = project.getAttribute('data-cover') || (firstImg ? firstImg.getAttribute('src') : '');
+    var coverAlt = '';
     Array.prototype.forEach.call(project.querySelectorAll('img'), function (img) {
-      var tile = document.createElement('button');
-      tile.type = 'button';
-      tile.className = 'rm-tile';
-      var size = sizePattern[tileIndex % sizePattern.length];
-      if (size) { tile.classList.add('rm-tile--' + size); }
-      tile.style.setProperty('--accent', accent);
-      tile.setAttribute('aria-label', title);
-      tile.setAttribute('data-project', String(pIndex));
-
-      var thumb = document.createElement('img');
-      thumb.src = img.getAttribute('src');
-      thumb.alt = img.getAttribute('alt') || '';
-      thumb.loading = 'lazy';
-      thumb.decoding = 'async';
-
-      var label = document.createElement('span');
-      label.className = 'rm-tile__label';
-      label.textContent = title;
-
-      tile.appendChild(thumb);
-      tile.appendChild(label);
-      tile.addEventListener('click', function () {
-        lastFocus = tile;
-        openProject(pIndex);
-      });
-
-      grid.appendChild(tile);
-      tiles.push(tile);
-      tileIndex += 1;
+      if (img.getAttribute('src') === cover) { coverAlt = img.getAttribute('alt') || ''; }
     });
+
+    var tile = document.createElement('button');
+    tile.type = 'button';
+    tile.className = 'rm-tile';
+    tile.setAttribute('data-project', String(index));
+    tile.setAttribute('aria-label', 'Read about ' + title);
+
+    var media = document.createElement('div');
+    media.className = 'rm-tile__media';
+    var img = document.createElement('img');
+    img.src = cover;
+    img.alt = coverAlt;
+    img.loading = 'lazy';
+    img.decoding = 'async';
+    media.appendChild(img);
+
+    var text = document.createElement('div');
+    text.className = 'rm-tile__text';
+    var h = document.createElement('p');
+    h.className = 'rm-tile__title';
+    h.textContent = title;
+    text.appendChild(h);
+    if (subtitle) {
+      var s = document.createElement('p');
+      s.className = 'rm-tile__sub';
+      s.textContent = subtitle;
+      text.appendChild(s);
+    }
+
+    tile.appendChild(media);
+    tile.appendChild(text);
+    tile.addEventListener('click', function () {
+      lastFocus = tile;
+      openProject(index);
+    });
+    grid.appendChild(tile);
   });
 
   // ---------- Pop-up ----------
   function openProject(index) {
     current = (index + projects.length) % projects.length;
     var project = projects[current];
-
-    panel.style.setProperty('--accent', project.getAttribute('data-accent') || '#cccccc');
-    panel.style.setProperty('--rm-tint', project.getAttribute('data-tint') || '#ffffff');
 
     // Show the project exactly as written in its <article>
     content.innerHTML = project.innerHTML;
@@ -447,8 +449,8 @@ nav_order: 1
 
     var prev = projects[(current - 1 + projects.length) % projects.length];
     var next = projects[(current + 1) % projects.length];
-    prevBtn.querySelector('strong').textContent = prev.querySelector('h2').textContent.trim();
-    nextBtn.querySelector('strong').textContent = next.querySelector('h2').textContent.trim();
+    prevBtn.querySelector('strong').textContent = titleOf(prev);
+    nextBtn.querySelector('strong').textContent = titleOf(next);
 
     if (modal.hidden) {
       modal.hidden = false;
@@ -477,10 +479,10 @@ nav_order: 1
   }
 
   function onKeyDown(e) {
-    if (e.key === 'Escape') { e.preventDefault(); closeModal(); return; }
+    if (e.key === 'Escape')     { e.preventDefault(); closeModal(); return; }
     if (e.key === 'ArrowRight') { e.preventDefault(); openProject(current + 1); return; }
     if (e.key === 'ArrowLeft')  { e.preventDefault(); openProject(current - 1); return; }
-    if (e.key === 'Tab') { trapFocus(e); }
+    if (e.key === 'Tab')        { trapFocus(e); }
   }
 
   // Keep keyboard focus inside the pop-up while it is open
@@ -502,14 +504,13 @@ nav_order: 1
   prevBtn.addEventListener('click', function () { openProject(current - 1); });
   nextBtn.addEventListener('click', function () { openProject(current + 1); });
 
-  // Deep links: /research/#gaia17bpp-and-other-disk-eclipses opens that pop-up directly
+  // Deep links: /research/#disk-eclipses opens that pop-up directly
   function openFromHash() {
     var id = window.location.hash.replace('#', '');
     if (!id) { return; }
     for (var i = 0; i < projects.length; i++) {
       if (projects[i].id === id) {
-        var firstTile = grid.querySelector('.rm-tile[data-project="' + i + '"]');
-        lastFocus = firstTile;
+        lastFocus = grid.querySelector('.rm-tile[data-project="' + i + '"]');
         openProject(i);
         return;
       }
