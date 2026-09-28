@@ -17,6 +17,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello, I'm Dr. Anastasios (Andy) Tzanidakis 👋 
 
-I'm a Postdoctoral [DiRAC](https://dirac.astro.washington.edu/) Fellow and [eScience Institute](https://escience.washington.edu/people/postdoctoral-fellows/) Data-Science Fellow at University of Washington. I was the former director for the [University of Washington Planetarium](https://astro.washington.edu/uw-planetarium). My academic interests include data analysis of large-scale astronomical surveys, and stellar variability to understand planet formation.
+I'm a [DiRAC](https://dirac.astro.washington.edu/) Postdoctoral Fellow and [eScience Institute](https://escience.washington.edu/people/postdoctoral-fellows/) Data Science Fellow at the University of Washington, and former director of the [UW Planetarium](https://astro.washington.edu/uw-planetarium). My research uses stellar variability in large time-domain surveys to understand how planets form.
 
 Please contact me by email: [atzanida@uw.edu](mailto:atzanida@uw.edu).
